@@ -44,16 +44,16 @@ export const parseAltoXML = (xmlContent) => {
 export const loadDocumentData = async (documentId) => {
   try {
     // Load JSON file
-    const jsonResponse = await fetch(`/data/json/${documentId}_ocr_results.json`);
+    const jsonResponse = await fetch(`./data/json/${documentId}_ocr_results.json`);
     const jsonData = await jsonResponse.json();
     
     // Load ALTO XML file
-    const xmlResponse = await fetch(`/data/xml/${documentId}.xml`);
+    const xmlResponse = await fetch(`./data/xml/${documentId}.xml`);
     const xmlContent = await xmlResponse.text();
     const altoData = parseAltoXML(xmlContent);
     
     // Image path
-    const imagePath = `/data/images/${documentId}.jpeg`;
+    const imagePath = `./data/images/${documentId}.jpeg`;
     
     return {
       documentId,

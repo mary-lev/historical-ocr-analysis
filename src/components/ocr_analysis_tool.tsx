@@ -251,7 +251,7 @@ const DatasetOverview = () => {
   useEffect(() => {
     const loadDatasetInfo = async () => {
       try {
-        const response = await fetch('/data/combined_dataset_1000_with_ocr_difficulty.json');
+        const response = await fetch('./data/combined_dataset_1000_with_ocr_difficulty.json');
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
@@ -455,7 +455,7 @@ const DatasetMetricsComparison = () => {
   useEffect(() => {
     const loadErrorData = async () => {
       try {
-        const response = await fetch('/data/common_errors.json');
+        const response = await fetch('./data/common_errors.json');
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
@@ -612,7 +612,7 @@ const CommonErrorsAnalysis = () => {
   useEffect(() => {
     const loadErrorData = async () => {
       try {
-        const response = await fetch('/data/common_errors.json');
+        const response = await fetch('./data/common_errors.json');
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
