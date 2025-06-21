@@ -251,14 +251,20 @@ const DatasetOverview = () => {
   useEffect(() => {
     const loadDatasetInfo = async () => {
       try {
-        const response = await fetch('./data/combined_dataset_1000_with_ocr_difficulty.json');
+        const basePath = import.meta.env.BASE_URL || './';
+        const url = `${basePath}data/combined_dataset_1000_with_ocr_difficulty.json`;
+        console.log('Attempting to load dataset info from:', url);
+        const response = await fetch(url);
+        console.log('Response status:', response.status, 'Response OK:', response.ok);
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
         const jsonData = await response.json();
+        console.log('Successfully loaded dataset info:', jsonData.dataset_info);
         setDatasetInfo(jsonData.dataset_info);
       } catch (error) {
         console.error('Error loading dataset info:', error);
+        console.error('Error details:', error.message);
       } finally {
         setLoading(false);
       }
@@ -455,7 +461,9 @@ const DatasetMetricsComparison = () => {
   useEffect(() => {
     const loadErrorData = async () => {
       try {
-        const response = await fetch('./data/common_errors.json');
+        const basePath = import.meta.env.BASE_URL || './';
+        const url = `${basePath}data/common_errors.json`;
+        const response = await fetch(url);
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
@@ -612,7 +620,9 @@ const CommonErrorsAnalysis = () => {
   useEffect(() => {
     const loadErrorData = async () => {
       try {
-        const response = await fetch('./data/common_errors.json');
+        const basePath = import.meta.env.BASE_URL || './';
+        const url = `${basePath}data/common_errors.json`;
+        const response = await fetch(url);
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }

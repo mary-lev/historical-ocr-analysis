@@ -43,17 +43,19 @@ export const parseAltoXML = (xmlContent) => {
  */
 export const loadDocumentData = async (documentId) => {
   try {
+    const basePath = import.meta.env.BASE_URL || './';
+    
     // Load JSON file
-    const jsonResponse = await fetch(`./data/json/${documentId}_ocr_results.json`);
+    const jsonResponse = await fetch(`${basePath}data/json/${documentId}_ocr_results.json`);
     const jsonData = await jsonResponse.json();
     
     // Load ALTO XML file
-    const xmlResponse = await fetch(`./data/xml/${documentId}.xml`);
+    const xmlResponse = await fetch(`${basePath}data/xml/${documentId}.xml`);
     const xmlContent = await xmlResponse.text();
     const altoData = parseAltoXML(xmlContent);
     
     // Image path
-    const imagePath = `./data/images/${documentId}.jpeg`;
+    const imagePath = `${basePath}data/images/${documentId}.jpeg`;
     
     return {
       documentId,
