@@ -1,0 +1,854 @@
+Total files processed: 98
+Ground truth inventory contains 139 unique characters
+
+===== MODEL PERFORMANCE SUMMARY =====
+
+Model: gemini-2.5-pro-preview-05-06
+  avg_character_accuracy: 0.9664
+  file_count: 98
+  avg_word_accuracy: 0.9531
+  avg_old_char_preservation: 0.9017
+  avg_case_accuracy: 0.9550
+
+Model: gemini-2.5-flash-preview-04-17
+  avg_character_accuracy: 0.9506
+  file_count: 98
+  avg_word_accuracy: 0.9330
+  avg_old_char_preservation: 0.8714
+  avg_case_accuracy: 0.9518
+
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+  avg_character_accuracy: 0.9419
+  file_count: 98
+  avg_word_accuracy: 0.9252
+  avg_old_char_preservation: 0.8360
+  avg_case_accuracy: 0.9541
+
+Model: gemini-2.0-flash
+  avg_character_accuracy: 0.9386
+  file_count: 98
+  avg_word_accuracy: 0.8967
+  avg_old_char_preservation: 0.6800
+  avg_case_accuracy: 0.9546
+
+Model: claude-3-5-sonnet-20241022
+  avg_character_accuracy: 0.9321
+  file_count: 98
+  avg_word_accuracy: 0.9154
+  avg_old_char_preservation: 0.8476
+  avg_case_accuracy: 0.9494
+
+Model: o3-2025-04-16
+  avg_character_accuracy: 0.9321
+  file_count: 98
+  avg_word_accuracy: 0.9113
+  avg_old_char_preservation: 0.8443
+  avg_case_accuracy: 0.9543
+
+Model: o4-mini-2025-04-16
+  avg_character_accuracy: 0.9313
+  file_count: 98
+  avg_word_accuracy: 0.9093
+  avg_old_char_preservation: 0.8162
+  avg_case_accuracy: 0.9599
+
+Model: claude-3-7-sonnet-20250219
+  avg_character_accuracy: 0.9268
+  file_count: 98
+  avg_word_accuracy: 0.9053
+  avg_old_char_preservation: 0.8471
+  avg_case_accuracy: 0.9462
+
+Model: gpt-4.1-2025-04-14
+  avg_character_accuracy: 0.9210
+  file_count: 98
+  avg_word_accuracy: 0.9024
+  avg_old_char_preservation: 0.8306
+  avg_case_accuracy: 0.9607
+
+Model: meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8
+  avg_character_accuracy: 0.9171
+  file_count: 98
+  avg_word_accuracy: 0.8813
+  avg_old_char_preservation: 0.7767
+  avg_case_accuracy: 0.9551
+
+Model: gpt-4o-2024-08-06
+  avg_character_accuracy: 0.9077
+  file_count: 98
+  avg_word_accuracy: 0.8634
+  avg_old_char_preservation: 0.7930
+  avg_case_accuracy: 0.9578
+
+Model: meta-llama/Llama-4-Scout-17B-16E-Instruct
+  avg_character_accuracy: 0.8406
+  file_count: 98
+  avg_word_accuracy: 0.7949
+  avg_old_char_preservation: 0.5777
+  avg_case_accuracy: 0.9456
+
+
+===== ERRORS BY MODEL =====
+
+Model: gemini-2.5-pro-preview-05-06
+  Total case errors: 2749
+  Average case errors per file: 28.05
+
+  Foreign Character Statistics:
+    Total foreign character insertions: 85
+    Files affected by foreign chars: 23 (23.47%)
+
+    Top foreign characters (not in ground truth):
+      '̆' (COMBINING BREVE, Unicode U+0306) - inserted 32 times
+      '́' (COMBINING ACUTE ACCENT, Unicode U+0301) - inserted 8 times
+      '❧' (ROTATED FLORAL HEART BULLET, Unicode U+2767) - inserted 6 times
+      '{' (LEFT CURLY BRACKET, Unicode U+007B) - inserted 3 times
+      '}' (RIGHT CURLY BRACKET, Unicode U+007D) - inserted 3 times
+      '𝔈' (MATHEMATICAL FRAKTUR CAPITAL E, Unicode U+1D508) - inserted 2 times
+      '⚜' (FLEUR-DE-LIS, Unicode U+269C) - inserted 2 times
+      'D' (LATIN CAPITAL LETTER D, Unicode U+0044) - inserted 2 times
+      '🌿' (HERB, Unicode U+1F33F) - inserted 2 times
+      '$' (DOLLAR SIGN, Unicode U+0024) - inserted 2 times
+      'k' (LATIN SMALL LETTER K, Unicode U+006B) - inserted 2 times
+      '✾' (SIX PETALLED BLACK AND WHITE FLORETTE, Unicode U+273E) - inserted 2 times
+      'Ї' (CYRILLIC CAPITAL LETTER YI, Unicode U+0407) - inserted 1 times
+      '“' (LEFT DOUBLE QUOTATION MARK, Unicode U+201C) - inserted 1 times
+      '𝔖' (MATHEMATICAL FRAKTUR CAPITAL S, Unicode U+1D516) - inserted 1 times
+
+    Sample contexts for foreign characters:
+      '́' (COMBINING ACUTE ACCENT) in context: ...оначе́рта-
+...
+      '́' (COMBINING ACUTE ACCENT) in context: ...оначе́рта-
+...
+      '́' (COMBINING ACUTE ACCENT) in context: ...оначе́рта-
+...
+      'Ї' (CYRILLIC CAPITAL LETTER YI) in context: ...ПОМОЩЇЮ
+НЕВ...
+      '̆' (COMBINING BREVE) in context: ... свойствъ
+...
+
+  Top 15 Character Errors:
+    'ї->і' occurs 340 times (avg 3.47 per file)
+    'т->ш' occurs 90 times (avg 0.92 per file)
+    'ъ->ь' occurs 18 times (avg 0.18 per file)
+    'ї->i' occurs 18 times (avg 0.18 per file)
+    'й->й' occurs 17 times (avg 0.17 per file)
+    'ь->ъ' occurs 16 times (avg 0.16 per file)
+    'ъ->Ъ' occurs 16 times (avg 0.16 per file)
+    ',->;' occurs 13 times (avg 0.13 per file)
+    '-->—' occurs 10 times (avg 0.10 per file)
+    'І->I' occurs 6 times (avg 0.06 per file)
+    'е->ѣ' occurs 6 times (avg 0.06 per file)
+    'ъ->ѣ' occurs 5 times (avg 0.05 per file)
+    'т->ѳ' occurs 5 times (avg 0.05 per file)
+    'ІІІ->III' occurs 5 times (avg 0.05 per file)
+    'т->п' occurs 4 times (avg 0.04 per file)
+
+  Top Old Character Error Patterns:
+    'ї->∅' occurs 403 times (avg 4.11 per file)
+    'ъ->ъ' occurs 95 times (avg 0.97 per file)
+    'ѣ->ѣ' occurs 67 times (avg 0.68 per file)
+    'ь->ъ' occurs 65 times (avg 0.66 per file)
+    'ѣ->ъ' occurs 61 times (avg 0.62 per file)
+    'ъ->ь' occurs 56 times (avg 0.57 per file)
+    'ъ->ѣ' occurs 54 times (avg 0.55 per file)
+    'ї->ъ' occurs 52 times (avg 0.53 per file)
+    'ъ->∅' occurs 41 times (avg 0.42 per file)
+    'ї->ѣ' occurs 36 times (avg 0.37 per file)
+--------------------------------------------------
+
+Model: gemini-2.5-flash-preview-04-17
+  Total case errors: 3032
+  Average case errors per file: 30.94
+
+  Foreign Character Statistics:
+    Total foreign character insertions: 228
+    Files affected by foreign chars: 39 (39.80%)
+
+    Top foreign characters (not in ground truth):
+      'Ђ' (CYRILLIC CAPITAL LETTER DJE, Unicode U+0402) - inserted 79 times
+      'є' (CYRILLIC SMALL LETTER UKRAINIAN IE, Unicode U+0454) - inserted 41 times
+      'ѧ' (CYRILLIC SMALL LETTER LITTLE YUS, Unicode U+0467) - inserted 32 times
+      'á' (LATIN SMALL LETTER A WITH ACUTE, Unicode U+00E1) - inserted 6 times
+      'ï' (LATIN SMALL LETTER I WITH DIAERESIS, Unicode U+00EF) - inserted 4 times
+      'é' (LATIN SMALL LETTER E WITH ACUTE, Unicode U+00E9) - inserted 3 times
+      '&' (AMPERSAND, Unicode U+0026) - inserted 3 times
+      '>' (GREATER-THAN SIGN, Unicode U+003E) - inserted 3 times
+      'ѥ' (CYRILLIC SMALL LETTER IOTIFIED E, Unicode U+0465) - inserted 3 times
+      '҃' (COMBINING CYRILLIC TITLO, Unicode U+0483) - inserted 3 times
+      '✳' (EIGHT SPOKED ASTERISK, Unicode U+2733) - inserted 2 times
+      '{' (LEFT CURLY BRACKET, Unicode U+007B) - inserted 2 times
+      '}' (RIGHT CURLY BRACKET, Unicode U+007D) - inserted 2 times
+      'қ' (CYRILLIC SMALL LETTER KA WITH DESCENDER, Unicode U+049B) - inserted 2 times
+      '¹' (SUPERSCRIPT ONE, Unicode U+00B9) - inserted 2 times
+
+    Sample contexts for foreign characters:
+      '✳' (EIGHT SPOKED ASTERISK) in context: ...(✳ 14 ✳...
+      '✳' (EIGHT SPOKED ASTERISK) in context: ...(✳ 14 ✳...
+      'Ђ' (CYRILLIC CAPITAL LETTER DJE) in context: ...е измЂрЂніи...
+      'Ђ' (CYRILLIC CAPITAL LETTER DJE) in context: ...е измЂрЂніи...
+      'Ђ' (CYRILLIC CAPITAL LETTER DJE) in context: ...е измЂрЂніи...
+
+  Top 15 Character Errors:
+    'ї->і' occurs 355 times (avg 3.62 per file)
+    'т->ш' occurs 103 times (avg 1.05 per file)
+    'ь->ъ' occurs 32 times (avg 0.33 per file)
+    'ъ->b' occurs 27 times (avg 0.28 per file)
+    'ъ->ь' occurs 26 times (avg 0.27 per file)
+    'е->є' occurs 16 times (avg 0.16 per file)
+    'ъ->Ъ' occurs 16 times (avg 0.16 per file)
+    'ъ->ѣ' occurs 14 times (avg 0.14 per file)
+    'я->ѧ' occurs 13 times (avg 0.13 per file)
+    'т->п' occurs 10 times (avg 0.10 per file)
+    '„->,, ' occurs 9 times (avg 0.09 per file)
+    '-->—' occurs 9 times (avg 0.09 per file)
+    'ѣ->Ђ' occurs 8 times (avg 0.08 per file)
+    'т->м' occurs 7 times (avg 0.07 per file)
+    'и->й' occurs 6 times (avg 0.06 per file)
+
+  Top Old Character Error Patterns:
+    'ї->∅' occurs 453 times (avg 4.62 per file)
+    'ъ->ъ' occurs 138 times (avg 1.41 per file)
+    'ъ->ь' occurs 104 times (avg 1.06 per file)
+    'ъ->∅' occurs 98 times (avg 1.00 per file)
+    'ь->ъ' occurs 98 times (avg 1.00 per file)
+    'ъ->ѣ' occurs 88 times (avg 0.90 per file)
+    'ѣ->ѣ' occurs 75 times (avg 0.77 per file)
+    'ѣ->ъ' occurs 73 times (avg 0.74 per file)
+    'ѣ->∅' occurs 65 times (avg 0.66 per file)
+    'ь->ь' occurs 58 times (avg 0.59 per file)
+--------------------------------------------------
+
+Model: Qwen/Qwen2.5-VL-72B-Instruct
+  Total case errors: 2930
+  Average case errors per file: 29.90
+
+  Foreign Character Statistics:
+    Total foreign character insertions: 62
+    Files affected by foreign chars: 10 (10.20%)
+
+    Top foreign characters (not in ground truth):
+      '}' (RIGHT CURLY BRACKET, Unicode U+007D) - inserted 22 times
+      '{' (LEFT CURLY BRACKET, Unicode U+007B) - inserted 22 times
+      'δ' (GREEK SMALL LETTER DELTA, Unicode U+03B4) - inserted 3 times
+      '`' (GRAVE ACCENT, Unicode U+0060) - inserted 3 times
+      '∗' (ASTERISK OPERATOR, Unicode U+2217) - inserted 2 times
+      'D' (LATIN CAPITAL LETTER D, Unicode U+0044) - inserted 2 times
+      'є' (CYRILLIC SMALL LETTER UKRAINIAN IE, Unicode U+0454) - inserted 2 times
+      '=' (EQUALS SIGN, Unicode U+003D) - inserted 1 times
+      'F' (LATIN CAPITAL LETTER F, Unicode U+0046) - inserted 1 times
+      'j' (LATIN SMALL LETTER J, Unicode U+006A) - inserted 1 times
+      'Ѵ' (CYRILLIC CAPITAL LETTER IZHITSA, Unicode U+0474) - inserted 1 times
+      '°' (DEGREE SIGN, Unicode U+00B0) - inserted 1 times
+      'ё' (CYRILLIC SMALL LETTER IO, Unicode U+0451) - inserted 1 times
+
+    Sample contexts for foreign characters:
+      '∗' (ASTERISK OPERATOR) in context: ...(∗ 14 ∗...
+      '∗' (ASTERISK OPERATOR) in context: ...(∗ 14 ∗...
+      'δ' (GREEK SMALL LETTER DELTA) in context: ... чай δ. 17 ...
+      'δ' (GREEK SMALL LETTER DELTA) in context: ... чай δ. 17 ...
+      'δ' (GREEK SMALL LETTER DELTA) in context: ... чай δ. 17 ...
+
+  Top 15 Character Errors:
+    'ї->і' occurs 345 times (avg 3.52 per file)
+    'т->п' occurs 74 times (avg 0.76 per file)
+    'ъ->ь' occurs 52 times (avg 0.53 per file)
+    'т->ш' occurs 39 times (avg 0.40 per file)
+    '
+-> ' occurs 36 times (avg 0.37 per file)
+    'тъ->шь' occurs 19 times (avg 0.19 per file)
+    'т->м' occurs 16 times (avg 0.16 per file)
+    'ѣ->е' occurs 10 times (avg 0.10 per file)
+    'ь->ъ' occurs 10 times (avg 0.10 per file)
+    '-->—' occurs 8 times (avg 0.08 per file)
+    '-->.' occurs 8 times (avg 0.08 per file)
+    'в->п' occurs 7 times (avg 0.07 per file)
+    'ї->и' occurs 7 times (avg 0.07 per file)
+    'ъ->Ъ' occurs 7 times (avg 0.07 per file)
+    'и->й' occurs 6 times (avg 0.06 per file)
+
+  Top Old Character Error Patterns:
+    'ї->∅' occurs 468 times (avg 4.78 per file)
+    'ъ->ь' occurs 171 times (avg 1.74 per file)
+    'ъ->ъ' occurs 138 times (avg 1.41 per file)
+    'ъ->ѣ' occurs 93 times (avg 0.95 per file)
+    'ѣ->ѣ' occurs 89 times (avg 0.91 per file)
+    'ї->ъ' occurs 83 times (avg 0.85 per file)
+    'ѣ->ъ' occurs 77 times (avg 0.79 per file)
+    'ї->ѣ' occurs 70 times (avg 0.71 per file)
+    'ѣ->∅' occurs 68 times (avg 0.69 per file)
+    'ъ->∅' occurs 59 times (avg 0.60 per file)
+--------------------------------------------------
+
+Model: gemini-2.0-flash
+  Total case errors: 3042
+  Average case errors per file: 31.04
+
+  Foreign Character Statistics:
+    Total foreign character insertions: 100
+    Files affected by foreign chars: 41 (41.84%)
+
+    Top foreign characters (not in ground truth):
+      'Ђ' (CYRILLIC CAPITAL LETTER DJE, Unicode U+0402) - inserted 8 times
+      'ћ' (CYRILLIC SMALL LETTER TSHE, Unicode U+045B) - inserted 5 times
+      '•' (BULLET, Unicode U+2022) - inserted 5 times
+      'ђ' (CYRILLIC SMALL LETTER DJE, Unicode U+0452) - inserted 5 times
+      'و' (ARABIC LETTER WAW, Unicode U+0648) - inserted 4 times
+      '«' (LEFT-POINTING DOUBLE ANGLE QUOTATION MARK, Unicode U+00AB) - inserted 4 times
+      'Π' (GREEK CAPITAL LETTER PI, Unicode U+03A0) - inserted 4 times
+      'y' (LATIN SMALL LETTER Y, Unicode U+0079) - inserted 3 times
+      'D' (LATIN CAPITAL LETTER D, Unicode U+0044) - inserted 3 times
+      'F' (LATIN CAPITAL LETTER F, Unicode U+0046) - inserted 3 times
+      'ө' (CYRILLIC SMALL LETTER BARRED O, Unicode U+04E9) - inserted 3 times
+      'Ѕ' (CYRILLIC CAPITAL LETTER DZE, Unicode U+0405) - inserted 3 times
+      'x' (LATIN SMALL LETTER X, Unicode U+0078) - inserted 2 times
+      'T' (LATIN CAPITAL LETTER T, Unicode U+0054) - inserted 2 times
+      'є' (CYRILLIC SMALL LETTER UKRAINIAN IE, Unicode U+0454) - inserted 2 times
+
+    Sample contexts for foreign characters:
+      'Ђ' (CYRILLIC CAPITAL LETTER DJE) in context: ...у и мЂрять ...
+      'Ђ' (CYRILLIC CAPITAL LETTER DJE) in context: ...у и мЂрять ...
+      'ћ' (CYRILLIC SMALL LETTER TSHE) in context: ...епорцћи тѣх...
+      'Ђ' (CYRILLIC CAPITAL LETTER DJE) in context: ...у и мЂрять ...
+      'Ђ' (CYRILLIC CAPITAL LETTER DJE) in context: ...у и мЂрять ...
+
+  Top 15 Character Errors:
+    'ъ->ь' occurs 461 times (avg 4.70 per file)
+    'ї->і' occurs 170 times (avg 1.73 per file)
+    'т->ш' occurs 57 times (avg 0.58 per file)
+    'тъ->шь' occurs 22 times (avg 0.22 per file)
+    'ї->и' occurs 19 times (avg 0.19 per file)
+    'т->п' occurs 16 times (avg 0.16 per file)
+    'ї->т' occurs 16 times (avg 0.16 per file)
+    'и->й' occurs 8 times (avg 0.08 per file)
+    'е->с' occurs 7 times (avg 0.07 per file)
+    'ъ въ->ь вь' occurs 7 times (avg 0.07 per file)
+    'ь->ъ' occurs 6 times (avg 0.06 per file)
+    'ѣ->ь' occurs 6 times (avg 0.06 per file)
+    'ъ->ы' occurs 5 times (avg 0.05 per file)
+    '-->—' occurs 5 times (avg 0.05 per file)
+    'ъ ->ь' occurs 4 times (avg 0.04 per file)
+
+  Top Old Character Error Patterns:
+    'ъ->ь' occurs 923 times (avg 9.42 per file)
+    'ї->∅' occurs 297 times (avg 3.03 per file)
+    'ѣ->ь' occurs 167 times (avg 1.70 per file)
+    'ъ->ѣ' occurs 144 times (avg 1.47 per file)
+    'ї->ь' occurs 140 times (avg 1.43 per file)
+    'ъ->ъ' occurs 139 times (avg 1.42 per file)
+    'ѣ->ѣ' occurs 133 times (avg 1.36 per file)
+    'ь->ь' occurs 126 times (avg 1.29 per file)
+    'ъ->∅' occurs 88 times (avg 0.90 per file)
+    'ѣ->ъ' occurs 76 times (avg 0.78 per file)
+--------------------------------------------------
+
+Model: claude-3-5-sonnet-20241022
+  Total case errors: 2966
+  Average case errors per file: 30.27
+
+  Foreign Character Statistics:
+    Total foreign character insertions: 68
+    Files affected by foreign chars: 13 (13.27%)
+
+    Top foreign characters (not in ground truth):
+      'ï' (LATIN SMALL LETTER I WITH DIAERESIS, Unicode U+00EF) - inserted 33 times
+      'Ђ' (CYRILLIC CAPITAL LETTER DJE, Unicode U+0402) - inserted 20 times
+      '❋' (HEAVY EIGHT TEARDROP-SPOKED PROPELLER ASTERISK, Unicode U+274B) - inserted 2 times
+      'D' (LATIN CAPITAL LETTER D, Unicode U+0044) - inserted 2 times
+      '✣' (FOUR BALLOON-SPOKED ASTERISK, Unicode U+2723) - inserted 2 times
+      '⁂' (ASTERISM, Unicode U+2042) - inserted 2 times
+      'Ї' (CYRILLIC CAPITAL LETTER YI, Unicode U+0407) - inserted 2 times
+      'ó' (LATIN SMALL LETTER O WITH ACUTE, Unicode U+00F3) - inserted 1 times
+      '=' (EQUALS SIGN, Unicode U+003D) - inserted 1 times
+      'F' (LATIN CAPITAL LETTER F, Unicode U+0046) - inserted 1 times
+      'z' (LATIN SMALL LETTER Z, Unicode U+007A) - inserted 1 times
+      '}' (RIGHT CURLY BRACKET, Unicode U+007D) - inserted 1 times
+
+    Sample contexts for foreign characters:
+      '❋' (HEAVY EIGHT TEARDROP-SPOKED PROPELLER ASTERISK) in context: ...❋ 76 ❋...
+      '❋' (HEAVY EIGHT TEARDROP-SPOKED PROPELLER ASTERISK) in context: ...❋ 76 ❋...
+      'ó' (LATIN SMALL LETTER O WITH ACUTE) in context: ... по бóльшей...
+      'ï' (LATIN SMALL LETTER I WITH DIAERESIS) in context: ...авненïе Рим...
+      'ï' (LATIN SMALL LETTER I WITH DIAERESIS) in context: ...авненïе Рим...
+
+  Top 15 Character Errors:
+    'ъ->Ъ' occurs 299 times (avg 3.05 per file)
+    'ї->і' occurs 255 times (avg 2.60 per file)
+    'ъ->ѣ' occurs 41 times (avg 0.42 per file)
+    'ь->ъ' occurs 29 times (avg 0.30 per file)
+    'ѣ->Ъ' occurs 21 times (avg 0.21 per file)
+    'ї->i' occurs 16 times (avg 0.16 per file)
+    'і->ï' occurs 16 times (avg 0.16 per file)
+    'т->ш' occurs 12 times (avg 0.12 per file)
+    'ъ въ->Ъ вЪ' occurs 12 times (avg 0.12 per file)
+    '-->—' occurs 10 times (avg 0.10 per file)
+    'ѣ->Ѣ' occurs 10 times (avg 0.10 per file)
+    'ї->ï' occurs 10 times (avg 0.10 per file)
+    'ѣ->Ђ' occurs 7 times (avg 0.07 per file)
+    'ъ->ь' occurs 6 times (avg 0.06 per file)
+    'ь->Ъ' occurs 6 times (avg 0.06 per file)
+
+  Top Old Character Error Patterns:
+    'ъ->∅' occurs 473 times (avg 4.83 per file)
+    'ї->∅' occurs 333 times (avg 3.40 per file)
+    'ъ->ѣ' occurs 121 times (avg 1.23 per file)
+    'ѣ->∅' occurs 90 times (avg 0.92 per file)
+    'ь->ъ' occurs 63 times (avg 0.64 per file)
+    'ѣ->ѣ' occurs 62 times (avg 0.63 per file)
+    'ъ->ъ' occurs 60 times (avg 0.61 per file)
+    'ъ->ь' occurs 55 times (avg 0.56 per file)
+    'ї->ъ' occurs 44 times (avg 0.45 per file)
+    'ї->ѣ' occurs 42 times (avg 0.43 per file)
+--------------------------------------------------
+
+Model: o3-2025-04-16
+  Total case errors: 2836
+  Average case errors per file: 28.94
+
+  Foreign Character Statistics:
+    Total foreign character insertions: 160
+    Files affected by foreign chars: 41 (41.84%)
+
+    Top foreign characters (not in ground truth):
+      '―' (HORIZONTAL BAR, Unicode U+2015) - inserted 34 times
+      'ё' (CYRILLIC SMALL LETTER IO, Unicode U+0451) - inserted 32 times
+      '­' (SOFT HYPHEN, Unicode U+00AD) - inserted 28 times
+      '_' (LOW LINE, Unicode U+005F) - inserted 16 times
+      'ѧ' (CYRILLIC SMALL LETTER LITTLE YUS, Unicode U+0467) - inserted 7 times
+      'є' (CYRILLIC SMALL LETTER UKRAINIAN IE, Unicode U+0454) - inserted 7 times
+      'ѵ' (CYRILLIC SMALL LETTER IZHITSA, Unicode U+0475) - inserted 3 times
+      '⁂' (ASTERISM, Unicode U+2042) - inserted 2 times
+      '∫' (INTEGRAL, Unicode U+222B) - inserted 2 times
+      '✽' (HEAVY TEARDROP-SPOKED ASTERISK, Unicode U+273D) - inserted 2 times
+      'D' (LATIN CAPITAL LETTER D, Unicode U+0044) - inserted 2 times
+      'ѝ' (CYRILLIC SMALL LETTER I WITH GRAVE, Unicode U+045D) - inserted 2 times
+      '҂' (CYRILLIC THOUSANDS SIGN, Unicode U+0482) - inserted 2 times
+      '⚹' (SEXTILE, Unicode U+26B9) - inserted 2 times
+      '✣' (FOUR BALLOON-SPOKED ASTERISK, Unicode U+2723) - inserted 2 times
+
+    Sample contexts for foreign characters:
+      'ё' (CYRILLIC SMALL LETTER IO) in context: ...пражнёнъ ра...
+      'ё' (CYRILLIC SMALL LETTER IO) in context: ...пражнёнъ ра...
+      'ё' (CYRILLIC SMALL LETTER IO) in context: ...пражнёнъ ра...
+      'ё' (CYRILLIC SMALL LETTER IO) in context: ...пражнёнъ ра...
+      '_' (LOW LINE) in context: ...Одни
+______...
+
+  Top 15 Character Errors:
+    'ї->і' occurs 141 times (avg 1.44 per file)
+    'ї->i' occurs 68 times (avg 0.69 per file)
+    'ъ->ь' occurs 35 times (avg 0.36 per file)
+    ' ->
+' occurs 29 times (avg 0.30 per file)
+    'е->ѣ' occurs 24 times (avg 0.24 per file)
+    '
+-> ' occurs 23 times (avg 0.23 per file)
+    'ї->и' occurs 13 times (avg 0.13 per file)
+    'т->п' occurs 12 times (avg 0.12 per file)
+    'з->с' occurs 12 times (avg 0.12 per file)
+    'ь->ъ' occurs 12 times (avg 0.12 per file)
+    'а->о' occurs 11 times (avg 0.11 per file)
+    'е->ё' occurs 9 times (avg 0.09 per file)
+    '-->—' occurs 9 times (avg 0.09 per file)
+    'е->я' occurs 9 times (avg 0.09 per file)
+    'ѣ->е' occurs 9 times (avg 0.09 per file)
+
+  Top Old Character Error Patterns:
+    'ъ->ъ' occurs 262 times (avg 2.67 per file)
+    'ї->∅' occurs 253 times (avg 2.58 per file)
+    'ѣ->ъ' occurs 176 times (avg 1.80 per file)
+    'ъ->ь' occurs 176 times (avg 1.80 per file)
+    'ѣ->ѣ' occurs 145 times (avg 1.48 per file)
+    'ъ->ѣ' occurs 140 times (avg 1.43 per file)
+    'ї->i' occurs 128 times (avg 1.31 per file)
+    'ь->ъ' occurs 124 times (avg 1.27 per file)
+    'ї->ъ' occurs 116 times (avg 1.18 per file)
+    'ѣ->ь' occurs 92 times (avg 0.94 per file)
+--------------------------------------------------
+
+Model: o4-mini-2025-04-16
+  Total case errors: 2559
+  Average case errors per file: 26.11
+
+  Foreign Character Statistics:
+    Total foreign character insertions: 208
+    Files affected by foreign chars: 59 (60.20%)
+
+    Top foreign characters (not in ground truth):
+      '­' (SOFT HYPHEN, Unicode U+00AD) - inserted 77 times
+      'ё' (CYRILLIC SMALL LETTER IO, Unicode U+0451) - inserted 18 times
+      'ѧ' (CYRILLIC SMALL LETTER LITTLE YUS, Unicode U+0467) - inserted 16 times
+      '̆' (COMBINING BREVE, Unicode U+0306) - inserted 9 times
+      'ѭ' (CYRILLIC SMALL LETTER IOTIFIED BIG YUS, Unicode U+046D) - inserted 9 times
+      '☙' (REVERSED ROTATED FLORAL HEART BULLET, Unicode U+2619) - inserted 8 times
+      '❦' (FLORAL HEART, Unicode U+2766) - inserted 8 times
+      'ó' (LATIN SMALL LETTER O WITH ACUTE, Unicode U+00F3) - inserted 5 times
+      '́' (COMBINING ACUTE ACCENT, Unicode U+0301) - inserted 4 times
+      '✠' (MALTESE CROSS, Unicode U+2720) - inserted 4 times
+      'ґ' (CYRILLIC SMALL LETTER GHE WITH UPTURN, Unicode U+0491) - inserted 3 times
+      '❧' (ROTATED FLORAL HEART BULLET, Unicode U+2767) - inserted 3 times
+      'ѝ' (CYRILLIC SMALL LETTER I WITH GRAVE, Unicode U+045D) - inserted 3 times
+      'ѥ' (CYRILLIC SMALL LETTER IOTIFIED E, Unicode U+0465) - inserted 3 times
+      '❀' (WHITE FLORETTE, Unicode U+2740) - inserted 2 times
+
+    Sample contexts for foreign characters:
+      'ѧ' (CYRILLIC SMALL LETTER LITTLE YUS) in context: ...ую имѧю пам...
+      'ѧ' (CYRILLIC SMALL LETTER LITTLE YUS) in context: ...добисѧ. А я...
+      'ё' (CYRILLIC SMALL LETTER IO) in context: ...нь трёхъ ар...
+      'ё' (CYRILLIC SMALL LETTER IO) in context: ...имъ шёлъ....
+      '́' (COMBINING ACUTE ACCENT) in context: ...лъ ли́бъ он...
+
+  Top 15 Character Errors:
+    'ї->і' occurs 165 times (avg 1.68 per file)
+    ' ->
+' occurs 54 times (avg 0.55 per file)
+    '
+-> ' occurs 54 times (avg 0.55 per file)
+    'ъ->ь' occurs 50 times (avg 0.51 per file)
+    'ѣ->е' occurs 34 times (avg 0.35 per file)
+    'ї->i' occurs 27 times (avg 0.28 per file)
+    'ї->и' occurs 21 times (avg 0.21 per file)
+    '-->­' occurs 17 times (avg 0.17 per file)
+    'а->о' occurs 16 times (avg 0.16 per file)
+    'І->I' occurs 15 times (avg 0.15 per file)
+    'и->і' occurs 14 times (avg 0.14 per file)
+    'т->п' occurs 14 times (avg 0.14 per file)
+    'ь->ъ' occurs 11 times (avg 0.11 per file)
+    'е->ѣ' occurs 11 times (avg 0.11 per file)
+    'е->я' occurs 10 times (avg 0.10 per file)
+
+  Top Old Character Error Patterns:
+    'ї->∅' occurs 288 times (avg 2.94 per file)
+    'ъ->ъ' occurs 257 times (avg 2.62 per file)
+    'ъ->ь' occurs 225 times (avg 2.30 per file)
+    'ѣ->ъ' occurs 151 times (avg 1.54 per file)
+    'ѣ->ѣ' occurs 136 times (avg 1.39 per file)
+    'ъ->ѣ' occurs 134 times (avg 1.37 per file)
+    'ѣ->ь' occurs 129 times (avg 1.32 per file)
+    'ь->ъ' occurs 127 times (avg 1.30 per file)
+    'ѣ->∅' occurs 119 times (avg 1.21 per file)
+    'ї->ъ' occurs 112 times (avg 1.14 per file)
+--------------------------------------------------
+
+Model: claude-3-7-sonnet-20250219
+  Total case errors: 3157
+  Average case errors per file: 32.21
+
+  Foreign Character Statistics:
+    Total foreign character insertions: 46
+    Files affected by foreign chars: 17 (17.35%)
+
+    Top foreign characters (not in ground truth):
+      'ï' (LATIN SMALL LETTER I WITH DIAERESIS, Unicode U+00EF) - inserted 5 times
+      'Ї' (CYRILLIC CAPITAL LETTER YI, Unicode U+0407) - inserted 4 times
+      '́' (COMBINING ACUTE ACCENT, Unicode U+0301) - inserted 3 times
+      '※' (REFERENCE MARK, Unicode U+203B) - inserted 3 times
+      '◊' (LOZENGE, Unicode U+25CA) - inserted 2 times
+      'D' (LATIN CAPITAL LETTER D, Unicode U+0044) - inserted 2 times
+      '✣' (FOUR BALLOON-SPOKED ASTERISK, Unicode U+2723) - inserted 2 times
+      '≋' (TRIPLE TILDE, Unicode U+224B) - inserted 2 times
+      '•' (BULLET, Unicode U+2022) - inserted 2 times
+      '⚜' (FLEUR-DE-LIS, Unicode U+269C) - inserted 2 times
+      '●' (BLACK CIRCLE, Unicode U+25CF) - inserted 2 times
+      '✳' (EIGHT SPOKED ASTERISK, Unicode U+2733) - inserted 2 times
+      'ó' (LATIN SMALL LETTER O WITH ACUTE, Unicode U+00F3) - inserted 1 times
+      'é' (LATIN SMALL LETTER E WITH ACUTE, Unicode U+00E9) - inserted 1 times
+      '«' (LEFT-POINTING DOUBLE ANGLE QUOTATION MARK, Unicode U+00AB) - inserted 1 times
+
+    Sample contexts for foreign characters:
+      '◊' (LOZENGE) in context: ...24
+◊S )( ...
+      '◊' (LOZENGE) in context: ...24
+◊S )( ...
+      'ó' (LATIN SMALL LETTER O WITH ACUTE) in context: ... по бóльшей...
+      'é' (LATIN SMALL LETTER E WITH ACUTE) in context: ...да ужé увид...
+      '«' (LEFT-POINTING DOUBLE ANGLE QUOTATION MARK) in context: ...« 184 ...
+
+  Top 15 Character Errors:
+    'ї->і' occurs 318 times (avg 3.24 per file)
+    'ъ->Ъ' occurs 227 times (avg 2.32 per file)
+    'ъ->ѣ' occurs 66 times (avg 0.67 per file)
+    'ѣ->Ѣ' occurs 37 times (avg 0.38 per file)
+    'ь->ъ' occurs 19 times (avg 0.19 per file)
+    'т->ш' occurs 15 times (avg 0.15 per file)
+    'ѣ->Ъ' occurs 15 times (avg 0.15 per file)
+    'ї->i' occurs 14 times (avg 0.14 per file)
+    '-->—' occurs 9 times (avg 0.09 per file)
+    'ъ въ->Ъ вЪ' occurs 9 times (avg 0.09 per file)
+    'ть->шъ' occurs 7 times (avg 0.07 per file)
+    ',->;' occurs 7 times (avg 0.07 per file)
+    'и->й' occurs 6 times (avg 0.06 per file)
+    'ъ->ь' occurs 6 times (avg 0.06 per file)
+    'е->ѣ' occurs 5 times (avg 0.05 per file)
+
+  Top Old Character Error Patterns:
+    'ъ->∅' occurs 391 times (avg 3.99 per file)
+    'ї->∅' occurs 387 times (avg 3.95 per file)
+    'ъ->ѣ' occurs 167 times (avg 1.70 per file)
+    'ѣ->Ѣ' occurs 91 times (avg 0.93 per file)
+    'ѣ->ѣ' occurs 68 times (avg 0.69 per file)
+    'ъ->ь' occurs 67 times (avg 0.68 per file)
+    'ѣ->∅' occurs 65 times (avg 0.66 per file)
+    'ь->ь' occurs 53 times (avg 0.54 per file)
+    'ъ->ъ' occurs 47 times (avg 0.48 per file)
+    'ї->ѣ' occurs 45 times (avg 0.46 per file)
+--------------------------------------------------
+
+Model: gpt-4.1-2025-04-14
+  Total case errors: 2532
+  Average case errors per file: 25.84
+
+  Foreign Character Statistics:
+    Total foreign character insertions: 167
+    Files affected by foreign chars: 48 (48.98%)
+
+    Top foreign characters (not in ground truth):
+      'ё' (CYRILLIC SMALL LETTER IO, Unicode U+0451) - inserted 29 times
+      'ѡ' (CYRILLIC SMALL LETTER OMEGA, Unicode U+0461) - inserted 28 times
+      'ѧ' (CYRILLIC SMALL LETTER LITTLE YUS, Unicode U+0467) - inserted 26 times
+      '­' (SOFT HYPHEN, Unicode U+00AD) - inserted 19 times
+      'є' (CYRILLIC SMALL LETTER UKRAINIAN IE, Unicode U+0454) - inserted 11 times
+      'ꙋ' (CYRILLIC SMALL LETTER MONOGRAPH UK, Unicode U+A64B) - inserted 9 times
+      '̆' (COMBINING BREVE, Unicode U+0306) - inserted 7 times
+      '|' (VERTICAL LINE, Unicode U+007C) - inserted 4 times
+      'ꙗ' (CYRILLIC SMALL LETTER IOTIFIED A, Unicode U+A657) - inserted 3 times
+      'x' (LATIN SMALL LETTER X, Unicode U+0078) - inserted 3 times
+      '́' (COMBINING ACUTE ACCENT, Unicode U+0301) - inserted 3 times
+      '⅓' (VULGAR FRACTION ONE THIRD, Unicode U+2153) - inserted 3 times
+      'T' (LATIN CAPITAL LETTER T, Unicode U+0054) - inserted 2 times
+      'ο' (GREEK SMALL LETTER OMICRON, Unicode U+03BF) - inserted 2 times
+      'D' (LATIN CAPITAL LETTER D, Unicode U+0044) - inserted 2 times
+
+    Sample contexts for foreign characters:
+      'ѧ' (CYRILLIC SMALL LETTER LITTLE YUS) in context: ...надесѧти дн...
+      'ѡ' (CYRILLIC SMALL LETTER OMEGA) in context: ...лѣтъ ѡ 58 н...
+      'ꙋ' (CYRILLIC SMALL LETTER MONOGRAPH UK) in context: ...евѣстꙋнѡ. О...
+      'ѡ' (CYRILLIC SMALL LETTER OMEGA) in context: ...лѣтъ ѡ 58 н...
+      'ѧ' (CYRILLIC SMALL LETTER LITTLE YUS) in context: ...надесѧти дн...
+
+  Top 15 Character Errors:
+    '
+-> ' occurs 115 times (avg 1.17 per file)
+    'ї->і' occurs 100 times (avg 1.02 per file)
+    'ї->i' occurs 55 times (avg 0.56 per file)
+    'ъ->ь' occurs 24 times (avg 0.24 per file)
+    'е->ѣ' occurs 19 times (avg 0.19 per file)
+    'ї->и' occurs 19 times (avg 0.19 per file)
+    'а->о' occurs 17 times (avg 0.17 per file)
+    'т->п' occurs 17 times (avg 0.17 per file)
+    'ѣ->е' occurs 13 times (avg 0.13 per file)
+    'ѣ->ъ' occurs 12 times (avg 0.12 per file)
+    'І->I' occurs 11 times (avg 0.11 per file)
+    'і->i' occurs 10 times (avg 0.10 per file)
+    ' ->
+' occurs 9 times (avg 0.09 per file)
+    '-->—' occurs 7 times (avg 0.07 per file)
+    'ь->ъ' occurs 7 times (avg 0.07 per file)
+
+  Top Old Character Error Patterns:
+    'ъ->ъ' occurs 322 times (avg 3.29 per file)
+    'ї->∅' occurs 232 times (avg 2.37 per file)
+    'ѣ->ъ' occurs 212 times (avg 2.16 per file)
+    'ъ->ь' occurs 193 times (avg 1.97 per file)
+    'ъ->ѣ' occurs 157 times (avg 1.60 per file)
+    'ѣ->ѣ' occurs 147 times (avg 1.50 per file)
+    'ь->ъ' occurs 138 times (avg 1.41 per file)
+    'ї->ъ' occurs 136 times (avg 1.39 per file)
+    'ї->i' occurs 130 times (avg 1.33 per file)
+    'ъ->∅' occurs 102 times (avg 1.04 per file)
+--------------------------------------------------
+
+Model: meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8
+  Total case errors: 2785
+  Average case errors per file: 28.42
+
+  Foreign Character Statistics:
+    Total foreign character insertions: 88
+    Files affected by foreign chars: 29 (29.59%)
+
+    Top foreign characters (not in ground truth):
+      '­' (SOFT HYPHEN, Unicode U+00AD) - inserted 17 times
+      '_' (LOW LINE, Unicode U+005F) - inserted 10 times
+      'y' (LATIN SMALL LETTER Y, Unicode U+0079) - inserted 6 times
+      'k' (LATIN SMALL LETTER K, Unicode U+006B) - inserted 4 times
+      'x' (LATIN SMALL LETTER X, Unicode U+0078) - inserted 4 times
+      '̀' (COMBINING GRAVE ACCENT, Unicode U+0300) - inserted 4 times
+      '̔' (COMBINING REVERSED COMMA ABOVE, Unicode U+0314) - inserted 4 times
+      '́' (COMBINING ACUTE ACCENT, Unicode U+0301) - inserted 3 times
+      'ѐ' (CYRILLIC SMALL LETTER IE WITH GRAVE, Unicode U+0450) - inserted 3 times
+      '̂' (COMBINING CIRCUMFLEX ACCENT, Unicode U+0302) - inserted 3 times
+      'D' (LATIN CAPITAL LETTER D, Unicode U+0044) - inserted 2 times
+      '{' (LEFT CURLY BRACKET, Unicode U+007B) - inserted 2 times
+      '}' (RIGHT CURLY BRACKET, Unicode U+007D) - inserted 2 times
+      'ï' (LATIN SMALL LETTER I WITH DIAERESIS, Unicode U+00EF) - inserted 2 times
+      'ө' (CYRILLIC SMALL LETTER BARRED O, Unicode U+04E9) - inserted 2 times
+
+    Sample contexts for foreign characters:
+      '́' (COMBINING ACUTE ACCENT) in context: ...дорои́нъ и ...
+      '̆' (COMBINING BREVE) in context: ...остав̆ки ст...
+      'ѝ' (CYRILLIC SMALL LETTER I WITH GRAVE) in context: ...селенѝша
+уп...
+      '_' (LOW LINE) in context: ...
+мой __ при...
+      '_' (LOW LINE) in context: ...
+мой __ при...
+
+  Top 15 Character Errors:
+    'ї->і' occurs 144 times (avg 1.47 per file)
+    'т->п' occurs 120 times (avg 1.22 per file)
+    '
+-> ' occurs 78 times (avg 0.80 per file)
+    'ъ->b' occurs 76 times (avg 0.78 per file)
+    'ъ->Ь' occurs 67 times (avg 0.68 per file)
+    'ъ->Ъ' occurs 65 times (avg 0.66 per file)
+    'т->ш' occurs 31 times (avg 0.32 per file)
+    'ъ->ь' occurs 24 times (avg 0.24 per file)
+    'ї->i' occurs 22 times (avg 0.22 per file)
+    'т->m' occurs 20 times (avg 0.20 per file)
+    'ъ->ѣ' occurs 20 times (avg 0.20 per file)
+    'ї->и' occurs 18 times (avg 0.18 per file)
+    'ь->ъ' occurs 12 times (avg 0.12 per file)
+    'ѣ->ъ' occurs 11 times (avg 0.11 per file)
+    'і->ї' occurs 9 times (avg 0.09 per file)
+
+  Top Old Character Error Patterns:
+    'ъ->∅' occurs 496 times (avg 5.06 per file)
+    'ї->∅' occurs 269 times (avg 2.74 per file)
+    'ъ->ѣ' occurs 231 times (avg 2.36 per file)
+    'ъ->ъ' occurs 213 times (avg 2.17 per file)
+    'ѣ->ѣ' occurs 185 times (avg 1.89 per file)
+    'ъ->ь' occurs 181 times (avg 1.85 per file)
+    'ь->ь' occurs 134 times (avg 1.37 per file)
+    'ѣ->ъ' occurs 127 times (avg 1.30 per file)
+    'ь->ъ' occurs 103 times (avg 1.05 per file)
+    'ѣ->∅' occurs 92 times (avg 0.94 per file)
+--------------------------------------------------
+
+Model: gpt-4o-2024-08-06
+  Total case errors: 2694
+  Average case errors per file: 27.49
+
+  Foreign Character Statistics:
+    Total foreign character insertions: 336
+    Files affected by foreign chars: 59 (60.20%)
+
+    Top foreign characters (not in ground truth):
+      'ѝ' (CYRILLIC SMALL LETTER I WITH GRAVE, Unicode U+045D) - inserted 33 times
+      'ѡ' (CYRILLIC SMALL LETTER OMEGA, Unicode U+0461) - inserted 32 times
+      'ѧ' (CYRILLIC SMALL LETTER LITTLE YUS, Unicode U+0467) - inserted 28 times
+      'ё' (CYRILLIC SMALL LETTER IO, Unicode U+0451) - inserted 21 times
+      '́' (COMBINING ACUTE ACCENT, Unicode U+0301) - inserted 17 times
+      '✿' (BLACK FLORETTE, Unicode U+273F) - inserted 17 times
+      '⸢' (TOP LEFT HALF BRACKET, Unicode U+2E22) - inserted 16 times
+      'Ђ' (CYRILLIC CAPITAL LETTER DJE, Unicode U+0402) - inserted 12 times
+      'ꙋ' (CYRILLIC SMALL LETTER MONOGRAPH UK, Unicode U+A64B) - inserted 12 times
+      'є' (CYRILLIC SMALL LETTER UKRAINIAN IE, Unicode U+0454) - inserted 11 times
+      '–' (EN DASH, Unicode U+2013) - inserted 8 times
+      '⁠' (WORD JOINER, Unicode U+2060) - inserted 8 times
+      'ѻ' (CYRILLIC SMALL LETTER ROUND OMEGA, Unicode U+047B) - inserted 7 times
+      'ѿ' (CYRILLIC SMALL LETTER OT, Unicode U+047F) - inserted 7 times
+      'ѥ' (CYRILLIC SMALL LETTER IOTIFIED E, Unicode U+0465) - inserted 6 times
+
+    Sample contexts for foreign characters:
+      'ѡ' (CYRILLIC SMALL LETTER OMEGA) in context: ...е опѳѡ-
+тсъ...
+      'Ђ' (CYRILLIC CAPITAL LETTER DJE) in context: ...навидЂть лю...
+      'Ђ' (CYRILLIC CAPITAL LETTER DJE) in context: ...навидЂть лю...
+      'Ђ' (CYRILLIC CAPITAL LETTER DJE) in context: ...навидЂть лю...
+      'Ђ' (CYRILLIC CAPITAL LETTER DJE) in context: ...навидЂть лю...
+
+  Top 15 Character Errors:
+    'ї->і' occurs 95 times (avg 0.97 per file)
+    'ъ->ь' occurs 48 times (avg 0.49 per file)
+    'ї->i' occurs 37 times (avg 0.38 per file)
+    'І->I' occurs 18 times (avg 0.18 per file)
+    'е->ѣ' occurs 16 times (avg 0.16 per file)
+    '
+-> ' occurs 16 times (avg 0.16 per file)
+    'ї->и' occurs 14 times (avg 0.14 per file)
+    'т->п' occurs 13 times (avg 0.13 per file)
+    'а->о' occurs 12 times (avg 0.12 per file)
+    'ѣ->ъ' occurs 11 times (avg 0.11 per file)
+    'и->ы' occurs 10 times (avg 0.10 per file)
+    '-->—' occurs 8 times (avg 0.08 per file)
+    'ѣ->е' occurs 7 times (avg 0.07 per file)
+    'з->с' occurs 7 times (avg 0.07 per file)
+    'и->i' occurs 7 times (avg 0.07 per file)
+
+  Top Old Character Error Patterns:
+    'ъ->ъ' occurs 320 times (avg 3.27 per file)
+    'ъ->ь' occurs 295 times (avg 3.01 per file)
+    'ѣ->ъ' occurs 212 times (avg 2.16 per file)
+    'ї->∅' occurs 200 times (avg 2.04 per file)
+    'ъ->ѣ' occurs 156 times (avg 1.59 per file)
+    'ѣ->ь' occurs 155 times (avg 1.58 per file)
+    'ь->ъ' occurs 151 times (avg 1.54 per file)
+    'ї->ъ' occurs 132 times (avg 1.35 per file)
+    'ь->ь' occurs 130 times (avg 1.33 per file)
+    'ѣ->ѣ' occurs 129 times (avg 1.32 per file)
+--------------------------------------------------
+
+Model: meta-llama/Llama-4-Scout-17B-16E-Instruct
+  Total case errors: 2917
+  Average case errors per file: 29.77
+
+  Foreign Character Statistics:
+    Total foreign character insertions: 2652
+    Files affected by foreign chars: 38 (38.78%)
+
+    Top foreign characters (not in ground truth):
+      '\' (REVERSE SOLIDUS, Unicode U+005C) - inserted 2088 times
+      'µ' (MICRO SIGN, Unicode U+00B5) - inserted 229 times
+      '´' (ACUTE ACCENT, Unicode U+00B4) - inserted 61 times
+      '{' (LEFT CURLY BRACKET, Unicode U+007B) - inserted 51 times
+      '}' (RIGHT CURLY BRACKET, Unicode U+007D) - inserted 49 times
+      'ě' (LATIN SMALL LETTER E WITH CARON, Unicode U+011B) - inserted 25 times
+      '»' (RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK, Unicode U+00BB) - inserted 21 times
+      '�' (REPLACEMENT CHARACTER, Unicode U+FFFD) - inserted 20 times
+      '¿' (INVERTED QUESTION MARK, Unicode U+00BF) - inserted 18 times
+      '°' (DEGREE SIGN, Unicode U+00B0) - inserted 13 times
+      'é' (LATIN SMALL LETTER E WITH ACUTE, Unicode U+00E9) - inserted 11 times
+      '_' (LOW LINE, Unicode U+005F) - inserted 9 times
+      'ʋ' (LATIN SMALL LETTER V WITH HOOK, Unicode U+028B) - inserted 8 times
+      'x' (LATIN SMALL LETTER X, Unicode U+0078) - inserted 6 times
+      '²' (SUPERSCRIPT TWO, Unicode U+00B2) - inserted 5 times
+
+    Sample contexts for foreign characters:
+      '\' (REVERSE SOLIDUS) in context: ...смотр\u044c...
+      '\' (REVERSE SOLIDUS) in context: ...смотр\u044c...
+      '\' (REVERSE SOLIDUS) in context: ...смотр\u044c...
+      'x' (LATIN SMALL LETTER X) in context: ...\u044xh"}, ...
+      '}' (RIGHT CURLY BRACKET) in context: ...44xh"}, {"l...
+
+  Top 15 Character Errors:
+    '
+-> ' occurs 121 times (avg 1.23 per file)
+    'ъ->ь' occurs 95 times (avg 0.97 per file)
+    'ї->і' occurs 95 times (avg 0.97 per file)
+    'ъ->b' occurs 66 times (avg 0.67 per file)
+    'ї->i' occurs 61 times (avg 0.62 per file)
+    'ъ->µ' occurs 31 times (avg 0.32 per file)
+    'ъ->ѣ' occurs 27 times (avg 0.28 per file)
+    'т->п' occurs 24 times (avg 0.24 per file)
+    'ї->и' occurs 22 times (avg 0.22 per file)
+    'ъ->Ъ' occurs 19 times (avg 0.19 per file)
+    'ѣ->ы' occurs 15 times (avg 0.15 per file)
+    'і->i' occurs 9 times (avg 0.09 per file)
+    ',
+-> , ' occurs 8 times (avg 0.08 per file)
+    'ѣ->ь' occurs 7 times (avg 0.07 per file)
+    '
+->"}, {"line": "' occurs 7 times (avg 0.07 per file)
+
+  Top Old Character Error Patterns:
+    'ъ->∅' occurs 495 times (avg 5.05 per file)
+    'ъ->ь' occurs 362 times (avg 3.69 per file)
+    'ѣ->∅' occurs 276 times (avg 2.82 per file)
+    'ї->∅' occurs 260 times (avg 2.65 per file)
+    'ѣ->ь' occurs 160 times (avg 1.63 per file)
+    'ъ->ѣ' occurs 160 times (avg 1.63 per file)
+    'ъ->ъ' occurs 153 times (avg 1.56 per file)
+    'ї->i' occurs 152 times (avg 1.55 per file)
+    'ь->ь' occurs 130 times (avg 1.33 per file)
+    'ѣ->ѣ' occurs 126 times (avg 1.29 per file)
+--------------------------------------------------

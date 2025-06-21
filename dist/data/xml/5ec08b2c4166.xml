@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>5ec08b2c4166.jpeg</fileName>
+      <fileIdentifier>mets//mets.zip/5ec08b2c4166.jpeg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT134" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT137" LABEL="MarginTextZone:outer" DESCRIPTION="block type MarginTextZone:outer"/><OtherTag ID="BT135" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT138" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT2" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT136" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT50" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/>
+    <OtherTag ID="LT85" LABEL="CustomLine:divider" DESCRIPTION="line type CustomLine:divider"/><OtherTag ID="LT86" LABEL="CustomLine:onstage" DESCRIPTION="line type CustomLine:onstage"/><OtherTag ID="LT74" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT83" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT77" LABEL="CustomLine:paragraph_start" DESCRIPTION="line type CustomLine:paragraph_start"/><OtherTag ID="LT73" LABEL="CustomLine:signature" DESCRIPTION="line type CustomLine:signature"/><OtherTag ID="LT72" LABEL="CustomLine:catchword" DESCRIPTION="line type CustomLine:catchword"/><OtherTag ID="LT79" LABEL="CustomLine:verse" DESCRIPTION="line type CustomLine:verse"/><OtherTag ID="LT82" LABEL="CustomLine:speaker" DESCRIPTION="line type CustomLine:speaker"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2200"
+          HEIGHT="3450"
+          PHYSICAL_IMG_NR="20"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2200"
+                  HEIGHT="3450">
+        <TextBlock HPOS="572.0"
+                   VPOS="318.0"
+                   WIDTH="253.0"
+                   HEIGHT="123.0"
+                   ID="block_2"
+                   TAGREFS="BT134">
+          <Shape><Polygon POINTS="572 318 825 318 825 441 572 441"/></Shape>
+          <TextLine ID="line_30"
+                    TAGREFS="LT74"
+                    BASELINE="615 427 790 428" 
+                    HPOS="612"
+                    VPOS="319"
+                    WIDTH="175"
+                    HEIGHT="135">
+            <Shape><Polygon POINTS="756 319 727 319 710 319 612 336 612 425 612 454 787 454 787 425 787 327 759 319 756 319"/></Shape>
+	    <String CONTENT="112"
+                    HPOS="612"
+                    VPOS="319"
+                    WIDTH="175"
+                    HEIGHT="135"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="577.0"
+                   VPOS="473.0"
+                   WIDTH="1497.0"
+                   HEIGHT="2515.0"
+                   ID="block_0"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="608 487 2074 473 2074 2988 577 2977"/></Shape>
+          <TextLine ID="line_0"
+                    TAGREFS="LT74"
+                    BASELINE="617 592 2040 592" 
+                    HPOS="617"
+                    VPOS="426"
+                    WIDTH="1423"
+                    HEIGHT="166">
+            <Shape><Polygon POINTS="617 426 2040 426 2040 592 617 592"/></Shape>
+	    <String CONTENT="Изяслава Давидовича Князя Черниговска-"
+                    HPOS="617"
+                    VPOS="426"
+                    WIDTH="1423"
+                    HEIGHT="166"></String>
+          </TextLine>
+          <TextLine ID="line_1"
+                    TAGREFS="LT74"
+                    BASELINE="619 670 2056 670" 
+                    HPOS="619"
+                    VPOS="557"
+                    WIDTH="1437"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="619 557 2056 557 2056 670 619 670"/></Shape>
+	    <String CONTENT="го: но отъ него самъ побѣжденъ бысть; а"
+                    HPOS="619"
+                    VPOS="557"
+                    WIDTH="1437"
+                    HEIGHT="113"></String>
+          </TextLine>
+          <TextLine ID="line_2"
+                    TAGREFS="LT74"
+                    BASELINE="619 765 2056 765" 
+                    HPOS="619"
+                    VPOS="644"
+                    WIDTH="1437"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="619 644 2056 644 2056 765 619 765"/></Shape>
+	    <String CONTENT="Изяславъ Давидовичь вниде въ Кїевъ на"
+                    HPOS="619"
+                    VPOS="644"
+                    WIDTH="1437"
+                    HEIGHT="121"></String>
+          </TextLine>
+          <TextLine ID="line_3"
+                    TAGREFS="LT74"
+                    BASELINE="617 846 2056 846" 
+                    HPOS="617"
+                    VPOS="731"
+                    WIDTH="1439"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="617 731 2056 731 2056 846 617 846"/></Shape>
+	    <String CONTENT="княженїе, его же скоро изгна отъ престола"
+                    HPOS="617"
+                    VPOS="731"
+                    WIDTH="1439"
+                    HEIGHT="115"></String>
+          </TextLine>
+          <TextLine ID="line_4"
+                    TAGREFS="LT74"
+                    BASELINE="616 934 2050 934" 
+                    HPOS="616"
+                    VPOS="819"
+                    WIDTH="1434"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="616 819 2050 819 2050 934 616 934"/></Shape>
+	    <String CONTENT="Кїевскаго Князь Юрїй Владимировичь,"
+                    HPOS="616"
+                    VPOS="819"
+                    WIDTH="1434"
+                    HEIGHT="115"></String>
+          </TextLine>
+          <TextLine ID="line_5"
+                    TAGREFS="LT74"
+                    BASELINE="613 1017 2051 1017" 
+                    HPOS="613"
+                    VPOS="902"
+                    WIDTH="1438"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="613 902 2051 902 2051 1017 613 1017"/></Shape>
+	    <String CONTENT="и сѣде на немъ самъ, аки дѣдичь. Страны"
+                    HPOS="613"
+                    VPOS="902"
+                    WIDTH="1438"
+                    HEIGHT="115"></String>
+          </TextLine>
+          <TextLine ID="line_6"
+                    TAGREFS="LT74"
+                    BASELINE="616 1105 2049 1105" 
+                    HPOS="616"
+                    VPOS="989"
+                    WIDTH="1433"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="616 989 2049 989 2049 1105 616 1105"/></Shape>
+	    <String CONTENT="же Россїискїя сыномъ своимъ раздѣли,"
+                    HPOS="616"
+                    VPOS="989"
+                    WIDTH="1433"
+                    HEIGHT="116"></String>
+          </TextLine>
+          <TextLine ID="line_7"
+                    TAGREFS="LT74"
+                    BASELINE="620 1192 2040 1192" 
+                    HPOS="620"
+                    VPOS="1073"
+                    WIDTH="1420"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="620 1073 2040 1073 2040 1192 620 1192"/></Shape>
+	    <String CONTENT="Андрею даде Вышеградъ и Василевъ,"
+                    HPOS="620"
+                    VPOS="1073"
+                    WIDTH="1420"
+                    HEIGHT="119"></String>
+          </TextLine>
+          <TextLine ID="line_8"
+                    TAGREFS="LT74"
+                    BASELINE="620 1277 2044 1277" 
+                    HPOS="620"
+                    VPOS="1164"
+                    WIDTH="1424"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="620 1164 2044 1164 2044 1277 620 1277"/></Shape>
+	    <String CONTENT="Борису Туровъ, Глѣбу Переяславъ, а"
+                    HPOS="620"
+                    VPOS="1164"
+                    WIDTH="1424"
+                    HEIGHT="113"></String>
+          </TextLine>
+          <TextLine ID="line_10"
+                    TAGREFS="LT74"
+                    BASELINE="616 1371 2045 1371" 
+                    HPOS="616"
+                    VPOS="1250"
+                    WIDTH="1429"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="616 1250 2045 1250 2045 1371 616 1371"/></Shape>
+	    <String CONTENT="Василку Порусья, идѣже Бѣлая церьковь."
+                    HPOS="616"
+                    VPOS="1250"
+                    WIDTH="1429"
+                    HEIGHT="121"></String>
+          </TextLine>
+          <TextLine ID="line_12"
+                    TAGREFS="LT74"
+                    BASELINE="608 1454 2041 1454" 
+                    HPOS="608"
+                    VPOS="1336"
+                    WIDTH="1433"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="608 1336 2041 1336 2041 1454 608 1454"/></Shape>
+	    <String CONTENT="По семъ житїе свое смертїю премѣни,"
+                    HPOS="608"
+                    VPOS="1336"
+                    WIDTH="1433"
+                    HEIGHT="118"></String>
+          </TextLine>
+          <TextLine ID="line_13"
+                    TAGREFS="LT74"
+                    BASELINE="608 1546 2040 1546" 
+                    HPOS="608"
+                    VPOS="1422"
+                    WIDTH="1432"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="608 1422 2040 1422 2040 1546 608 1546"/></Shape>
+	    <String CONTENT="лѣта отъ созданїя мїра шесть тысящь"
+                    HPOS="608"
+                    VPOS="1422"
+                    WIDTH="1432"
+                    HEIGHT="124"></String>
+          </TextLine>
+          <TextLine ID="line_14"
+                    TAGREFS="LT74"
+                    BASELINE="612 1622 2042 1622" 
+                    HPOS="612"
+                    VPOS="1511"
+                    WIDTH="1430"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="612 1511 2042 1511 2042 1622 612 1622"/></Shape>
+	    <String CONTENT="шесть сотъ шестьдесятъ шестаго,"
+                    HPOS="612"
+                    VPOS="1511"
+                    WIDTH="1430"
+                    HEIGHT="111"></String>
+          </TextLine>
+          <TextLine ID="line_15"
+                    TAGREFS="LT74"
+                    BASELINE="613 1717 2043 1717" 
+                    HPOS="613"
+                    VPOS="1598"
+                    WIDTH="1430"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="613 1598 2043 1598 2043 1717 613 1717"/></Shape>
+	    <String CONTENT="отъ Рождества Христова тысяща сто"
+                    HPOS="613"
+                    VPOS="1598"
+                    WIDTH="1430"
+                    HEIGHT="119"></String>
+          </TextLine>
+          <TextLine ID="line_16"
+                    TAGREFS="LT74"
+                    BASELINE="607 1794 2042 1794" 
+                    HPOS="607"
+                    VPOS="1684"
+                    WIDTH="1435"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="607 1684 2042 1684 2042 1794 607 1794"/></Shape>
+	    <String CONTENT="пятьдесятъ осьмаго. Въ тоже лѣто"
+                    HPOS="607"
+                    VPOS="1684"
+                    WIDTH="1435"
+                    HEIGHT="110"></String>
+          </TextLine>
+          <TextLine ID="line_17"
+                    TAGREFS="LT74"
+                    BASELINE="606 1881 2044 1881" 
+                    HPOS="606"
+                    VPOS="1769"
+                    WIDTH="1438"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="606 1769 2044 1769 2044 1881 606 1881"/></Shape>
+	    <String CONTENT="преставися благовѣрная Княгиня Ана-"
+                    HPOS="606"
+                    VPOS="1769"
+                    WIDTH="1438"
+                    HEIGHT="112"></String>
+          </TextLine>
+          <TextLine ID="line_18"
+                    TAGREFS="LT74"
+                    BASELINE="607 1972 2036 1972" 
+                    HPOS="607"
+                    VPOS="1852"
+                    WIDTH="1429"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="607 1852 2036 1852 2036 1972 607 1972"/></Shape>
+	    <String CONTENT="стасья Глѣбовна Всеславича, дщи Яропол-"
+                    HPOS="607"
+                    VPOS="1852"
+                    WIDTH="1429"
+                    HEIGHT="120"></String>
+          </TextLine>
+          <TextLine ID="line_19"
+                    TAGREFS="LT74"
+                    BASELINE="600 2064 2043 2064" 
+                    HPOS="600"
+                    VPOS="1943"
+                    WIDTH="1443"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="600 1943 2043 1943 2043 2064 600 2064"/></Shape>
+	    <String CONTENT="ка Изяславича, сидѣвши во вдовствѣ"
+                    HPOS="600"
+                    VPOS="1943"
+                    WIDTH="1443"
+                    HEIGHT="121"></String>
+          </TextLine>
+          <TextLine ID="line_20"
+                    TAGREFS="LT74"
+                    BASELINE="586 2153 2042 2153" 
+                    HPOS="586"
+                    VPOS="2037"
+                    WIDTH="1456"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="586 2037 2042 2037 2042 2153 586 2153"/></Shape>
+	    <String CONTENT="лѣтъ четыредесять, и положена бысть"
+                    HPOS="586"
+                    VPOS="2037"
+                    WIDTH="1456"
+                    HEIGHT="116"></String>
+          </TextLine>
+          <TextLine ID="line_21"
+                    TAGREFS="LT74"
+                    BASELINE="598 2239 2032 2239" 
+                    HPOS="598"
+                    VPOS="2126"
+                    WIDTH="1434"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="598 2126 2032 2126 2032 2239 598 2239"/></Shape>
+	    <String CONTENT="въ церькви пресвятыя Богородицы Пе-"
+                    HPOS="598"
+                    VPOS="2126"
+                    WIDTH="1434"
+                    HEIGHT="113"></String>
+          </TextLine>
+          <TextLine ID="line_22"
+                    TAGREFS="LT74"
+                    BASELINE="603 2327 2033 2327" 
+                    HPOS="603"
+                    VPOS="2215"
+                    WIDTH="1430"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="603 2215 2033 2215 2033 2327 603 2327"/></Shape>
+	    <String CONTENT="черскїя. Сїя благочестивая Княгиня со"
+                    HPOS="603"
+                    VPOS="2215"
+                    WIDTH="1430"
+                    HEIGHT="112"></String>
+          </TextLine>
+          <TextLine ID="line_23"
+                    TAGREFS="LT74"
+                    BASELINE="597 2410 2028 2410" 
+                    HPOS="597"
+                    VPOS="2300"
+                    WIDTH="1431"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="597 2300 2028 2300 2028 2410 597 2410"/></Shape>
+	    <String CONTENT="своимъ Княземъ велїю имѣ любовь ко оби-"
+                    HPOS="597"
+                    VPOS="2300"
+                    WIDTH="1431"
+                    HEIGHT="110"></String>
+          </TextLine>
+          <TextLine ID="line_24"
+                    TAGREFS="LT74"
+                    BASELINE="592 2498 2029 2498" 
+                    HPOS="592"
+                    VPOS="2386"
+                    WIDTH="1437"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="592 2386 2029 2386 2029 2498 592 2498"/></Shape>
+	    <String CONTENT="тели пресвятыя Богородицы Печерскїя,"
+                    HPOS="592"
+                    VPOS="2386"
+                    WIDTH="1437"
+                    HEIGHT="112"></String>
+          </TextLine>
+          <TextLine ID="line_25"
+                    TAGREFS="LT74"
+                    BASELINE="595 2583 2025 2583" 
+                    HPOS="595"
+                    VPOS="2465"
+                    WIDTH="1430"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="595 2465 2025 2465 2025 2583 595 2583"/></Shape>
+	    <String CONTENT="и къ Преподобнымъ отцемъ Печерскимъ,"
+                    HPOS="595"
+                    VPOS="2465"
+                    WIDTH="1430"
+                    HEIGHT="118"></String>
+          </TextLine>
+          <TextLine ID="line_26"
+                    TAGREFS="LT74"
+                    BASELINE="592 2664 2023 2664" 
+                    HPOS="592"
+                    VPOS="2552"
+                    WIDTH="1431"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="592 2552 2023 2552 2023 2664 592 2664"/></Shape>
+	    <String CONTENT="и много отъ имѣнїя своего даяше еще"
+                    HPOS="592"
+                    VPOS="2552"
+                    WIDTH="1431"
+                    HEIGHT="112"></String>
+          </TextLine>
+          <TextLine ID="line_27"
+                    TAGREFS="LT74"
+                    BASELINE="591 2754 2022 2754" 
+                    HPOS="591"
+                    VPOS="2637"
+                    WIDTH="1431"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="591 2637 2022 2637 2022 2754 591 2754"/></Shape>
+	    <String CONTENT="при животѣ своемъ, ревнуя благовѣрно-"
+                    HPOS="591"
+                    VPOS="2637"
+                    WIDTH="1431"
+                    HEIGHT="117"></String>
+          </TextLine>
+          <TextLine ID="line_28"
+                    TAGREFS="LT74"
+                    BASELINE="588 2845 2023 2845" 
+                    HPOS="588"
+                    VPOS="2725"
+                    WIDTH="1435"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="588 2725 2023 2725 2023 2845 588 2845"/></Shape>
+	    <String CONTENT="му Князю Ярополку отцу своему, иже"
+                    HPOS="588"
+                    VPOS="2725"
+                    WIDTH="1435"
+                    HEIGHT="120"></String>
+          </TextLine>
+          <TextLine ID="line_29"
+                    TAGREFS="LT74"
+                    BASELINE="582 2942 2026 2942" 
+                    HPOS="582"
+                    VPOS="2812"
+                    WIDTH="1444"
+                    HEIGHT="130">
+            <Shape><Polygon POINTS="582 2812 2026 2812 2026 2942 582 2942"/></Shape>
+	    <String CONTENT="вда всю свою жизнь, Неблскую волость"
+                    HPOS="582"
+                    VPOS="2812"
+                    WIDTH="1444"
+                    HEIGHT="130"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="342.0"
+                   VPOS="1172.0"
+                   WIDTH="248.0"
+                   HEIGHT="201.0"
+                   ID="eSc_textblock_a607ed0c"
+                   TAGREFS="BT137">
+          <Shape><Polygon POINTS="342 1172 342 1373 590 1373 590 1172"/></Shape>
+          <TextLine ID="line_9"
+                    TAGREFS="LT74"
+                    BASELINE="375 1267 593 1267" 
+                    HPOS="375"
+                    VPOS="1167"
+                    WIDTH="218"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="375 1167 593 1167 593 1267 375 1267"/></Shape>
+	    <String CONTENT="Въ Неб."
+                    HPOS="375"
+                    VPOS="1167"
+                    WIDTH="218"
+                    HEIGHT="100"></String>
+          </TextLine>
+          <TextLine ID="line_11"
+                    TAGREFS="LT74"
+                    BASELINE="383 1337 586 1337" 
+                    HPOS="383"
+                    VPOS="1250"
+                    WIDTH="203"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="383 1250 586 1250 586 1337 383 1337"/></Shape>
+	    <String CONTENT="лѣтоп."
+                    HPOS="383"
+                    VPOS="1250"
+                    WIDTH="203"
+                    HEIGHT="87"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1186.0"
+                   VPOS="322.0"
+                   WIDTH="289.0"
+                   HEIGHT="108.0"
+                   ID="block_1"
+                   TAGREFS="BT135">
+          <Shape><Polygon POINTS="1186 322 1475 322 1475 430 1186 430"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>b2ee0661fa40.jpeg</fileName>
+      <fileIdentifier>mets//mets.zip/b2ee0661fa40.jpeg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT134" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT137" LABEL="MarginTextZone:outer" DESCRIPTION="block type MarginTextZone:outer"/><OtherTag ID="BT135" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT138" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT2" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT136" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT50" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/>
+    <OtherTag ID="LT85" LABEL="CustomLine:divider" DESCRIPTION="line type CustomLine:divider"/><OtherTag ID="LT86" LABEL="CustomLine:onstage" DESCRIPTION="line type CustomLine:onstage"/><OtherTag ID="LT74" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT83" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT77" LABEL="CustomLine:paragraph_start" DESCRIPTION="line type CustomLine:paragraph_start"/><OtherTag ID="LT73" LABEL="CustomLine:signature" DESCRIPTION="line type CustomLine:signature"/><OtherTag ID="LT72" LABEL="CustomLine:catchword" DESCRIPTION="line type CustomLine:catchword"/><OtherTag ID="LT79" LABEL="CustomLine:verse" DESCRIPTION="line type CustomLine:verse"/><OtherTag ID="LT82" LABEL="CustomLine:speaker" DESCRIPTION="line type CustomLine:speaker"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="1900"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="10"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1900"
+                  HEIGHT="3300">
+        <TextBlock HPOS="158.0"
+                   VPOS="293.0"
+                   WIDTH="1725.0"
+                   HEIGHT="2788.0"
+                   ID="block_0"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="158 298 1883 293 1863 3081 158 3081"/></Shape>
+          <TextLine ID="line_0"
+                    TAGREFS="LT74"
+                    BASELINE="286 371 1830 371" 
+                    HPOS="286"
+                    VPOS="261"
+                    WIDTH="1544"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="286 261 1830 261 1830 371 286 371"/></Shape>
+	    <String CONTENT="детъ изъ того подобная сумма, содержащая въ себѣ дваж-"
+                    HPOS="286"
+                    VPOS="261"
+                    WIDTH="1544"
+                    HEIGHT="110"></String>
+          </TextLine>
+          <TextLine ID="line_1"
+                    TAGREFS="LT74"
+                    BASELINE="282 434 1245 434" 
+                    HPOS="282"
+                    VPOS="341"
+                    WIDTH="963"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="282 341 1245 341 1245 434 282 434"/></Shape>
+	    <String CONTENT="ды первой членъ и дважды разность."
+                    HPOS="282"
+                    VPOS="341"
+                    WIDTH="963"
+                    HEIGHT="93"></String>
+          </TextLine>
+          <TextLine ID="line_2"
+                    TAGREFS="LT83"
+                    BASELINE="712 548 1328 548" 
+                    HPOS="712"
+                    VPOS="450"
+                    WIDTH="616"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="712 450 1328 450 1328 548 712 548"/></Shape>
+	    <String CONTENT="ПРИБАВЛЕНІЕ 4."
+                    HPOS="712"
+                    VPOS="450"
+                    WIDTH="616"
+                    HEIGHT="98"></String>
+          </TextLine>
+          <TextLine ID="line_3"
+                    TAGREFS="LT77"
+                    BASELINE="221 606 1830 606" 
+                    HPOS="221"
+                    VPOS="499"
+                    WIDTH="1609"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="221 499 1830 499 1830 606 221 606"/></Shape>
+	    <String CONTENT="§. 105. И вообще, когда число сколькихъ нибудь количествъ"
+                    HPOS="221"
+                    VPOS="499"
+                    WIDTH="1609"
+                    HEIGHT="107"></String>
+          </TextLine>
+          <TextLine ID="line_4"
+                    TAGREFS="LT74"
+                    BASELINE="281 657 1822 657" 
+                    HPOS="281"
+                    VPOS="574"
+                    WIDTH="1541"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="281 574 1822 574 1822 657 281 657"/></Shape>
+	    <String CONTENT="Ариѳметически пропорціональныхъ будетъ неровное, сум-"
+                    HPOS="281"
+                    VPOS="574"
+                    WIDTH="1541"
+                    HEIGHT="83"></String>
+          </TextLine>
+          <TextLine ID="line_5"
+                    TAGREFS="LT74"
+                    BASELINE="272 709 1822 709" 
+                    HPOS="272"
+                    VPOS="626"
+                    WIDTH="1550"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="272 626 1822 626 1822 709 272 709"/></Shape>
+	    <String CONTENT="ма крайнихъ и среднихъ членовъ въ равномъ разстояніи"
+                    HPOS="272"
+                    VPOS="626"
+                    WIDTH="1550"
+                    HEIGHT="83"></String>
+          </TextLine>
+          <TextLine ID="line_6"
+                    TAGREFS="LT74"
+                    BASELINE="273 766 1827 766" 
+                    HPOS="273"
+                    VPOS="680"
+                    WIDTH="1554"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="273 680 1827 680 1827 766 273 766"/></Shape>
+	    <String CONTENT="отъ крайнихъ находящихся равняется среднему, вдвое"
+                    HPOS="273"
+                    VPOS="680"
+                    WIDTH="1554"
+                    HEIGHT="86"></String>
+          </TextLine>
+          <TextLine ID="line_7"
+                    TAGREFS="LT74"
+                    BASELINE="276 818 1822 818" 
+                    HPOS="276"
+                    VPOS="737"
+                    WIDTH="1546"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="276 737 1822 737 1822 818 276 818"/></Shape>
+	    <String CONTENT="взятому. Пусть будутъ пятъ чиселъ, то сумма перваго и"
+                    HPOS="276"
+                    VPOS="737"
+                    WIDTH="1546"
+                    HEIGHT="81"></String>
+          </TextLine>
+          <TextLine ID="line_8"
+                    TAGREFS="LT74"
+                    BASELINE="283 877 1816 877" 
+                    HPOS="283"
+                    VPOS="788"
+                    WIDTH="1533"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="283 788 1816 788 1816 877 283 877"/></Shape>
+	    <String CONTENT="пятаго состоитъ изъ перваго, дважды взятаго, и изъ че-"
+                    HPOS="283"
+                    VPOS="788"
+                    WIDTH="1533"
+                    HEIGHT="89"></String>
+          </TextLine>
+          <TextLine ID="line_9"
+                    TAGREFS="LT74"
+                    BASELINE="278 898 1827 909" 
+                    HPOS="272"
+                    VPOS="849"
+                    WIDTH="1553"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="344 852 289 849 275 849 275 896 272 915 1820 926 1825 907 1822 869 1792 866 1744 857"/></Shape>
+	    <String CONTENT="тырехъ разностей: но третіе число, такъ какъ среднее,"
+                    HPOS="272"
+                    VPOS="849"
+                    WIDTH="1553"
+                    HEIGHT="77"></String>
+          </TextLine>
+          <TextLine ID="line_10"
+                    TAGREFS="LT74"
+                    BASELINE="281 980 1823 980" 
+                    HPOS="281"
+                    VPOS="898"
+                    WIDTH="1542"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="281 898 1823 898 1823 980 281 980"/></Shape>
+	    <String CONTENT="содержитъ въ себѣ дважды разность и первой членъ, и по-"
+                    HPOS="281"
+                    VPOS="898"
+                    WIDTH="1542"
+                    HEIGHT="82"></String>
+          </TextLine>
+          <TextLine ID="line_11"
+                    TAGREFS="LT74"
+                    BASELINE="274 1048 1825 1048" 
+                    HPOS="274"
+                    VPOS="951"
+                    WIDTH="1551"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="274 951 1825 951 1825 1048 274 1048"/></Shape>
+	    <String CONTENT="тому оное число, взятое вдвое, содержитъ въ себѣ дважды"
+                    HPOS="274"
+                    VPOS="951"
+                    WIDTH="1551"
+                    HEIGHT="97"></String>
+          </TextLine>
+          <TextLine ID="line_12"
+                    TAGREFS="LT74"
+                    BASELINE="269 1101 1241 1101" 
+                    HPOS="269"
+                    VPOS="1006"
+                    WIDTH="972"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="269 1006 1241 1006 1241 1101 269 1101"/></Shape>
+	    <String CONTENT="первой членъ и четырижды разность."
+                    HPOS="269"
+                    VPOS="1006"
+                    WIDTH="972"
+                    HEIGHT="95"></String>
+          </TextLine>
+          <TextLine ID="line_14"
+                    TAGREFS="LT83"
+                    BASELINE="748 1231 1295 1231" 
+                    HPOS="748"
+                    VPOS="1112"
+                    WIDTH="547"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="748 1112 1295 1112 1295 1231 748 1231"/></Shape>
+	    <String CONTENT="ЗАДАЧА Х."
+                    HPOS="748"
+                    VPOS="1112"
+                    WIDTH="547"
+                    HEIGHT="119"></String>
+          </TextLine>
+          <TextLine ID="line_15"
+                    TAGREFS="LT77"
+                    BASELINE="354 1309 1830 1309" 
+                    HPOS="354"
+                    VPOS="1188"
+                    WIDTH="1476"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="354 1188 1830 1188 1830 1309 354 1309"/></Shape>
+	    <String CONTENT="§. 106, Къ даннымъ тремъ числамъ Ариѳмети-"
+                    HPOS="354"
+                    VPOS="1188"
+                    WIDTH="1476"
+                    HEIGHT="121"></String>
+          </TextLine>
+          <TextLine ID="line_16"
+                    TAGREFS="LT74"
+                    BASELINE="222 1384 1711 1384" 
+                    HPOS="222"
+                    VPOS="1270"
+                    WIDTH="1489"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="222 1270 1711 1270 1711 1384 222 1384"/></Shape>
+	    <String CONTENT="чески пропорціональнымъ найти четвертое число."
+                    HPOS="222"
+                    VPOS="1270"
+                    WIDTH="1489"
+                    HEIGHT="114"></String>
+          </TextLine>
+          <TextLine ID="line_17"
+                    TAGREFS="LT83"
+                    BASELINE="791 1441 1281 1441" 
+                    HPOS="790"
+                    VPOS="1402"
+                    WIDTH="490"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="790 1441 790 1452 1280 1452 1280 1441 1280 1408 790 1402 790 1441"/></Shape>
+	    <String CONTENT="РѣШЕНІЕ."
+                    HPOS="790"
+                    VPOS="1402"
+                    WIDTH="490"
+                    HEIGHT="50"></String>
+          </TextLine>
+          <TextLine ID="line_18"
+                    TAGREFS="LT77"
+                    BASELINE="350 1528 1820 1528" 
+                    HPOS="350"
+                    VPOS="1413"
+                    WIDTH="1470"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="350 1413 1820 1413 1820 1528 350 1528"/></Shape>
+	    <String CONTENT="Сложи два послѣднія, и изъ суммы ихъ вычти пер-"
+                    HPOS="350"
+                    VPOS="1413"
+                    WIDTH="1470"
+                    HEIGHT="115"></String>
+          </TextLine>
+          <TextLine ID="line_19"
+                    TAGREFS="LT74"
+                    BASELINE="212 1599 1822 1599" 
+                    HPOS="212"
+                    VPOS="1491"
+                    WIDTH="1610"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="212 1491 1822 1491 1822 1599 212 1599"/></Shape>
+	    <String CONTENT="вой членъ, остатокъ будетъ искомое четвертое чи-"
+                    HPOS="212"
+                    VPOS="1491"
+                    WIDTH="1610"
+                    HEIGHT="108"></String>
+          </TextLine>
+          <TextLine ID="line_20"
+                    TAGREFS="LT74"
+                    BASELINE="209 1684 1826 1684" 
+                    HPOS="209"
+                    VPOS="1565"
+                    WIDTH="1617"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="209 1565 1826 1565 1826 1684 209 1684"/></Shape>
+	    <String CONTENT="сло. Справедливость сего явствуетъ изъ предъидущей"
+                    HPOS="209"
+                    VPOS="1565"
+                    WIDTH="1617"
+                    HEIGHT="119"></String>
+          </TextLine>
+          <TextLine ID="line_21"
+                    TAGREFS="LT74"
+                    BASELINE="211 1749 813 1749" 
+                    HPOS="211"
+                    VPOS="1635"
+                    WIDTH="602"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="211 1635 813 1635 813 1749 211 1749"/></Shape>
+	    <String CONTENT="теоремы (§. 101.)."
+                    HPOS="211"
+                    VPOS="1635"
+                    WIDTH="602"
+                    HEIGHT="114"></String>
+          </TextLine>
+          <TextLine ID="line_22"
+                    TAGREFS="LT83"
+                    BASELINE="742 1882 1296 1882" 
+                    HPOS="742"
+                    VPOS="1764"
+                    WIDTH="554"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="742 1764 1296 1764 1296 1882 742 1882"/></Shape>
+	    <String CONTENT="ЗАДАЧА ХІ."
+                    HPOS="742"
+                    VPOS="1764"
+                    WIDTH="554"
+                    HEIGHT="118"></String>
+          </TextLine>
+          <TextLine ID="line_23"
+                    TAGREFS="LT77"
+                    BASELINE="338 1962 1823 1962" 
+                    HPOS="338"
+                    VPOS="1841"
+                    WIDTH="1485"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="338 1841 1823 1841 1823 1962 338 1962"/></Shape>
+	    <String CONTENT="§. 107. Къ даннымъ двумъ крайнимъ числамъ"
+                    HPOS="338"
+                    VPOS="1841"
+                    WIDTH="1485"
+                    HEIGHT="121"></String>
+          </TextLine>
+          <TextLine ID="line_24"
+                    TAGREFS="LT74"
+                    BASELINE="199 2031 1819 2031" 
+                    HPOS="199"
+                    VPOS="1921"
+                    WIDTH="1620"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="199 1921 1819 1921 1819 2031 199 2031"/></Shape>
+	    <String CONTENT="пропорціи Ариѳметической неорерывной изъ трехъ"
+                    HPOS="199"
+                    VPOS="1921"
+                    WIDTH="1620"
+                    HEIGHT="110"></String>
+          </TextLine>
+          <TextLine ID="line_25"
+                    TAGREFS="LT74"
+                    BASELINE="201 2108 1817 2108" 
+                    HPOS="201"
+                    VPOS="1997"
+                    WIDTH="1616"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="201 1997 1817 1997 1817 2108 201 2108"/></Shape>
+	    <String CONTENT="членовъ стоящей, то есть, къ первому и послѣ-"
+                    HPOS="201"
+                    VPOS="1997"
+                    WIDTH="1616"
+                    HEIGHT="111"></String>
+          </TextLine>
+          <TextLine ID="line_26"
+                    TAGREFS="LT74"
+                    BASELINE="203 2182 1072 2182" 
+                    HPOS="203"
+                    VPOS="2065"
+                    WIDTH="869"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="203 2065 1072 2065 1072 2182 203 2182"/></Shape>
+	    <String CONTENT="днему найти среднее число."
+                    HPOS="203"
+                    VPOS="2065"
+                    WIDTH="869"
+                    HEIGHT="117"></String>
+          </TextLine>
+          <TextLine ID="line_27"
+                    TAGREFS="LT83"
+                    BASELINE="766 2244 1266 2244" 
+                    HPOS="766"
+                    VPOS="2138"
+                    WIDTH="500"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="766 2138 1266 2138 1266 2244 766 2244"/></Shape>
+	    <String CONTENT="РѣШЕНІЕ."
+                    HPOS="766"
+                    VPOS="2138"
+                    WIDTH="500"
+                    HEIGHT="106"></String>
+          </TextLine>
+          <TextLine ID="line_28"
+                    TAGREFS="LT77"
+                    BASELINE="349 2324 1817 2324" 
+                    HPOS="349"
+                    VPOS="2210"
+                    WIDTH="1468"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="349 2210 1817 2210 1817 2324 349 2324"/></Shape>
+	    <String CONTENT="Возьми половину изъ суммы крайнихъ чиселъ;"
+                    HPOS="349"
+                    VPOS="2210"
+                    WIDTH="1468"
+                    HEIGHT="114"></String>
+          </TextLine>
+          <TextLine ID="line_29"
+                    TAGREFS="LT74"
+                    BASELINE="215 2400 1715 2400" 
+                    HPOS="215"
+                    VPOS="2287"
+                    WIDTH="1500"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="215 2287 1715 2287 1715 2400 215 2400"/></Shape>
+	    <String CONTENT="оная покажетъ искомое среднее число (§. 104)."
+                    HPOS="215"
+                    VPOS="2287"
+                    WIDTH="1500"
+                    HEIGHT="113"></String>
+          </TextLine>
+          <TextLine ID="line_30"
+                    TAGREFS="LT83"
+                    BASELINE="661 2535 1376 2535" 
+                    HPOS="661"
+                    VPOS="2412"
+                    WIDTH="715"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="661 2412 1376 2412 1376 2535 661 2535"/></Shape>
+	    <String CONTENT="3АДАЧА ХІІ."
+                    HPOS="661"
+                    VPOS="2412"
+                    WIDTH="715"
+                    HEIGHT="123"></String>
+          </TextLine>
+          <TextLine ID="line_31"
+                    TAGREFS="LT77"
+                    BASELINE="348 2609 1812 2609" 
+                    HPOS="348"
+                    VPOS="2483"
+                    WIDTH="1464"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="348 2483 1812 2483 1812 2609 348 2609"/></Shape>
+	    <String CONTENT="§. 108. Данъ первой членъ и разность найти"
+                    HPOS="348"
+                    VPOS="2483"
+                    WIDTH="1464"
+                    HEIGHT="126"></String>
+          </TextLine>
+          <TextLine ID="line_32"
+                    TAGREFS="LT74"
+                    BASELINE="199 2697 1590 2697" 
+                    HPOS="199"
+                    VPOS="2567"
+                    WIDTH="1391"
+                    HEIGHT="130">
+            <Shape><Polygon POINTS="199 2567 1590 2567 1590 2697 199 2697"/></Shape>
+	    <String CONTENT="какое нибудь число прогрессіи Ариѳтетической."
+                    HPOS="199"
+                    VPOS="2567"
+                    WIDTH="1391"
+                    HEIGHT="130"></String>
+          </TextLine>
+          <TextLine ID="line_33"
+                    TAGREFS="LT83"
+                    BASELINE="822 2751 1212 2751" 
+                    HPOS="822"
+                    VPOS="2648"
+                    WIDTH="390"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="822 2648 1212 2648 1212 2751 822 2751"/></Shape>
+	    <String CONTENT="РѢШЕНІЕ."
+                    HPOS="822"
+                    VPOS="2648"
+                    WIDTH="390"
+                    HEIGHT="103"></String>
+          </TextLine>
+          <TextLine ID="line_34"
+                    TAGREFS="LT77"
+                    BASELINE="352 2829 1831 2829" 
+                    HPOS="352"
+                    VPOS="2708"
+                    WIDTH="1479"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="352 2708 1831 2708 1831 2829 352 2829"/></Shape>
+	    <String CONTENT="Умножь разность на данное число членовъ безъ"
+                    HPOS="352"
+                    VPOS="2708"
+                    WIDTH="1479"
+                    HEIGHT="121"></String>
+          </TextLine>
+          <TextLine ID="line_35"
+                    TAGREFS="LT74"
+                    BASELINE="211 2911 1829 2911" 
+                    HPOS="211"
+                    VPOS="2792"
+                    WIDTH="1618"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="211 2792 1829 2792 1829 2911 211 2911"/></Shape>
+	    <String CONTENT="единицы, къ произведенію придай первой членъ,"
+                    HPOS="211"
+                    VPOS="2792"
+                    WIDTH="1618"
+                    HEIGHT="119"></String>
+          </TextLine>
+          <TextLine ID="line_36"
+                    TAGREFS="LT74"
+                    BASELINE="210 2993 1397 2993" 
+                    HPOS="210"
+                    VPOS="2867"
+                    WIDTH="1187"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="210 2867 1397 2867 1397 2993 210 2993"/></Shape>
+	    <String CONTENT="сумма будетъ искомое число (§. 95.)."
+                    HPOS="210"
+                    VPOS="2867"
+                    WIDTH="1187"
+                    HEIGHT="126"></String>
+          </TextLine>
+          <TextLine ID="line_37"
+                    TAGREFS="LT72"
+                    BASELINE="1591 3056 1823 3056" 
+                    HPOS="1591"
+                    VPOS="2942"
+                    WIDTH="232"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="1591 2942 1823 2942 1823 3056 1591 3056"/></Shape>
+	    <String CONTENT="§. 109."
+                    HPOS="1591"
+                    VPOS="2942"
+                    WIDTH="232"
+                    HEIGHT="114"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="829.0"
+                   VPOS="199.0"
+                   WIDTH="360.0"
+                   HEIGHT="84.0"
+                   ID="block_1"
+                   TAGREFS="BT134">
+          <Shape><Polygon POINTS="829 199 1189 199 1189 283 829 283"/></Shape>
+          <TextLine ID="line_38"
+                    TAGREFS="LT74"
+                    BASELINE="982 272 1088 276" 
+                    HPOS="977"
+                    VPOS="200"
+                    WIDTH="110"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="1065 200 1038 200 1024 200 980 206 980 269 977 294 1084 283 1087 275 1087 200 1065 200"/></Shape>
+	    <String CONTENT="52"
+                    HPOS="977"
+                    VPOS="200"
+                    WIDTH="110"
+                    HEIGHT="94"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

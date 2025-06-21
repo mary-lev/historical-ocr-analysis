@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>e3dce6e0c750.jpeg</fileName>
+      <fileIdentifier>mets//mets.zip/e3dce6e0c750.jpeg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT134" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT137" LABEL="MarginTextZone:outer" DESCRIPTION="block type MarginTextZone:outer"/><OtherTag ID="BT135" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT138" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT2" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT136" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT50" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/>
+    <OtherTag ID="LT85" LABEL="CustomLine:divider" DESCRIPTION="line type CustomLine:divider"/><OtherTag ID="LT86" LABEL="CustomLine:onstage" DESCRIPTION="line type CustomLine:onstage"/><OtherTag ID="LT74" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT83" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT77" LABEL="CustomLine:paragraph_start" DESCRIPTION="line type CustomLine:paragraph_start"/><OtherTag ID="LT73" LABEL="CustomLine:signature" DESCRIPTION="line type CustomLine:signature"/><OtherTag ID="LT72" LABEL="CustomLine:catchword" DESCRIPTION="line type CustomLine:catchword"/><OtherTag ID="LT79" LABEL="CustomLine:verse" DESCRIPTION="line type CustomLine:verse"/><OtherTag ID="LT82" LABEL="CustomLine:speaker" DESCRIPTION="line type CustomLine:speaker"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="1646"
+          HEIGHT="2579"
+          PHYSICAL_IMG_NR="49"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1646"
+                  HEIGHT="2579">
+        <TextBlock HPOS="125.0"
+                   VPOS="229.0"
+                   WIDTH="1358.0"
+                   HEIGHT="2256.0"
+                   ID="block_0"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="125 229 1483 229 1483 2485 125 2485"/></Shape>
+          <TextLine ID="line_0"
+                    TAGREFS="LT74"
+                    BASELINE="175 324 1500 324" 
+                    HPOS="175"
+                    VPOS="236"
+                    WIDTH="1325"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="175 236 1500 236 1500 324 175 324"/></Shape>
+	    <String CONTENT="повелѣла ничего того не дѣлать, что мо-"
+                    HPOS="175"
+                    VPOS="236"
+                    WIDTH="1325"
+                    HEIGHT="88"></String>
+          </TextLine>
+          <TextLine ID="line_1"
+                    TAGREFS="LT74"
+                    BASELINE="177 392 1498 392" 
+                    HPOS="177"
+                    VPOS="305"
+                    WIDTH="1321"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="177 305 1498 305 1498 392 177 392"/></Shape>
+	    <String CONTENT="жетъ обличить любовь нашу. Я напротивъ"
+                    HPOS="177"
+                    VPOS="305"
+                    WIDTH="1321"
+                    HEIGHT="87"></String>
+          </TextLine>
+          <TextLine ID="line_2"
+                    TAGREFS="LT74"
+                    BASELINE="172 458 1497 458" 
+                    HPOS="172"
+                    VPOS="372"
+                    WIDTH="1325"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="172 372 1497 372 1497 458 172 458"/></Shape>
+	    <String CONTENT="того ей мое послушанїе и усердїе въ глазахъ"
+                    HPOS="172"
+                    VPOS="372"
+                    WIDTH="1325"
+                    HEIGHT="86"></String>
+          </TextLine>
+          <TextLine ID="line_3"
+                    TAGREFS="LT74"
+                    BASELINE="169 522 1495 522" 
+                    HPOS="169"
+                    VPOS="438"
+                    WIDTH="1326"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="169 438 1495 438 1495 522 169 522"/></Shape>
+	    <String CONTENT="моихъ представилъ. Опасность была велика."
+                    HPOS="169"
+                    VPOS="438"
+                    WIDTH="1326"
+                    HEIGHT="84"></String>
+          </TextLine>
+          <TextLine ID="line_4"
+                    TAGREFS="LT74"
+                    BASELINE="170 588 1493 588" 
+                    HPOS="170"
+                    VPOS="504"
+                    WIDTH="1323"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="170 504 1493 504 1493 588 170 588"/></Shape>
+	    <String CONTENT="Для себя ея я не боялся, а можетъ быть"
+                    HPOS="170"
+                    VPOS="504"
+                    WIDTH="1323"
+                    HEIGHT="84"></String>
+          </TextLine>
+          <TextLine ID="line_5"
+                    TAGREFS="LT74"
+                    BASELINE="167 654 1482 654" 
+                    HPOS="167"
+                    VPOS="566"
+                    WIDTH="1315"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="167 566 1482 566 1482 654 167 654"/></Shape>
+	    <String CONTENT="и Іеронимѣ для нее не такъ страшна каза-"
+                    HPOS="167"
+                    VPOS="566"
+                    WIDTH="1315"
+                    HEIGHT="88"></String>
+          </TextLine>
+          <TextLine ID="line_6"
+                    TAGREFS="LT74"
+                    BASELINE="166 717 1487 717" 
+                    HPOS="166"
+                    VPOS="634"
+                    WIDTH="1321"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="166 634 1487 634 1487 717 166 717"/></Shape>
+	    <String CONTENT="лась; оба принуждены были таиться: единъ"
+                    HPOS="166"
+                    VPOS="634"
+                    WIDTH="1321"
+                    HEIGHT="83"></String>
+          </TextLine>
+          <TextLine ID="line_7"
+                    TAGREFS="LT74"
+                    BASELINE="165 785 1479 785" 
+                    HPOS="165"
+                    VPOS="700"
+                    WIDTH="1314"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="165 700 1479 700 1479 785 165 785"/></Shape>
+	    <String CONTENT="взоръ неосторожной тогда намъ могъ на-"
+                    HPOS="165"
+                    VPOS="700"
+                    WIDTH="1314"
+                    HEIGHT="85"></String>
+          </TextLine>
+          <TextLine ID="line_8"
+                    TAGREFS="LT74"
+                    BASELINE="164 847 1004 847" 
+                    HPOS="164"
+                    VPOS="763"
+                    WIDTH="840"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="164 763 1004 763 1004 847 164 847"/></Shape>
+	    <String CONTENT="весть неизбѣжную погибель."
+                    HPOS="164"
+                    VPOS="763"
+                    WIDTH="840"
+                    HEIGHT="84"></String>
+          </TextLine>
+          <TextLine ID="line_9"
+                    TAGREFS="LT77"
+                    BASELINE="362 914 1479 914" 
+                    HPOS="362"
+                    VPOS="828"
+                    WIDTH="1117"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="362 828 1479 828 1479 914 362 914"/></Shape>
+	    <String CONTENT="Въ единъ часъ Іеронима всѣхъ помра-"
+                    HPOS="362"
+                    VPOS="828"
+                    WIDTH="1117"
+                    HEIGHT="86"></String>
+          </TextLine>
+          <TextLine ID="line_10"
+                    TAGREFS="LT74"
+                    BASELINE="161 983 1477 983" 
+                    HPOS="161"
+                    VPOS="897"
+                    WIDTH="1316"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="161 897 1477 897 1477 983 161 983"/></Shape>
+	    <String CONTENT="чила, которыя въ сердцѣ Магометовомъ бы-"
+                    HPOS="161"
+                    VPOS="897"
+                    WIDTH="1316"
+                    HEIGHT="86"></String>
+          </TextLine>
+          <TextLine ID="line_11"
+                    TAGREFS="LT74"
+                    BASELINE="160 1048 1477 1048" 
+                    HPOS="160"
+                    VPOS="964"
+                    WIDTH="1317"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="160 964 1477 964 1477 1048 160 1048"/></Shape>
+	    <String CONTENT="ли прежде; вдругъ влюбился и ревнивъ"
+                    HPOS="160"
+                    VPOS="964"
+                    WIDTH="1317"
+                    HEIGHT="84"></String>
+          </TextLine>
+          <TextLine ID="line_12"
+                    TAGREFS="LT74"
+                    BASELINE="159 1112 1480 1112" 
+                    HPOS="159"
+                    VPOS="1027"
+                    WIDTH="1321"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="159 1027 1480 1027 1480 1112 159 1112"/></Shape>
+	    <String CONTENT="сталъ; не хотѣлъ, чтобъ кромѣ его глазъ"
+                    HPOS="159"
+                    VPOS="1027"
+                    WIDTH="1321"
+                    HEIGHT="85"></String>
+          </TextLine>
+          <TextLine ID="line_13"
+                    TAGREFS="LT74"
+                    BASELINE="156 1178 1481 1178" 
+                    HPOS="156"
+                    VPOS="1093"
+                    WIDTH="1325"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="156 1093 1481 1093 1481 1178 156 1178"/></Shape>
+	    <String CONTENT="иные на нее смотрѣли; повелѣлъ отвесть"
+                    HPOS="156"
+                    VPOS="1093"
+                    WIDTH="1325"
+                    HEIGHT="85"></String>
+          </TextLine>
+          <TextLine ID="line_14"
+                    TAGREFS="LT74"
+                    BASELINE="157 1242 1476 1242" 
+                    HPOS="157"
+                    VPOS="1159"
+                    WIDTH="1319"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="157 1159 1476 1159 1476 1242 157 1242"/></Shape>
+	    <String CONTENT="въ тѣ покои, куда ходятъ одни только"
+                    HPOS="157"
+                    VPOS="1159"
+                    WIDTH="1319"
+                    HEIGHT="83"></String>
+          </TextLine>
+          <TextLine ID="line_15"
+                    TAGREFS="LT74"
+                    BASELINE="158 1306 1471 1306" 
+                    HPOS="158"
+                    VPOS="1223"
+                    WIDTH="1313"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="158 1223 1471 1223 1471 1306 158 1306"/></Shape>
+	    <String CONTENT="евнухи; и боясь держать въ Халкидонѣ, по-"
+                    HPOS="158"
+                    VPOS="1223"
+                    WIDTH="1313"
+                    HEIGHT="83"></String>
+          </TextLine>
+          <TextLine ID="line_16"
+                    TAGREFS="LT74"
+                    BASELINE="155 1374 1470 1374" 
+                    HPOS="155"
+                    VPOS="1287"
+                    WIDTH="1315"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="155 1287 1470 1287 1470 1374 155 1374"/></Shape>
+	    <String CONTENT="слалъ въ Константинополь съ такою пред-"
+                    HPOS="155"
+                    VPOS="1287"
+                    WIDTH="1315"
+                    HEIGHT="87"></String>
+          </TextLine>
+          <TextLine ID="line_17"
+                    TAGREFS="LT74"
+                    BASELINE="155 1439 1475 1439" 
+                    HPOS="155"
+                    VPOS="1355"
+                    WIDTH="1320"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="155 1355 1475 1355 1475 1439 155 1439"/></Shape>
+	    <String CONTENT="осторожностю, что мнѣ не возможно было"
+                    HPOS="155"
+                    VPOS="1355"
+                    WIDTH="1320"
+                    HEIGHT="84"></String>
+          </TextLine>
+          <TextLine ID="line_18"
+                    TAGREFS="LT74"
+                    BASELINE="152 1502 477 1502" 
+                    HPOS="152"
+                    VPOS="1421"
+                    WIDTH="325"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="152 1421 477 1421 477 1502 152 1502"/></Shape>
+	    <String CONTENT="ее видѣть."
+                    HPOS="152"
+                    VPOS="1421"
+                    WIDTH="325"
+                    HEIGHT="81"></String>
+          </TextLine>
+          <TextLine ID="line_19"
+                    TAGREFS="LT77"
+                    BASELINE="351 1567 1472 1567" 
+                    HPOS="351"
+                    VPOS="1479"
+                    WIDTH="1121"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="351 1479 1472 1479 1472 1567 351 1567"/></Shape>
+	    <String CONTENT="Какъ она въ Халкидонъ заѣхала, я про-"
+                    HPOS="351"
+                    VPOS="1479"
+                    WIDTH="1121"
+                    HEIGHT="88"></String>
+          </TextLine>
+          <TextLine ID="line_20"
+                    TAGREFS="LT74"
+                    BASELINE="145 1632 1471 1632" 
+                    HPOS="145"
+                    VPOS="1547"
+                    WIDTH="1326"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="145 1547 1471 1547 1471 1632 145 1632"/></Shape>
+	    <String CONTENT="вѣдалъ послѣ. Близъ острова на морѣ пого-"
+                    HPOS="145"
+                    VPOS="1547"
+                    WIDTH="1326"
+                    HEIGHT="85"></String>
+          </TextLine>
+          <TextLine ID="line_21"
+                    TAGREFS="LT74"
+                    BASELINE="149 1701 1468 1701" 
+                    HPOS="149"
+                    VPOS="1615"
+                    WIDTH="1319"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="149 1615 1468 1615 1468 1701 149 1701"/></Shape>
+	    <String CONTENT="дою разбило ее судно. Губернаторъ въ Хал-"
+                    HPOS="149"
+                    VPOS="1615"
+                    WIDTH="1319"
+                    HEIGHT="86"></String>
+          </TextLine>
+          <TextLine ID="line_22"
+                    TAGREFS="LT74"
+                    BASELINE="145 1768 1472 1768" 
+                    HPOS="145"
+                    VPOS="1681"
+                    WIDTH="1327"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="145 1681 1472 1681 1472 1768 145 1768"/></Shape>
+	    <String CONTENT="кидонѣ влюбясь въ нее удержалъ въ городѣ"
+                    HPOS="145"
+                    VPOS="1681"
+                    WIDTH="1327"
+                    HEIGHT="87"></String>
+          </TextLine>
+          <TextLine ID="line_23"
+                    TAGREFS="LT74"
+                    BASELINE="146 1831 348 1831" 
+                    HPOS="146"
+                    VPOS="1755"
+                    WIDTH="202"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="146 1755 348 1755 348 1831 146 1831"/></Shape>
+	    <String CONTENT="силою."
+                    HPOS="146"
+                    VPOS="1755"
+                    WIDTH="202"
+                    HEIGHT="76"></String>
+          </TextLine>
+          <TextLine ID="line_24"
+                    TAGREFS="LT77"
+                    BASELINE="350 1894 1459 1894" 
+                    HPOS="350"
+                    VPOS="1802"
+                    WIDTH="1109"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="350 1802 1459 1802 1459 1894 350 1894"/></Shape>
+	    <String CONTENT="Она бы такъ и поѣхала оставя ме-"
+                    HPOS="350"
+                    VPOS="1802"
+                    WIDTH="1109"
+                    HEIGHT="92"></String>
+          </TextLine>
+          <TextLine ID="line_25"
+                    TAGREFS="LT74"
+                    BASELINE="141 1959 1457 1959" 
+                    HPOS="141"
+                    VPOS="1874"
+                    WIDTH="1316"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="141 1874 1457 1874 1457 1959 141 1959"/></Shape>
+	    <String CONTENT="ня въ несказанномъ мученїи, естьлибъ Ибра-"
+                    HPOS="141"
+                    VPOS="1874"
+                    WIDTH="1316"
+                    HEIGHT="85"></String>
+          </TextLine>
+          <TextLine ID="line_26"
+                    TAGREFS="LT74"
+                    BASELINE="143 2027 1459 2027" 
+                    HPOS="143"
+                    VPOS="1941"
+                    WIDTH="1316"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="143 1941 1459 1941 1459 2027 143 2027"/></Shape>
+	    <String CONTENT="гимъ не обнадежилъ, что онъ можетъ вру-"
+                    HPOS="143"
+                    VPOS="1941"
+                    WIDTH="1316"
+                    HEIGHT="86"></String>
+          </TextLine>
+          <TextLine ID="line_27"
+                    TAGREFS="LT74"
+                    BASELINE="146 2090 1459 2090" 
+                    HPOS="146"
+                    VPOS="2008"
+                    WIDTH="1313"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="146 2008 1459 2008 1459 2090 146 2090"/></Shape>
+	    <String CONTENT="чить ей письмо. Я отважился, хотя и зналъ,"
+                    HPOS="146"
+                    VPOS="2008"
+                    WIDTH="1313"
+                    HEIGHT="82"></String>
+          </TextLine>
+          <TextLine ID="line_28"
+                    TAGREFS="LT74"
+                    BASELINE="140 2156 1460 2156" 
+                    HPOS="140"
+                    VPOS="2074"
+                    WIDTH="1320"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="140 2074 1460 2074 1460 2156 140 2156"/></Shape>
+	    <String CONTENT="какъ много то опасно; отвага моя была"
+                    HPOS="140"
+                    VPOS="2074"
+                    WIDTH="1320"
+                    HEIGHT="82"></String>
+          </TextLine>
+          <TextLine ID="line_29"
+                    TAGREFS="LT74"
+                    BASELINE="144 2223 1460 2223" 
+                    HPOS="144"
+                    VPOS="2138"
+                    WIDTH="1316"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="144 2138 1460 2138 1460 2223 144 2223"/></Shape>
+	    <String CONTENT="удачна. Іеронима мнѣ отвѣтъ прислала."
+                    HPOS="144"
+                    VPOS="2138"
+                    WIDTH="1316"
+                    HEIGHT="85"></String>
+          </TextLine>
+          <TextLine ID="line_30"
+                    TAGREFS="LT74"
+                    BASELINE="144 2285 1460 2285" 
+                    HPOS="144"
+                    VPOS="2201"
+                    WIDTH="1316"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="144 2201 1460 2201 1460 2285 144 2285"/></Shape>
+	    <String CONTENT="Я какъ мое письмо, такъ и ее отвѣтъ по-"
+                    HPOS="144"
+                    VPOS="2201"
+                    WIDTH="1316"
+                    HEIGHT="84"></String>
+          </TextLine>
+          <TextLine ID="line_31"
+                    TAGREFS="LT74"
+                    BASELINE="144 2358 1462 2358" 
+                    HPOS="144"
+                    VPOS="2268"
+                    WIDTH="1318"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="144 2268 1462 2268 1462 2358 144 2358"/></Shape>
+	    <String CONTENT="мню очень, и могу сказать тебѣ отъ слова"
+                    HPOS="144"
+                    VPOS="2268"
+                    WIDTH="1318"
+                    HEIGHT="90"></String>
+          </TextLine>
+          <TextLine ID="line_32"
+                    TAGREFS="LT74"
+                    BASELINE="139 2430 420 2430" 
+                    HPOS="139"
+                    VPOS="2338"
+                    WIDTH="281"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="139 2338 420 2338 420 2430 139 2430"/></Shape>
+	    <String CONTENT="до слова."
+                    HPOS="139"
+                    VPOS="2338"
+                    WIDTH="281"
+                    HEIGHT="92"></String>
+          </TextLine>
+          <TextLine ID="line_33"
+                    TAGREFS="LT72"
+                    BASELINE="1157 2490 1461 2490" 
+                    HPOS="1157"
+                    VPOS="2387"
+                    WIDTH="304"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="1157 2387 1461 2387 1461 2490 1157 2490"/></Shape>
+	    <String CONTENT="ПИСЬМО"
+                    HPOS="1157"
+                    VPOS="2387"
+                    WIDTH="304"
+                    HEIGHT="103"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="490.0"
+                   VPOS="87.0"
+                   WIDTH="692.0"
+                   HEIGHT="128.0"
+                   ID="block_2"
+                   TAGREFS="BT134">
+          <Shape><Polygon POINTS="490 87 1182 87 1182 215 490 215"/></Shape>
+        </TextBlock>
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="line_34"
+                    TAGREFS="LT74"
+                    BASELINE="771 184 905 184" 
+                    HPOS="770"
+                    VPOS="94"
+                    WIDTH="133"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="770 182 770 214 903 206 903 182 903 94 862 94 860 94 858 94 856 94 856 96 839 111 830 122 770 131 770 182"/></Shape>
+	    <String CONTENT="16"
+                    HPOS="770"
+                    VPOS="94"
+                    WIDTH="133"
+                    HEIGHT="120"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

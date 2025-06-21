@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>526e4142244a.jpeg</fileName>
+      <fileIdentifier>mets//mets.zip/526e4142244a.jpeg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT134" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT137" LABEL="MarginTextZone:outer" DESCRIPTION="block type MarginTextZone:outer"/><OtherTag ID="BT135" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT138" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT2" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT136" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT50" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/>
+    <OtherTag ID="LT85" LABEL="CustomLine:divider" DESCRIPTION="line type CustomLine:divider"/><OtherTag ID="LT86" LABEL="CustomLine:onstage" DESCRIPTION="line type CustomLine:onstage"/><OtherTag ID="LT74" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT83" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT77" LABEL="CustomLine:paragraph_start" DESCRIPTION="line type CustomLine:paragraph_start"/><OtherTag ID="LT73" LABEL="CustomLine:signature" DESCRIPTION="line type CustomLine:signature"/><OtherTag ID="LT72" LABEL="CustomLine:catchword" DESCRIPTION="line type CustomLine:catchword"/><OtherTag ID="LT79" LABEL="CustomLine:verse" DESCRIPTION="line type CustomLine:verse"/><OtherTag ID="LT82" LABEL="CustomLine:speaker" DESCRIPTION="line type CustomLine:speaker"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="1600"
+          HEIGHT="2700"
+          PHYSICAL_IMG_NR="70"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1600"
+                  HEIGHT="2700">
+        <TextBlock HPOS="78.0"
+                   VPOS="81.0"
+                   WIDTH="149.0"
+                   HEIGHT="99.0"
+                   ID="eSc_textblock_07e49c07"
+                   TAGREFS="BT134">
+          <Shape><Polygon POINTS="78 81 78 180 227 180 227 81"/></Shape>
+          <TextLine ID="eSc_line_fe022602"
+                    TAGREFS="LT74"
+                    BASELINE="108 125 190 119" 
+                    HPOS="99"
+                    VPOS="54"
+                    WIDTH="92"
+                    HEIGHT="146">
+            <Shape><Polygon POINTS="112 200 191 171 189 117 182 60 99 54 105 123"/></Shape>
+	    <String CONTENT="26"
+                    HPOS="99"
+                    VPOS="54"
+                    WIDTH="92"
+                    HEIGHT="146"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="44.0"
+                   VPOS="224.0"
+                   WIDTH="1505.0"
+                   HEIGHT="2196.0"
+                   ID="eSc_textblock_aee2e400"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="44 224 44 2420 1549 2420 1549 224"/></Shape>
+          <TextLine ID="line_1"
+                    TAGREFS="LT77"
+                    BASELINE="709 262 880 262" 
+                    HPOS="706"
+                    VPOS="237"
+                    WIDTH="174"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="709 237 880 243 877 287 706 280"/></Shape>
+	    <String CONTENT="§. 74."
+                    HPOS="706"
+                    VPOS="237"
+                    WIDTH="174"
+                    HEIGHT="50"></String>
+          </TextLine>
+          <TextLine ID="line_2"
+                    TAGREFS="LT83"
+                    BASELINE="81 412 1484 412" 
+                    HPOS="80"
+                    VPOS="364"
+                    WIDTH="1404"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="81 364 1484 371 1483 460 80 453"/></Shape>
+	    <String CONTENT="Сравненїе Римско-Католицкой"
+                    HPOS="80"
+                    VPOS="364"
+                    WIDTH="1404"
+                    HEIGHT="96"></String>
+          </TextLine>
+          <TextLine ID="line_3"
+                    TAGREFS="LT83"
+                    BASELINE="103 527 1482 527" 
+                    HPOS="103"
+                    VPOS="481"
+                    WIDTH="1380"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="103 490 1482 481 1483 564 104 573"/></Shape>
+	    <String CONTENT="и Протестантской Религїй въ"
+                    HPOS="103"
+                    VPOS="481"
+                    WIDTH="1380"
+                    HEIGHT="92"></String>
+          </TextLine>
+          <TextLine ID="line_4"
+                    TAGREFS="LT83"
+                    BASELINE="221 642 1371 642" 
+                    HPOS="219"
+                    VPOS="594"
+                    WIDTH="1152"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="221 594 1371 608 1369 691 219 677"/></Shape>
+	    <String CONTENT="разсужденїи государства."
+                    HPOS="219"
+                    VPOS="594"
+                    WIDTH="1152"
+                    HEIGHT="97"></String>
+          </TextLine>
+          <TextLine ID="line_5"
+                    TAGREFS="LT77"
+                    BASELINE="241 808 1486 808" 
+                    HPOS="241"
+                    VPOS="778"
+                    WIDTH="1245"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="241 780 1486 778 1486 837 241 839"/></Shape>
+	    <String CONTENT="Что Римско-Католицкая вѣра при-"
+                    HPOS="241"
+                    VPOS="778"
+                    WIDTH="1245"
+                    HEIGHT="61"></String>
+          </TextLine>
+          <TextLine ID="line_6"
+                    TAGREFS="LT74"
+                    BASELINE="102 888 1493 888" 
+                    HPOS="102"
+                    VPOS="857"
+                    WIDTH="1391"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="102 857 1493 863 1493 919 102 912"/></Shape>
+	    <String CONTENT="стойнѣе монархическому, а Протестант-"
+                    HPOS="102"
+                    VPOS="857"
+                    WIDTH="1391"
+                    HEIGHT="62"></String>
+          </TextLine>
+          <TextLine ID="line_7"
+                    TAGREFS="LT74"
+                    BASELINE="102 959 1486 959" 
+                    HPOS="102"
+                    VPOS="933"
+                    WIDTH="1384"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="102 933 1486 933 1486 986 102 986"/></Shape>
+	    <String CONTENT="ская республиканскому правленїю , какъ"
+                    HPOS="102"
+                    VPOS="933"
+                    WIDTH="1384"
+                    HEIGHT="53"></String>
+          </TextLine>
+          <TextLine ID="line_8"
+                    TAGREFS="LT74"
+                    BASELINE="100 1032 1494 1032" 
+                    HPOS="100"
+                    VPOS="1004"
+                    WIDTH="1394"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="100 1004 1494 1004 1494 1061 100 1061"/></Shape>
+	    <String CONTENT="утверждаетъ славной Г. Монтескїу, то"
+                    HPOS="100"
+                    VPOS="1004"
+                    WIDTH="1394"
+                    HEIGHT="57"></String>
+          </TextLine>
+          <TextLine ID="line_9"
+                    TAGREFS="LT74"
+                    BASELINE="104 1106 1492 1106" 
+                    HPOS="103"
+                    VPOS="1079"
+                    WIDTH="1389"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="104 1079 1492 1081 1491 1133 103 1131"/></Shape>
+	    <String CONTENT="само собою неосновательно и съ опыта-"
+                    HPOS="103"
+                    VPOS="1079"
+                    WIDTH="1389"
+                    HEIGHT="54"></String>
+          </TextLine>
+          <TextLine ID="line_10"
+                    TAGREFS="LT74"
+                    BASELINE="107 1182 1491 1182" 
+                    HPOS="107"
+                    VPOS="1144"
+                    WIDTH="1385"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="107 1156 1491 1144 1492 1208 108 1220"/></Shape>
+	    <String CONTENT="ми не согласно (а) Извѣстно, что Про-"
+                    HPOS="107"
+                    VPOS="1144"
+                    WIDTH="1385"
+                    HEIGHT="76"></String>
+          </TextLine>
+          <TextLine ID="line_11"
+                    TAGREFS="LT74"
+                    BASELINE="104 1252 1486 1252" 
+                    HPOS="103"
+                    VPOS="1224"
+                    WIDTH="1383"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="104 1224 1486 1227 1486 1281 103 1279"/></Shape>
+	    <String CONTENT="тестантская религїя государству во всемъ"
+                    HPOS="103"
+                    VPOS="1224"
+                    WIDTH="1383"
+                    HEIGHT="57"></String>
+          </TextLine>
+          <TextLine ID="line_12"
+                    TAGREFS="LT74"
+                    BASELINE="103 1319 1485 1319" 
+                    HPOS="103"
+                    VPOS="1290"
+                    WIDTH="1382"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="103 1292 1485 1290 1485 1346 104 1349"/></Shape>
+	    <String CONTENT="полезна , чего о Католицкой сказать не"
+                    HPOS="103"
+                    VPOS="1290"
+                    WIDTH="1382"
+                    HEIGHT="59"></String>
+          </TextLine>
+          <TextLine ID="line_13"
+                    TAGREFS="LT74"
+                    BASELINE="108 1394 1489 1394" 
+                    HPOS="108"
+                    VPOS="1365"
+                    WIDTH="1381"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="108 1365 1489 1365 1489 1423 108 1423"/></Shape>
+	    <String CONTENT="можно, ежели разсудить , что Като-"
+                    HPOS="108"
+                    VPOS="1365"
+                    WIDTH="1381"
+                    HEIGHT="58"></String>
+          </TextLine>
+          <TextLine ID="line_14"
+                    TAGREFS="LT74"
+                    BASELINE="108 1469 1492 1469" 
+                    HPOS="107"
+                    VPOS="1440"
+                    WIDTH="1385"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="108 1440 1492 1442 1491 1498 107 1495"/></Shape>
+	    <String CONTENT="лицкимъ государямъ не дозволено всту-"
+                    HPOS="107"
+                    VPOS="1440"
+                    WIDTH="1385"
+                    HEIGHT="58"></String>
+          </TextLine>
+          <TextLine ID="line_15"
+                    TAGREFS="LT74"
+                    BASELINE="104 1542 1490 1542" 
+                    HPOS="103"
+                    VPOS="1514"
+                    WIDTH="1387"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="104 1514 1490 1515 1490 1570 103 1568"/></Shape>
+	    <String CONTENT="пать въ церковное правленїе въ своемъ"
+                    HPOS="103"
+                    VPOS="1514"
+                    WIDTH="1387"
+                    HEIGHT="56"></String>
+          </TextLine>
+          <TextLine ID="line_16"
+                    TAGREFS="LT74"
+                    BASELINE="106 1619 1497 1619" 
+                    HPOS="106"
+                    VPOS="1587"
+                    WIDTH="1391"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="106 1592 1497 1587 1497 1646 106 1651"/></Shape>
+	    <String CONTENT="государствѣ, но сїе приписываютъ Па-"
+                    HPOS="106"
+                    VPOS="1587"
+                    WIDTH="1391"
+                    HEIGHT="64"></String>
+          </TextLine>
+          <TextLine ID="line_17"
+                    TAGREFS="LT74"
+                    BASELINE="107 1690 1490 1690" 
+                    HPOS="107"
+                    VPOS="1659"
+                    WIDTH="1383"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="107 1664 1490 1659 1490 1717 108 1721"/></Shape>
+	    <String CONTENT="пѣ , которой имѣетъ власть въ каждомъ"
+                    HPOS="107"
+                    VPOS="1659"
+                    WIDTH="1383"
+                    HEIGHT="62"></String>
+          </TextLine>
+          <TextLine ID="line_18"
+                    TAGREFS="LT74"
+                    BASELINE="106 1767 1492 1767" 
+                    HPOS="106"
+                    VPOS="1737"
+                    WIDTH="1386"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="106 1737 1492 1741 1491 1797 106 1793"/></Shape>
+	    <String CONTENT="такомъ государствѣ раздавать духовные"
+                    HPOS="106"
+                    VPOS="1737"
+                    WIDTH="1386"
+                    HEIGHT="60"></String>
+          </TextLine>
+          <TextLine ID="line_19"
+                    TAGREFS="LT74"
+                    BASELINE="109 1840 1490 1840" 
+                    HPOS="109"
+                    VPOS="1812"
+                    WIDTH="1381"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="109 1812 1490 1812 1490 1868 109 1868"/></Shape>
+	    <String CONTENT="чины и достоинства по собственной"
+                    HPOS="109"
+                    VPOS="1812"
+                    WIDTH="1381"
+                    HEIGHT="56"></String>
+          </TextLine>
+          <TextLine ID="line_20"
+                    TAGREFS="LT74"
+                    BASELINE="113 1911 1491 1911" 
+                    HPOS="113"
+                    VPOS="1879"
+                    WIDTH="1379"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="113 1881 1491 1879 1492 1941 113 1943"/></Shape>
+	    <String CONTENT="волѣ; что въ той же Католицкой"
+                    HPOS="113"
+                    VPOS="1879"
+                    WIDTH="1379"
+                    HEIGHT="64"></String>
+          </TextLine>
+          <TextLine ID="line_21"
+                    TAGREFS="LT74"
+                    BASELINE="114 1987 1492 1987" 
+                    HPOS="114"
+                    VPOS="1959"
+                    WIDTH="1378"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="114 1959 1492 1963 1491 2016 114 2013"/></Shape>
+	    <String CONTENT="вѣрѣ запрещено жениться духовнымъ"
+                    HPOS="114"
+                    VPOS="1959"
+                    WIDTH="1378"
+                    HEIGHT="57"></String>
+          </TextLine>
+          <TextLine ID="line_22"
+                    TAGREFS="LT74"
+                    BASELINE="113 2062 1498 2062" 
+                    HPOS="113"
+                    VPOS="2034"
+                    WIDTH="1385"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="113 2034 1498 2034 1498 2091 113 2091"/></Shape>
+	    <String CONTENT="и учреждено великое множество праздни-"
+                    HPOS="113"
+                    VPOS="2034"
+                    WIDTH="1385"
+                    HEIGHT="57"></String>
+          </TextLine>
+          <TextLine ID="line_23"
+                    TAGREFS="LT74"
+                    BASELINE="113 2136 1490 2136" 
+                    HPOS="113"
+                    VPOS="2104"
+                    WIDTH="1377"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="113 2109 1490 2104 1490 2164 113 2169"/></Shape>
+	    <String CONTENT="ковъ (b); что число (с), богатство (d)"
+                    HPOS="113"
+                    VPOS="2104"
+                    WIDTH="1377"
+                    HEIGHT="65"></String>
+          </TextLine>
+          <TextLine ID="line_24"
+                    TAGREFS="LT74"
+                    BASELINE="115 2211 1490 2211" 
+                    HPOS="115"
+                    VPOS="2179"
+                    WIDTH="1375"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="115 2185 1490 2179 1490 2238 116 2243"/></Shape>
+	    <String CONTENT="и великолѣпїе (е) церквей и монастырей"
+                    HPOS="115"
+                    VPOS="2179"
+                    WIDTH="1375"
+                    HEIGHT="64"></String>
+          </TextLine>
+          <TextLine ID="line_25"
+                    TAGREFS="LT74"
+                    BASELINE="118 2283 1488 2283" 
+                    HPOS="118"
+                    VPOS="2245"
+                    WIDTH="1372"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="118 2261 1488 2245 1490 2305 119 2321"/></Shape>
+	    <String CONTENT="хотя и чрезвычайно велико; однако"
+                    HPOS="118"
+                    VPOS="2245"
+                    WIDTH="1372"
+                    HEIGHT="76"></String>
+          </TextLine>
+          <TextLine ID="line_26"
+                    TAGREFS="LT72"
+                    BASELINE="1297 2352 1495 2352" 
+                    HPOS="1297.0"
+                    VPOS="2329.0"
+                    WIDTH="200.0"
+                    HEIGHT="46.0">
+            <Shape><Polygon POINTS="1297 2334 1495 2329 1497 2371 1299 2375"/></Shape>
+	    <String CONTENT="обык-"
+                    HPOS="1297.0"
+                    VPOS="2329.0"
+                    WIDTH="200.0"
+                    HEIGHT="46.0"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="617.0"
+                   VPOS="64.0"
+                   WIDTH="336.0"
+                   HEIGHT="112.0"
+                   ID="eSc_textblock_eda8c0e3"
+                   TAGREFS="BT135">
+          <Shape><Polygon POINTS="617 64 617 176 949 176 953 64"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

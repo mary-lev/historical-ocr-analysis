@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>2035f3aaa268.jpeg</fileName>
+      <fileIdentifier>mets//mets.zip/2035f3aaa268.jpeg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT134" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT137" LABEL="MarginTextZone:outer" DESCRIPTION="block type MarginTextZone:outer"/><OtherTag ID="BT135" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT138" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT2" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT136" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT50" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/>
+    <OtherTag ID="LT85" LABEL="CustomLine:divider" DESCRIPTION="line type CustomLine:divider"/><OtherTag ID="LT86" LABEL="CustomLine:onstage" DESCRIPTION="line type CustomLine:onstage"/><OtherTag ID="LT74" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT83" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT77" LABEL="CustomLine:paragraph_start" DESCRIPTION="line type CustomLine:paragraph_start"/><OtherTag ID="LT73" LABEL="CustomLine:signature" DESCRIPTION="line type CustomLine:signature"/><OtherTag ID="LT72" LABEL="CustomLine:catchword" DESCRIPTION="line type CustomLine:catchword"/><OtherTag ID="LT79" LABEL="CustomLine:verse" DESCRIPTION="line type CustomLine:verse"/><OtherTag ID="LT82" LABEL="CustomLine:speaker" DESCRIPTION="line type CustomLine:speaker"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="875"
+          HEIGHT="1479"
+          PHYSICAL_IMG_NR="38"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="875"
+                  HEIGHT="1479">
+        <TextBlock HPOS="129.0"
+                   VPOS="111.0"
+                   WIDTH="726.0"
+                   HEIGHT="1263.0"
+                   ID="block_0"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="129 111 855 111 855 1374 129 1374"/></Shape>
+          <TextLine ID="line_0"
+                    TAGREFS="LT74"
+                    BASELINE="172 172 823 172" 
+                    HPOS="172"
+                    VPOS="101"
+                    WIDTH="651"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="172 101 823 101 823 172 172 172"/></Shape>
+	    <String CONTENT="называемый, за которымъ въ 25 жъ вер-"
+                    HPOS="172"
+                    VPOS="101"
+                    WIDTH="651"
+                    HEIGHT="71"></String>
+          </TextLine>
+          <TextLine ID="line_1"
+                    TAGREFS="LT74"
+                    BASELINE="171 210 830 210" 
+                    HPOS="171"
+                    VPOS="151"
+                    WIDTH="659"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="171 151 830 151 830 210 171 210"/></Shape>
+	    <String CONTENT="стахъ съ половиною, слѣдуетъ уже Орская"
+                    HPOS="171"
+                    VPOS="151"
+                    WIDTH="659"
+                    HEIGHT="59"></String>
+          </TextLine>
+          <TextLine ID="line_2"
+                    TAGREFS="LT74"
+                    BASELINE="171 240 316 240" 
+                    HPOS="171"
+                    VPOS="195"
+                    WIDTH="145"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="171 195 316 195 316 240 171 240"/></Shape>
+	    <String CONTENT="крѣпость."
+                    HPOS="171"
+                    VPOS="195"
+                    WIDTH="145"
+                    HEIGHT="45"></String>
+          </TextLine>
+          <TextLine ID="line_3"
+                    TAGREFS="LT77"
+                    BASELINE="170 280 831 280" 
+                    HPOS="170"
+                    VPOS="226"
+                    WIDTH="661"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="170 226 831 226 831 280 170 280"/></Shape>
+	    <String CONTENT="(ІІІ) Орская дистанція, начинаясь отъ"
+                    HPOS="170"
+                    VPOS="226"
+                    WIDTH="661"
+                    HEIGHT="54"></String>
+          </TextLine>
+          <TextLine ID="line_4"
+                    TAGREFS="LT74"
+                    BASELINE="136 315 832 315" 
+                    HPOS="136"
+                    VPOS="264"
+                    WIDTH="696"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="136 264 832 264 832 315 136 315"/></Shape>
+	    <String CONTENT="Орской крѣпости, продолжается до Магни-"
+                    HPOS="136"
+                    VPOS="264"
+                    WIDTH="696"
+                    HEIGHT="51"></String>
+          </TextLine>
+          <TextLine ID="line_5"
+                    TAGREFS="LT74"
+                    BASELINE="135 351 830 351" 
+                    HPOS="135"
+                    VPOS="300"
+                    WIDTH="695"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="135 300 830 300 830 351 135 351"/></Shape>
+	    <String CONTENT="тной вверхъ по Яику. Она заключаетъ въ"
+                    HPOS="135"
+                    VPOS="300"
+                    WIDTH="695"
+                    HEIGHT="51"></String>
+          </TextLine>
+          <TextLine ID="line_6"
+                    TAGREFS="LT74"
+                    BASELINE="137 390 720 390" 
+                    HPOS="137"
+                    VPOS="337"
+                    WIDTH="583"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="137 337 720 337 720 390 137 390"/></Shape>
+	    <String CONTENT="себѣ пять слѣдующихъ крѣпостей:"
+                    HPOS="137"
+                    VPOS="337"
+                    WIDTH="583"
+                    HEIGHT="53"></String>
+          </TextLine>
+          <TextLine ID="line_7"
+                    TAGREFS="LT77"
+                    BASELINE="138 431 830 431" 
+                    HPOS="138"
+                    VPOS="377"
+                    WIDTH="692"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="138 377 830 377 830 431 138 431"/></Shape>
+	    <String CONTENT="1 Орскъ, или Орская крѣпость, отъ Губер-"
+                    HPOS="138"
+                    VPOS="377"
+                    WIDTH="692"
+                    HEIGHT="54"></String>
+          </TextLine>
+          <TextLine ID="line_8"
+                    TAGREFS="LT74"
+                    BASELINE="174 464 830 464" 
+                    HPOS="174"
+                    VPOS="416"
+                    WIDTH="656"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="174 416 830 416 830 464 174 464"/></Shape>
+	    <String CONTENT="линской въ 50 ½, а отъ Оренбурга въ 252"
+                    HPOS="174"
+                    VPOS="416"
+                    WIDTH="656"
+                    HEIGHT="48"></String>
+          </TextLine>
+          <TextLine ID="line_9"
+                    TAGREFS="LT74"
+                    BASELINE="174 500 832 500" 
+                    HPOS="174"
+                    VPOS="450"
+                    WIDTH="658"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="174 450 832 450 832 500 174 500"/></Shape>
+	    <String CONTENT="верстахъ, стоящая на степной сторонѣ Яика"
+                    HPOS="174"
+                    VPOS="450"
+                    WIDTH="658"
+                    HEIGHT="50"></String>
+          </TextLine>
+          <TextLine ID="line_10"
+                    TAGREFS="LT74"
+                    BASELINE="172 532 830 532" 
+                    HPOS="172"
+                    VPOS="481"
+                    WIDTH="658"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="172 481 830 481 830 532 172 532"/></Shape>
+	    <String CONTENT="верстахъ въ двухъ отъ устья впадающей въ"
+                    HPOS="172"
+                    VPOS="481"
+                    WIDTH="658"
+                    HEIGHT="51"></String>
+          </TextLine>
+          <TextLine ID="line_11"
+                    TAGREFS="LT74"
+                    BASELINE="172 566 831 566" 
+                    HPOS="172"
+                    VPOS="516"
+                    WIDTH="659"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="172 516 831 516 831 566 172 566"/></Shape>
+	    <String CONTENT="него рѣки Ори. Сія крѣпость подъ именемъ"
+                    HPOS="172"
+                    VPOS="516"
+                    WIDTH="659"
+                    HEIGHT="50"></String>
+          </TextLine>
+          <TextLine ID="line_12"
+                    TAGREFS="LT74"
+                    BASELINE="175 600 831 600" 
+                    HPOS="175"
+                    VPOS="548"
+                    WIDTH="656"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="175 548 831 548 831 600 175 600"/></Shape>
+	    <String CONTENT="Оренбурга Статскимъ Совѣтникомъ Кирило-"
+                    HPOS="175"
+                    VPOS="548"
+                    WIDTH="656"
+                    HEIGHT="52"></String>
+          </TextLine>
+          <TextLine ID="line_13"
+                    TAGREFS="LT74"
+                    BASELINE="175 630 831 630" 
+                    HPOS="175"
+                    VPOS="583"
+                    WIDTH="656"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="175 583 831 583 831 630 175 630"/></Shape>
+	    <String CONTENT="вымъ застроена въ 1735 году; она и поны-"
+                    HPOS="175"
+                    VPOS="583"
+                    WIDTH="656"
+                    HEIGHT="47"></String>
+          </TextLine>
+          <TextLine ID="line_14"
+                    TAGREFS="LT74"
+                    BASELINE="177 662 831 662" 
+                    HPOS="177"
+                    VPOS="616"
+                    WIDTH="654"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="177 616 831 616 831 662 177 662"/></Shape>
+	    <String CONTENT="нѣ изо всѣхъ здѣшнихъ крѣпостей, кромѣ ны-"
+                    HPOS="177"
+                    VPOS="616"
+                    WIDTH="654"
+                    HEIGHT="46"></String>
+          </TextLine>
+          <TextLine ID="line_15"
+                    TAGREFS="LT74"
+                    BASELINE="177 696 835 696" 
+                    HPOS="177"
+                    VPOS="649"
+                    WIDTH="658"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="177 649 835 649 835 696 177 696"/></Shape>
+	    <String CONTENT="нѣшней Оренбургской, правильнѣе укрѣплена и"
+                    HPOS="177"
+                    VPOS="649"
+                    WIDTH="658"
+                    HEIGHT="47"></String>
+          </TextLine>
+          <TextLine ID="line_16"
+                    TAGREFS="LT74"
+                    BASELINE="178 729 834 729" 
+                    HPOS="178"
+                    VPOS="683"
+                    WIDTH="656"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="178 683 834 683 834 729 178 729"/></Shape>
+	    <String CONTENT="снабдена достаточною артиллеріею и гарнизо-"
+                    HPOS="178"
+                    VPOS="683"
+                    WIDTH="656"
+                    HEIGHT="46"></String>
+          </TextLine>
+          <TextLine ID="line_17"
+                    TAGREFS="LT74"
+                    BASELINE="180 761 832 761" 
+                    HPOS="180"
+                    VPOS="714"
+                    WIDTH="652"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="180 714 832 714 832 761 180 761"/></Shape>
+	    <String CONTENT="номъ, состоящимъ въ вѣдомствѣ живущаго въ"
+                    HPOS="180"
+                    VPOS="714"
+                    WIDTH="652"
+                    HEIGHT="47"></String>
+          </TextLine>
+          <TextLine ID="line_18"
+                    TAGREFS="LT74"
+                    BASELINE="178 796 833 796" 
+                    HPOS="178"
+                    VPOS="748"
+                    WIDTH="655"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="178 748 833 748 833 796 178 796"/></Shape>
+	    <String CONTENT="ней командира всей Орской дистанціи. Жилья"
+                    HPOS="178"
+                    VPOS="748"
+                    WIDTH="655"
+                    HEIGHT="48"></String>
+          </TextLine>
+          <TextLine ID="line_19"
+                    TAGREFS="LT74"
+                    BASELINE="177 828 829 828" 
+                    HPOS="177"
+                    VPOS="781"
+                    WIDTH="652"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="177 781 829 781 829 828 177 828"/></Shape>
+	    <String CONTENT="всего здѣсь дворовъ до трехъ сотъ; тамо-"
+                    HPOS="177"
+                    VPOS="781"
+                    WIDTH="652"
+                    HEIGHT="47"></String>
+          </TextLine>
+          <TextLine ID="line_20"
+                    TAGREFS="LT74"
+                    BASELINE="179 861 835 861" 
+                    HPOS="179"
+                    VPOS="813"
+                    WIDTH="656"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="179 813 835 813 835 861 179 861"/></Shape>
+	    <String CONTENT="шняя преизрядная каменная церковь во имя"
+                    HPOS="179"
+                    VPOS="813"
+                    WIDTH="656"
+                    HEIGHT="48"></String>
+          </TextLine>
+          <TextLine ID="line_21"
+                    TAGREFS="LT74"
+                    BASELINE="175 895 831 895" 
+                    HPOS="175"
+                    VPOS="846"
+                    WIDTH="656"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="175 846 831 846 831 895 175 895"/></Shape>
+	    <String CONTENT="преображенія Господня, сооруженная на кру-"
+                    HPOS="175"
+                    VPOS="846"
+                    WIDTH="656"
+                    HEIGHT="49"></String>
+          </TextLine>
+          <TextLine ID="line_22"
+                    TAGREFS="LT74"
+                    BASELINE="176 928 833 928" 
+                    HPOS="176"
+                    VPOS="877"
+                    WIDTH="657"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="176 877 833 877 833 928 176 928"/></Shape>
+	    <String CONTENT="гломъ курганѣ довольной высоты, изъ само-"
+                    HPOS="176"
+                    VPOS="877"
+                    WIDTH="657"
+                    HEIGHT="51"></String>
+          </TextLine>
+          <TextLine ID="line_23"
+                    TAGREFS="LT74"
+                    BASELINE="179 958 834 958" 
+                    HPOS="179"
+                    VPOS="910"
+                    WIDTH="655"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="179 910 834 910 834 958 179 958"/></Shape>
+	    <String CONTENT="родныхъ яшмовыхъ камней состоящемъ и"
+                    HPOS="179"
+                    VPOS="910"
+                    WIDTH="655"
+                    HEIGHT="48"></String>
+          </TextLine>
+          <TextLine ID="line_24"
+                    TAGREFS="LT74"
+                    BASELINE="176 992 832 992" 
+                    HPOS="176"
+                    VPOS="943"
+                    WIDTH="656"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="176 943 832 943 832 992 176 992"/></Shape>
+	    <String CONTENT="Преображенскою горою называемомъ, всей крѣ-"
+                    HPOS="176"
+                    VPOS="943"
+                    WIDTH="656"
+                    HEIGHT="49"></String>
+          </TextLine>
+          <TextLine ID="line_25"
+                    TAGREFS="LT74"
+                    BASELINE="177 1024 833 1024" 
+                    HPOS="177"
+                    VPOS="977"
+                    WIDTH="656"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="177 977 833 977 833 1024 177 1024"/></Shape>
+	    <String CONTENT="пости причиняетъ не малую красу. Вверхъ по"
+                    HPOS="177"
+                    VPOS="977"
+                    WIDTH="656"
+                    HEIGHT="47"></String>
+          </TextLine>
+          <TextLine ID="line_26"
+                    TAGREFS="LT74"
+                    BASELINE="176 1058 831 1058" 
+                    HPOS="176"
+                    VPOS="1010"
+                    WIDTH="655"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="176 1010 831 1010 831 1058 176 1058"/></Shape>
+	    <String CONTENT="Яику къ Таналыцкой крѣпости есть два реду-"
+                    HPOS="176"
+                    VPOS="1010"
+                    WIDTH="655"
+                    HEIGHT="48"></String>
+          </TextLine>
+          <TextLine ID="line_27"
+                    TAGREFS="LT74"
+                    BASELINE="173 1087 832 1087" 
+                    HPOS="173"
+                    VPOS="1043"
+                    WIDTH="659"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="173 1043 832 1043 832 1087 173 1087"/></Shape>
+	    <String CONTENT="та Калпацкой и Тераклинской: первый"
+                    HPOS="173"
+                    VPOS="1043"
+                    WIDTH="659"
+                    HEIGHT="44"></String>
+          </TextLine>
+          <TextLine ID="line_28"
+                    TAGREFS="LT74"
+                    BASELINE="177 1126 831 1126" 
+                    HPOS="177"
+                    VPOS="1074"
+                    WIDTH="654"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="177 1074 831 1074 831 1126 177 1126"/></Shape>
+	    <String CONTENT="отъ Орска въ 31; а послѣдній въ 59 верстахъ."
+                    HPOS="177"
+                    VPOS="1074"
+                    WIDTH="654"
+                    HEIGHT="52"></String>
+          </TextLine>
+          <TextLine ID="line_29"
+                    TAGREFS="LT77"
+                    BASELINE="148 1164 830 1164" 
+                    HPOS="148"
+                    VPOS="1111"
+                    WIDTH="682"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="148 1111 830 1111 830 1164 148 1164"/></Shape>
+	    <String CONTENT="2 Таналыцкая крѣпость, отъ Орской въ 73"
+                    HPOS="148"
+                    VPOS="1111"
+                    WIDTH="682"
+                    HEIGHT="53"></String>
+          </TextLine>
+          <TextLine ID="line_30"
+                    TAGREFS="LT74"
+                    BASELINE="175 1195 831 1195" 
+                    HPOS="175"
+                    VPOS="1147"
+                    WIDTH="656"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="175 1147 831 1147 831 1195 175 1195"/></Shape>
+	    <String CONTENT="верстахъ стоящая по сю сторону Яика, въ"
+                    HPOS="175"
+                    VPOS="1147"
+                    WIDTH="656"
+                    HEIGHT="48"></String>
+          </TextLine>
+          <TextLine ID="line_31"
+                    TAGREFS="LT74"
+                    BASELINE="174 1229 828 1229" 
+                    HPOS="174"
+                    VPOS="1180"
+                    WIDTH="654"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="174 1180 828 1180 828 1229 174 1229"/></Shape>
+	    <String CONTENT="которой гарнизону, какъ и въ прочихъ крѣ-"
+                    HPOS="174"
+                    VPOS="1180"
+                    WIDTH="654"
+                    HEIGHT="49"></String>
+          </TextLine>
+          <TextLine ID="line_32"
+                    TAGREFS="LT74"
+                    BASELINE="174 1260 830 1260" 
+                    HPOS="174"
+                    VPOS="1213"
+                    WIDTH="656"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="174 1213 830 1213 830 1260 174 1260"/></Shape>
+	    <String CONTENT="постяхъ 2 роты драгунскихъ, да половина"
+                    HPOS="174"
+                    VPOS="1213"
+                    WIDTH="656"
+                    HEIGHT="47"></String>
+          </TextLine>
+          <TextLine ID="line_33"
+                    TAGREFS="LT74"
+                    BASELINE="172 1296 828 1296" 
+                    HPOS="172"
+                    VPOS="1246"
+                    WIDTH="656"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="172 1246 828 1246 828 1296 172 1296"/></Shape>
+	    <String CONTENT="пѣхотной. Отъ нея въ 23 ½ верстахъ сто-"
+                    HPOS="172"
+                    VPOS="1246"
+                    WIDTH="656"
+                    HEIGHT="50"></String>
+          </TextLine>
+          <TextLine ID="line_34"
+                    TAGREFS="LT74"
+                    BASELINE="174 1327 547 1327" 
+                    HPOS="174"
+                    VPOS="1277"
+                    WIDTH="373"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="174 1277 547 1277 547 1327 174 1327"/></Shape>
+	    <String CONTENT="итъ Орловской редутъ."
+                    HPOS="174"
+                    VPOS="1277"
+                    WIDTH="373"
+                    HEIGHT="50"></String>
+          </TextLine>
+          <TextLine ID="line_35"
+                    TAGREFS="LT72"
+                    BASELINE="803 1360 832 1360" 
+                    HPOS="803"
+                    VPOS="1305"
+                    WIDTH="29"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="803 1305 832 1305 832 1360 803 1360"/></Shape>
+	    <String CONTENT="3"
+                    HPOS="803"
+                    VPOS="1305"
+                    WIDTH="29"
+                    HEIGHT="55"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="294.0"
+                   VPOS="38.0"
+                   WIDTH="324.0"
+                   HEIGHT="64.0"
+                   ID="block_1"
+                   TAGREFS="BT134">
+          <Shape><Polygon POINTS="294 38 618 38 618 102 294 102"/></Shape>
+          <TextLine ID="line_36"
+                    TAGREFS="LT74"
+                    BASELINE="424 87 499 90" 
+                    HPOS="422"
+                    VPOS="43"
+                    WIDTH="76"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="422 99 497 94 498 89 498 49 424 43 423 86 422 99"/></Shape>
+	    <String CONTENT="260"
+                    HPOS="422"
+                    VPOS="43"
+                    WIDTH="76"
+                    HEIGHT="56"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

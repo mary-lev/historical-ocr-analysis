@@ -1,0 +1,3329 @@
+{
+  "summary": {
+    "total_files": 98,
+    "unique_characters": 139,
+    "models_analyzed": 14
+  },
+  "models": [
+    {
+      "name": "gemini-2.5-pro-preview-05-06",
+      "display_name": "gemini-2.5-pro",
+      "performance": {
+        "avg_character_accuracy": 0.9663955369871914,
+        "file_count": 98,
+        "avg_word_accuracy": 0.9531458458173755,
+        "avg_old_char_preservation": 0.9016688547799252,
+        "avg_case_accuracy": 0.9549902746380936
+      },
+      "errors": {
+        "case_errors": 2749,
+        "avg_case_errors_per_file": 28.051020408163264,
+        "foreign_chars": [
+          {
+            "character": "̆",
+            "count": 32,
+            "unicode": "U+0306",
+            "name": "COMBINING BREVE"
+          },
+          {
+            "character": "́",
+            "count": 8,
+            "unicode": "U+0301",
+            "name": "COMBINING ACUTE ACCENT"
+          },
+          {
+            "character": "❧",
+            "count": 6,
+            "unicode": "U+2767",
+            "name": "ROTATED FLORAL HEART BULLET"
+          },
+          {
+            "character": "{",
+            "count": 3,
+            "unicode": "U+007B",
+            "name": "LEFT CURLY BRACKET"
+          },
+          {
+            "character": "}",
+            "count": 3,
+            "unicode": "U+007D",
+            "name": "RIGHT CURLY BRACKET"
+          },
+          {
+            "character": "𝔈",
+            "count": 2,
+            "unicode": "U+1D508",
+            "name": "MATHEMATICAL FRAKTUR CAPITAL E"
+          },
+          {
+            "character": "⚜",
+            "count": 2,
+            "unicode": "U+269C",
+            "name": "FLEUR-DE-LIS"
+          },
+          {
+            "character": "D",
+            "count": 2,
+            "unicode": "U+0044",
+            "name": "LATIN CAPITAL LETTER D"
+          },
+          {
+            "character": "🌿",
+            "count": 2,
+            "unicode": "U+1F33F",
+            "name": "HERB"
+          },
+          {
+            "character": "$",
+            "count": 2,
+            "unicode": "U+0024",
+            "name": "DOLLAR SIGN"
+          },
+          {
+            "character": "k",
+            "count": 2,
+            "unicode": "U+006B",
+            "name": "LATIN SMALL LETTER K"
+          },
+          {
+            "character": "✾",
+            "count": 2,
+            "unicode": "U+273E",
+            "name": "SIX PETALLED BLACK AND WHITE FLORETTE"
+          },
+          {
+            "character": "Ї",
+            "count": 1,
+            "unicode": "U+0407",
+            "name": "CYRILLIC CAPITAL LETTER YI"
+          },
+          {
+            "character": "“",
+            "count": 1,
+            "unicode": "U+201C",
+            "name": "LEFT DOUBLE QUOTATION MARK"
+          },
+          {
+            "character": "𝔖",
+            "count": 1,
+            "unicode": "U+1D516",
+            "name": "MATHEMATICAL FRAKTUR CAPITAL S"
+          }
+        ],
+        "character_errors": [
+          {
+            "pattern": "ї->і",
+            "count": 340,
+            "avg_per_file": 3.4693877551020407
+          },
+          {
+            "pattern": "т->ш",
+            "count": 90,
+            "avg_per_file": 0.9183673469387755
+          },
+          {
+            "pattern": "ъ->ь",
+            "count": 18,
+            "avg_per_file": 0.1836734693877551
+          },
+          {
+            "pattern": "ї->i",
+            "count": 18,
+            "avg_per_file": 0.1836734693877551
+          },
+          {
+            "pattern": "й->й",
+            "count": 17,
+            "avg_per_file": 0.17346938775510204
+          },
+          {
+            "pattern": "ь->ъ",
+            "count": 16,
+            "avg_per_file": 0.16326530612244897
+          },
+          {
+            "pattern": "ъ->Ъ",
+            "count": 16,
+            "avg_per_file": 0.16326530612244897
+          },
+          {
+            "pattern": ",->;",
+            "count": 13,
+            "avg_per_file": 0.1326530612244898
+          },
+          {
+            "pattern": "-->—",
+            "count": 10,
+            "avg_per_file": 0.10204081632653061
+          },
+          {
+            "pattern": "І->I",
+            "count": 6,
+            "avg_per_file": 0.061224489795918366
+          },
+          {
+            "pattern": "е->ѣ",
+            "count": 6,
+            "avg_per_file": 0.061224489795918366
+          },
+          {
+            "pattern": "ъ->ѣ",
+            "count": 5,
+            "avg_per_file": 0.05102040816326531
+          },
+          {
+            "pattern": "т->ѳ",
+            "count": 5,
+            "avg_per_file": 0.05102040816326531
+          },
+          {
+            "pattern": "ІІІ->III",
+            "count": 5,
+            "avg_per_file": 0.05102040816326531
+          },
+          {
+            "pattern": "т->п",
+            "count": 4,
+            "avg_per_file": 0.04081632653061224
+          }
+        ],
+        "old_character_errors": [
+          {
+            "pattern": "ї->∅",
+            "count": 403,
+            "avg_per_file": 4.112244897959184
+          },
+          {
+            "pattern": "ъ->ъ",
+            "count": 95,
+            "avg_per_file": 0.9693877551020408
+          },
+          {
+            "pattern": "ѣ->ѣ",
+            "count": 67,
+            "avg_per_file": 0.6836734693877551
+          },
+          {
+            "pattern": "ь->ъ",
+            "count": 65,
+            "avg_per_file": 0.6632653061224489
+          },
+          {
+            "pattern": "ѣ->ъ",
+            "count": 61,
+            "avg_per_file": 0.6224489795918368
+          },
+          {
+            "pattern": "ъ->ь",
+            "count": 56,
+            "avg_per_file": 0.5714285714285714
+          },
+          {
+            "pattern": "ъ->ѣ",
+            "count": 54,
+            "avg_per_file": 0.5510204081632653
+          },
+          {
+            "pattern": "ї->ъ",
+            "count": 52,
+            "avg_per_file": 0.5306122448979592
+          },
+          {
+            "pattern": "ъ->∅",
+            "count": 41,
+            "avg_per_file": 0.41836734693877553
+          },
+          {
+            "pattern": "ї->ѣ",
+            "count": 36,
+            "avg_per_file": 0.3673469387755102
+          }
+        ],
+        "foreign_char_stats": {
+          "total_insertions": 85,
+          "affected_files": 23,
+          "affected_files_pct": 23.46938775510204
+        }
+      }
+    },
+    {
+      "name": "gemini-2.5-flash-preview-05-20",
+      "display_name": "gemini-2.5-flash",
+      "performance": {
+        "avg_character_accuracy": 0.9589899888968569,
+        "file_count": 98,
+        "avg_word_accuracy": 0.9473558291104587,
+        "avg_old_char_preservation": 0.8768467878382323,
+        "avg_case_accuracy": 0.9523337465532088
+      },
+      "errors": {
+        "case_errors": 2977,
+        "avg_case_errors_per_file": 30.377551020408163,
+        "foreign_chars": [
+          {
+            "character": "є",
+            "count": 57,
+            "unicode": "U+0454",
+            "name": "CYRILLIC SMALL LETTER UKRAINIAN IE"
+          },
+          {
+            "character": "–",
+            "count": 48,
+            "unicode": "U+2013",
+            "name": "EN DASH"
+          },
+          {
+            "character": "ѧ",
+            "count": 27,
+            "unicode": "U+0467",
+            "name": "CYRILLIC SMALL LETTER LITTLE YUS"
+          },
+          {
+            "character": "ɣ",
+            "count": 11,
+            "unicode": "U+0263",
+            "name": "LATIN SMALL LETTER GAMMA"
+          },
+          {
+            "character": "_",
+            "count": 10,
+            "unicode": "U+005F",
+            "name": "LOW LINE"
+          },
+          {
+            "character": "ё",
+            "count": 4,
+            "unicode": "U+0451",
+            "name": "CYRILLIC SMALL LETTER IO"
+          },
+          {
+            "character": "⁑",
+            "count": 4,
+            "unicode": "U+2051",
+            "name": "TWO ASTERISKS ALIGNED VERTICALLY"
+          },
+          {
+            "character": "&",
+            "count": 3,
+            "unicode": "U+0026",
+            "name": "AMPERSAND"
+          },
+          {
+            "character": "=",
+            "count": 3,
+            "unicode": "U+003D",
+            "name": "EQUALS SIGN"
+          },
+          {
+            "character": "Ђ",
+            "count": 3,
+            "unicode": "U+0402",
+            "name": "CYRILLIC CAPITAL LETTER DJE"
+          },
+          {
+            "character": "ℵ",
+            "count": 3,
+            "unicode": "U+2135",
+            "name": "ALEF SYMBOL"
+          },
+          {
+            "character": "✳",
+            "count": 2,
+            "unicode": "U+2733",
+            "name": "EIGHT SPOKED ASTERISK"
+          },
+          {
+            "character": "D",
+            "count": 2,
+            "unicode": "U+0044",
+            "name": "LATIN CAPITAL LETTER D"
+          },
+          {
+            "character": "Ѯ",
+            "count": 2,
+            "unicode": "U+046E",
+            "name": "CYRILLIC CAPITAL LETTER KSI"
+          },
+          {
+            "character": "ѯ",
+            "count": 2,
+            "unicode": "U+046F",
+            "name": "CYRILLIC SMALL LETTER KSI"
+          }
+        ],
+        "character_errors": [
+          {
+            "pattern": "ї->і",
+            "count": 337,
+            "avg_per_file": 3.438775510204082
+          },
+          {
+            "pattern": "ї->i",
+            "count": 49,
+            "avg_per_file": 0.5
+          },
+          {
+            "pattern": "т->ш",
+            "count": 44,
+            "avg_per_file": 0.4489795918367347
+          },
+          {
+            "pattern": "ь->ъ",
+            "count": 27,
+            "avg_per_file": 0.2755102040816326
+          },
+          {
+            "pattern": "ъ->ь",
+            "count": 24,
+            "avg_per_file": 0.24489795918367346
+          },
+          {
+            "pattern": "-->—",
+            "count": 9,
+            "avg_per_file": 0.09183673469387756
+          },
+          {
+            "pattern": "ъ->ѣ",
+            "count": 9,
+            "avg_per_file": 0.09183673469387756
+          },
+          {
+            "pattern": "ть->шъ",
+            "count": 9,
+            "avg_per_file": 0.09183673469387756
+          },
+          {
+            "pattern": "ъ->Ь",
+            "count": 9,
+            "avg_per_file": 0.09183673469387756
+          },
+          {
+            "pattern": "е->є",
+            "count": 8,
+            "avg_per_file": 0.08163265306122448
+          },
+          {
+            "pattern": "тъ->шь",
+            "count": 8,
+            "avg_per_file": 0.08163265306122448
+          },
+          {
+            "pattern": "т->п",
+            "count": 7,
+            "avg_per_file": 0.07142857142857142
+          },
+          {
+            "pattern": "е->ѣ",
+            "count": 7,
+            "avg_per_file": 0.07142857142857142
+          },
+          {
+            "pattern": "е->о",
+            "count": 5,
+            "avg_per_file": 0.05102040816326531
+          },
+          {
+            "pattern": "т->м",
+            "count": 5,
+            "avg_per_file": 0.05102040816326531
+          }
+        ],
+        "old_character_errors": [
+          {
+            "pattern": "ї->∅",
+            "count": 424,
+            "avg_per_file": 4.326530612244898
+          },
+          {
+            "pattern": "ъ->ъ",
+            "count": 119,
+            "avg_per_file": 1.2142857142857142
+          },
+          {
+            "pattern": "ь->ъ",
+            "count": 91,
+            "avg_per_file": 0.9285714285714286
+          },
+          {
+            "pattern": "ъ->ь",
+            "count": 84,
+            "avg_per_file": 0.8571428571428571
+          },
+          {
+            "pattern": "ъ->ѣ",
+            "count": 83,
+            "avg_per_file": 0.8469387755102041
+          },
+          {
+            "pattern": "ѣ->ѣ",
+            "count": 79,
+            "avg_per_file": 0.8061224489795918
+          },
+          {
+            "pattern": "ї->ъ",
+            "count": 74,
+            "avg_per_file": 0.7551020408163265
+          },
+          {
+            "pattern": "ѣ->ъ",
+            "count": 70,
+            "avg_per_file": 0.7142857142857143
+          },
+          {
+            "pattern": "ъ->∅",
+            "count": 68,
+            "avg_per_file": 0.6938775510204082
+          },
+          {
+            "pattern": "ї->i",
+            "count": 56,
+            "avg_per_file": 0.5714285714285714
+          }
+        ],
+        "foreign_char_stats": {
+          "total_insertions": 204,
+          "affected_files": 22,
+          "affected_files_pct": 22.448979591836736
+        }
+      }
+    },
+    {
+      "name": "claude-sonnet-4-20250514",
+      "display_name": "claude-4-sonnet",
+      "performance": {
+        "avg_character_accuracy": 0.9514012055449103,
+        "file_count": 97,
+        "avg_word_accuracy": 0.94095461419393,
+        "avg_old_char_preservation": 0.8646017002926056,
+        "avg_case_accuracy": 0.9596807497769073
+      },
+      "errors": {
+        "case_errors": 2249,
+        "avg_case_errors_per_file": 22.948979591836736,
+        "foreign_chars": [
+          {
+            "character": "ѧ",
+            "count": 3,
+            "unicode": "U+0467",
+            "name": "CYRILLIC SMALL LETTER LITTLE YUS"
+          },
+          {
+            "character": "♂",
+            "count": 3,
+            "unicode": "U+2642",
+            "name": "MALE SIGN"
+          },
+          {
+            "character": "Ї",
+            "count": 3,
+            "unicode": "U+0407",
+            "name": "CYRILLIC CAPITAL LETTER YI"
+          },
+          {
+            "character": "✱",
+            "count": 2,
+            "unicode": "U+2731",
+            "name": "HEAVY ASTERISK"
+          },
+          {
+            "character": "«",
+            "count": 2,
+            "unicode": "U+00AB",
+            "name": "LEFT-POINTING DOUBLE ANGLE QUOTATION MARK"
+          },
+          {
+            "character": "»",
+            "count": 2,
+            "unicode": "U+00BB",
+            "name": "RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK"
+          },
+          {
+            "character": "D",
+            "count": 2,
+            "unicode": "U+0044",
+            "name": "LATIN CAPITAL LETTER D"
+          },
+          {
+            "character": "❦",
+            "count": 2,
+            "unicode": "U+2766",
+            "name": "FLORAL HEART"
+          },
+          {
+            "character": "ё",
+            "count": 2,
+            "unicode": "U+0451",
+            "name": "CYRILLIC SMALL LETTER IO"
+          },
+          {
+            "character": "=",
+            "count": 1,
+            "unicode": "U+003D",
+            "name": "EQUALS SIGN"
+          },
+          {
+            "character": "F",
+            "count": 1,
+            "unicode": "U+0046",
+            "name": "LATIN CAPITAL LETTER F"
+          }
+        ],
+        "character_errors": [
+          {
+            "pattern": "ї->і",
+            "count": 307,
+            "avg_per_file": 3.13265306122449
+          },
+          {
+            "pattern": "т->ш",
+            "count": 25,
+            "avg_per_file": 0.25510204081632654
+          },
+          {
+            "pattern": "т->п",
+            "count": 21,
+            "avg_per_file": 0.21428571428571427
+          },
+          {
+            "pattern": "ъ->ѣ",
+            "count": 21,
+            "avg_per_file": 0.21428571428571427
+          },
+          {
+            "pattern": "ь->ъ",
+            "count": 20,
+            "avg_per_file": 0.20408163265306123
+          },
+          {
+            "pattern": "\n-> ",
+            "count": 19,
+            "avg_per_file": 0.19387755102040816
+          },
+          {
+            "pattern": "е->ѣ",
+            "count": 13,
+            "avg_per_file": 0.1326530612244898
+          },
+          {
+            "pattern": "ъ->ь",
+            "count": 10,
+            "avg_per_file": 0.10204081632653061
+          },
+          {
+            "pattern": "-->—",
+            "count": 9,
+            "avg_per_file": 0.09183673469387756
+          },
+          {
+            "pattern": "в->г",
+            "count": 8,
+            "avg_per_file": 0.08163265306122448
+          },
+          {
+            "pattern": "ѣ->ъ",
+            "count": 7,
+            "avg_per_file": 0.07142857142857142
+          },
+          {
+            "pattern": "і->i",
+            "count": 7,
+            "avg_per_file": 0.07142857142857142
+          },
+          {
+            "pattern": "т->м",
+            "count": 6,
+            "avg_per_file": 0.061224489795918366
+          },
+          {
+            "pattern": "ъ->Ъ",
+            "count": 6,
+            "avg_per_file": 0.061224489795918366
+          },
+          {
+            "pattern": "я->а",
+            "count": 6,
+            "avg_per_file": 0.061224489795918366
+          }
+        ],
+        "old_character_errors": [
+          {
+            "pattern": "ї->∅",
+            "count": 405,
+            "avg_per_file": 4.13265306122449
+          },
+          {
+            "pattern": "ъ->ъ",
+            "count": 156,
+            "avg_per_file": 1.5918367346938775
+          },
+          {
+            "pattern": "ъ->ѣ",
+            "count": 134,
+            "avg_per_file": 1.3673469387755102
+          },
+          {
+            "pattern": "ѣ->ѣ",
+            "count": 101,
+            "avg_per_file": 1.030612244897959
+          },
+          {
+            "pattern": "ѣ->ъ",
+            "count": 101,
+            "avg_per_file": 1.030612244897959
+          },
+          {
+            "pattern": "ь->ъ",
+            "count": 97,
+            "avg_per_file": 0.9897959183673469
+          },
+          {
+            "pattern": "ъ->ь",
+            "count": 85,
+            "avg_per_file": 0.8673469387755102
+          },
+          {
+            "pattern": "ї->ъ",
+            "count": 76,
+            "avg_per_file": 0.7755102040816326
+          },
+          {
+            "pattern": "ї->ѣ",
+            "count": 64,
+            "avg_per_file": 0.6530612244897959
+          },
+          {
+            "pattern": "ъ->∅",
+            "count": 61,
+            "avg_per_file": 0.6224489795918368
+          }
+        ],
+        "foreign_char_stats": {
+          "total_insertions": 23,
+          "affected_files": 10,
+          "affected_files_pct": 10.204081632653061
+        }
+      }
+    },
+    {
+      "name": "gemini-2.5-flash-preview-04-17",
+      "display_name": "gemini-2.5-flash",
+      "performance": {
+        "avg_character_accuracy": 0.9506429760935915,
+        "file_count": 98,
+        "avg_word_accuracy": 0.9330180451354697,
+        "avg_old_char_preservation": 0.8713629028237638,
+        "avg_case_accuracy": 0.9518375268719018
+      },
+      "errors": {
+        "case_errors": 3032,
+        "avg_case_errors_per_file": 30.93877551020408,
+        "foreign_chars": [
+          {
+            "character": "Ђ",
+            "count": 79,
+            "unicode": "U+0402",
+            "name": "CYRILLIC CAPITAL LETTER DJE"
+          },
+          {
+            "character": "є",
+            "count": 41,
+            "unicode": "U+0454",
+            "name": "CYRILLIC SMALL LETTER UKRAINIAN IE"
+          },
+          {
+            "character": "ѧ",
+            "count": 32,
+            "unicode": "U+0467",
+            "name": "CYRILLIC SMALL LETTER LITTLE YUS"
+          },
+          {
+            "character": "á",
+            "count": 6,
+            "unicode": "U+00E1",
+            "name": "LATIN SMALL LETTER A WITH ACUTE"
+          },
+          {
+            "character": "ï",
+            "count": 4,
+            "unicode": "U+00EF",
+            "name": "LATIN SMALL LETTER I WITH DIAERESIS"
+          },
+          {
+            "character": "é",
+            "count": 3,
+            "unicode": "U+00E9",
+            "name": "LATIN SMALL LETTER E WITH ACUTE"
+          },
+          {
+            "character": "&",
+            "count": 3,
+            "unicode": "U+0026",
+            "name": "AMPERSAND"
+          },
+          {
+            "character": ">",
+            "count": 3,
+            "unicode": "U+003E",
+            "name": "GREATER-THAN SIGN"
+          },
+          {
+            "character": "ѥ",
+            "count": 3,
+            "unicode": "U+0465",
+            "name": "CYRILLIC SMALL LETTER IOTIFIED E"
+          },
+          {
+            "character": "҃",
+            "count": 3,
+            "unicode": "U+0483",
+            "name": "COMBINING CYRILLIC TITLO"
+          },
+          {
+            "character": "✳",
+            "count": 2,
+            "unicode": "U+2733",
+            "name": "EIGHT SPOKED ASTERISK"
+          },
+          {
+            "character": "{",
+            "count": 2,
+            "unicode": "U+007B",
+            "name": "LEFT CURLY BRACKET"
+          },
+          {
+            "character": "}",
+            "count": 2,
+            "unicode": "U+007D",
+            "name": "RIGHT CURLY BRACKET"
+          },
+          {
+            "character": "қ",
+            "count": 2,
+            "unicode": "U+049B",
+            "name": "CYRILLIC SMALL LETTER KA WITH DESCENDER"
+          },
+          {
+            "character": "¹",
+            "count": 2,
+            "unicode": "U+00B9",
+            "name": "SUPERSCRIPT ONE"
+          }
+        ],
+        "character_errors": [
+          {
+            "pattern": "ї->і",
+            "count": 355,
+            "avg_per_file": 3.622448979591837
+          },
+          {
+            "pattern": "т->ш",
+            "count": 103,
+            "avg_per_file": 1.0510204081632653
+          },
+          {
+            "pattern": "ь->ъ",
+            "count": 32,
+            "avg_per_file": 0.32653061224489793
+          },
+          {
+            "pattern": "ъ->b",
+            "count": 27,
+            "avg_per_file": 0.2755102040816326
+          },
+          {
+            "pattern": "ъ->ь",
+            "count": 26,
+            "avg_per_file": 0.2653061224489796
+          },
+          {
+            "pattern": "е->є",
+            "count": 16,
+            "avg_per_file": 0.16326530612244897
+          },
+          {
+            "pattern": "ъ->Ъ",
+            "count": 16,
+            "avg_per_file": 0.16326530612244897
+          },
+          {
+            "pattern": "ъ->ѣ",
+            "count": 14,
+            "avg_per_file": 0.14285714285714285
+          },
+          {
+            "pattern": "я->ѧ",
+            "count": 13,
+            "avg_per_file": 0.1326530612244898
+          },
+          {
+            "pattern": "т->п",
+            "count": 10,
+            "avg_per_file": 0.10204081632653061
+          },
+          {
+            "pattern": "„->,, ",
+            "count": 9,
+            "avg_per_file": 0.09183673469387756
+          },
+          {
+            "pattern": "-->—",
+            "count": 9,
+            "avg_per_file": 0.09183673469387756
+          },
+          {
+            "pattern": "ѣ->Ђ",
+            "count": 8,
+            "avg_per_file": 0.08163265306122448
+          },
+          {
+            "pattern": "т->м",
+            "count": 7,
+            "avg_per_file": 0.07142857142857142
+          },
+          {
+            "pattern": "и->й",
+            "count": 6,
+            "avg_per_file": 0.061224489795918366
+          }
+        ],
+        "old_character_errors": [
+          {
+            "pattern": "ї->∅",
+            "count": 453,
+            "avg_per_file": 4.622448979591836
+          },
+          {
+            "pattern": "ъ->ъ",
+            "count": 138,
+            "avg_per_file": 1.4081632653061225
+          },
+          {
+            "pattern": "ъ->ь",
+            "count": 104,
+            "avg_per_file": 1.0612244897959184
+          },
+          {
+            "pattern": "ъ->∅",
+            "count": 98,
+            "avg_per_file": 1.0
+          },
+          {
+            "pattern": "ь->ъ",
+            "count": 98,
+            "avg_per_file": 1.0
+          },
+          {
+            "pattern": "ъ->ѣ",
+            "count": 88,
+            "avg_per_file": 0.8979591836734694
+          },
+          {
+            "pattern": "ѣ->ѣ",
+            "count": 75,
+            "avg_per_file": 0.7653061224489796
+          },
+          {
+            "pattern": "ѣ->ъ",
+            "count": 73,
+            "avg_per_file": 0.7448979591836735
+          },
+          {
+            "pattern": "ѣ->∅",
+            "count": 65,
+            "avg_per_file": 0.6632653061224489
+          },
+          {
+            "pattern": "ь->ь",
+            "count": 58,
+            "avg_per_file": 0.5918367346938775
+          }
+        ],
+        "foreign_char_stats": {
+          "total_insertions": 228,
+          "affected_files": 39,
+          "affected_files_pct": 39.795918367346935
+        }
+      }
+    },
+    {
+      "name": "Qwen/Qwen2.5-VL-72B-Instruct",
+      "display_name": "Qwen/Qwen2.5-VL",
+      "performance": {
+        "avg_character_accuracy": 0.941949684487165,
+        "file_count": 98,
+        "avg_word_accuracy": 0.9252469006019016,
+        "avg_old_char_preservation": 0.8360402554338554,
+        "avg_case_accuracy": 0.9540665334342961
+      },
+      "errors": {
+        "case_errors": 2930,
+        "avg_case_errors_per_file": 29.897959183673468,
+        "foreign_chars": [
+          {
+            "character": "}",
+            "count": 22,
+            "unicode": "U+007D",
+            "name": "RIGHT CURLY BRACKET"
+          },
+          {
+            "character": "{",
+            "count": 22,
+            "unicode": "U+007B",
+            "name": "LEFT CURLY BRACKET"
+          },
+          {
+            "character": "δ",
+            "count": 3,
+            "unicode": "U+03B4",
+            "name": "GREEK SMALL LETTER DELTA"
+          },
+          {
+            "character": "`",
+            "count": 3,
+            "unicode": "U+0060",
+            "name": "GRAVE ACCENT"
+          },
+          {
+            "character": "∗",
+            "count": 2,
+            "unicode": "U+2217",
+            "name": "ASTERISK OPERATOR"
+          },
+          {
+            "character": "D",
+            "count": 2,
+            "unicode": "U+0044",
+            "name": "LATIN CAPITAL LETTER D"
+          },
+          {
+            "character": "є",
+            "count": 2,
+            "unicode": "U+0454",
+            "name": "CYRILLIC SMALL LETTER UKRAINIAN IE"
+          },
+          {
+            "character": "=",
+            "count": 1,
+            "unicode": "U+003D",
+            "name": "EQUALS SIGN"
+          },
+          {
+            "character": "F",
+            "count": 1,
+            "unicode": "U+0046",
+            "name": "LATIN CAPITAL LETTER F"
+          },
+          {
+            "character": "j",
+            "count": 1,
+            "unicode": "U+006A",
+            "name": "LATIN SMALL LETTER J"
+          },
+          {
+            "character": "Ѵ",
+            "count": 1,
+            "unicode": "U+0474",
+            "name": "CYRILLIC CAPITAL LETTER IZHITSA"
+          },
+          {
+            "character": "°",
+            "count": 1,
+            "unicode": "U+00B0",
+            "name": "DEGREE SIGN"
+          },
+          {
+            "character": "ё",
+            "count": 1,
+            "unicode": "U+0451",
+            "name": "CYRILLIC SMALL LETTER IO"
+          }
+        ],
+        "character_errors": [
+          {
+            "pattern": "ї->і",
+            "count": 345,
+            "avg_per_file": 3.520408163265306
+          },
+          {
+            "pattern": "т->п",
+            "count": 74,
+            "avg_per_file": 0.7551020408163265
+          },
+          {
+            "pattern": "ъ->ь",
+            "count": 52,
+            "avg_per_file": 0.5306122448979592
+          },
+          {
+            "pattern": "т->ш",
+            "count": 39,
+            "avg_per_file": 0.3979591836734694
+          },
+          {
+            "pattern": "\n-> ",
+            "count": 36,
+            "avg_per_file": 0.3673469387755102
+          },
+          {
+            "pattern": "тъ->шь",
+            "count": 19,
+            "avg_per_file": 0.19387755102040816
+          },
+          {
+            "pattern": "т->м",
+            "count": 16,
+            "avg_per_file": 0.16326530612244897
+          },
+          {
+            "pattern": "ѣ->е",
+            "count": 10,
+            "avg_per_file": 0.10204081632653061
+          },
+          {
+            "pattern": "ь->ъ",
+            "count": 10,
+            "avg_per_file": 0.10204081632653061
+          },
+          {
+            "pattern": "-->—",
+            "count": 8,
+            "avg_per_file": 0.08163265306122448
+          },
+          {
+            "pattern": "-->.",
+            "count": 8,
+            "avg_per_file": 0.08163265306122448
+          },
+          {
+            "pattern": "в->п",
+            "count": 7,
+            "avg_per_file": 0.07142857142857142
+          },
+          {
+            "pattern": "ї->и",
+            "count": 7,
+            "avg_per_file": 0.07142857142857142
+          },
+          {
+            "pattern": "ъ->Ъ",
+            "count": 7,
+            "avg_per_file": 0.07142857142857142
+          },
+          {
+            "pattern": "и->й",
+            "count": 6,
+            "avg_per_file": 0.061224489795918366
+          }
+        ],
+        "old_character_errors": [
+          {
+            "pattern": "ї->∅",
+            "count": 468,
+            "avg_per_file": 4.775510204081633
+          },
+          {
+            "pattern": "ъ->ь",
+            "count": 171,
+            "avg_per_file": 1.7448979591836735
+          },
+          {
+            "pattern": "ъ->ъ",
+            "count": 138,
+            "avg_per_file": 1.4081632653061225
+          },
+          {
+            "pattern": "ъ->ѣ",
+            "count": 93,
+            "avg_per_file": 0.9489795918367347
+          },
+          {
+            "pattern": "ѣ->ѣ",
+            "count": 89,
+            "avg_per_file": 0.9081632653061225
+          },
+          {
+            "pattern": "ї->ъ",
+            "count": 83,
+            "avg_per_file": 0.8469387755102041
+          },
+          {
+            "pattern": "ѣ->ъ",
+            "count": 77,
+            "avg_per_file": 0.7857142857142857
+          },
+          {
+            "pattern": "ї->ѣ",
+            "count": 70,
+            "avg_per_file": 0.7142857142857143
+          },
+          {
+            "pattern": "ѣ->∅",
+            "count": 68,
+            "avg_per_file": 0.6938775510204082
+          },
+          {
+            "pattern": "ъ->∅",
+            "count": 59,
+            "avg_per_file": 0.6020408163265306
+          }
+        ],
+        "foreign_char_stats": {
+          "total_insertions": 62,
+          "affected_files": 10,
+          "affected_files_pct": 10.204081632653061
+        }
+      }
+    },
+    {
+      "name": "gemini-2.0-flash",
+      "display_name": "gemini-2.0-flash",
+      "performance": {
+        "avg_character_accuracy": 0.93859838065523,
+        "file_count": 98,
+        "avg_word_accuracy": 0.8967229569993905,
+        "avg_old_char_preservation": 0.6799822427425621,
+        "avg_case_accuracy": 0.9545588742639878
+      },
+      "errors": {
+        "case_errors": 3042,
+        "avg_case_errors_per_file": 31.040816326530614,
+        "foreign_chars": [
+          {
+            "character": "Ђ",
+            "count": 8,
+            "unicode": "U+0402",
+            "name": "CYRILLIC CAPITAL LETTER DJE"
+          },
+          {
+            "character": "ћ",
+            "count": 5,
+            "unicode": "U+045B",
+            "name": "CYRILLIC SMALL LETTER TSHE"
+          },
+          {
+            "character": "•",
+            "count": 5,
+            "unicode": "U+2022",
+            "name": "BULLET"
+          },
+          {
+            "character": "ђ",
+            "count": 5,
+            "unicode": "U+0452",
+            "name": "CYRILLIC SMALL LETTER DJE"
+          },
+          {
+            "character": "و",
+            "count": 4,
+            "unicode": "U+0648",
+            "name": "ARABIC LETTER WAW"
+          },
+          {
+            "character": "«",
+            "count": 4,
+            "unicode": "U+00AB",
+            "name": "LEFT-POINTING DOUBLE ANGLE QUOTATION MARK"
+          },
+          {
+            "character": "Π",
+            "count": 4,
+            "unicode": "U+03A0",
+            "name": "GREEK CAPITAL LETTER PI"
+          },
+          {
+            "character": "y",
+            "count": 3,
+            "unicode": "U+0079",
+            "name": "LATIN SMALL LETTER Y"
+          },
+          {
+            "character": "D",
+            "count": 3,
+            "unicode": "U+0044",
+            "name": "LATIN CAPITAL LETTER D"
+          },
+          {
+            "character": "F",
+            "count": 3,
+            "unicode": "U+0046",
+            "name": "LATIN CAPITAL LETTER F"
+          },
+          {
+            "character": "ө",
+            "count": 3,
+            "unicode": "U+04E9",
+            "name": "CYRILLIC SMALL LETTER BARRED O"
+          },
+          {
+            "character": "Ѕ",
+            "count": 3,
+            "unicode": "U+0405",
+            "name": "CYRILLIC CAPITAL LETTER DZE"
+          },
+          {
+            "character": "x",
+            "count": 2,
+            "unicode": "U+0078",
+            "name": "LATIN SMALL LETTER X"
+          },
+          {
+            "character": "T",
+            "count": 2,
+            "unicode": "U+0054",
+            "name": "LATIN CAPITAL LETTER T"
+          },
+          {
+            "character": "є",
+            "count": 2,
+            "unicode": "U+0454",
+            "name": "CYRILLIC SMALL LETTER UKRAINIAN IE"
+          }
+        ],
+        "character_errors": [
+          {
+            "pattern": "ъ->ь",
+            "count": 461,
+            "avg_per_file": 4.704081632653061
+          },
+          {
+            "pattern": "ї->і",
+            "count": 170,
+            "avg_per_file": 1.7346938775510203
+          },
+          {
+            "pattern": "т->ш",
+            "count": 57,
+            "avg_per_file": 0.5816326530612245
+          },
+          {
+            "pattern": "тъ->шь",
+            "count": 22,
+            "avg_per_file": 0.22448979591836735
+          },
+          {
+            "pattern": "ї->и",
+            "count": 19,
+            "avg_per_file": 0.19387755102040816
+          },
+          {
+            "pattern": "т->п",
+            "count": 16,
+            "avg_per_file": 0.16326530612244897
+          },
+          {
+            "pattern": "ї->т",
+            "count": 16,
+            "avg_per_file": 0.16326530612244897
+          },
+          {
+            "pattern": "и->й",
+            "count": 8,
+            "avg_per_file": 0.08163265306122448
+          },
+          {
+            "pattern": "е->с",
+            "count": 7,
+            "avg_per_file": 0.07142857142857142
+          },
+          {
+            "pattern": "ъ въ->ь вь",
+            "count": 7,
+            "avg_per_file": 0.07142857142857142
+          },
+          {
+            "pattern": "ь->ъ",
+            "count": 6,
+            "avg_per_file": 0.061224489795918366
+          },
+          {
+            "pattern": "ѣ->ь",
+            "count": 6,
+            "avg_per_file": 0.061224489795918366
+          },
+          {
+            "pattern": "ъ->ы",
+            "count": 5,
+            "avg_per_file": 0.05102040816326531
+          },
+          {
+            "pattern": "-->—",
+            "count": 5,
+            "avg_per_file": 0.05102040816326531
+          },
+          {
+            "pattern": "ъ ->ь",
+            "count": 4,
+            "avg_per_file": 0.04081632653061224
+          }
+        ],
+        "old_character_errors": [
+          {
+            "pattern": "ъ->ь",
+            "count": 923,
+            "avg_per_file": 9.418367346938776
+          },
+          {
+            "pattern": "ї->∅",
+            "count": 297,
+            "avg_per_file": 3.0306122448979593
+          },
+          {
+            "pattern": "ѣ->ь",
+            "count": 167,
+            "avg_per_file": 1.7040816326530612
+          },
+          {
+            "pattern": "ъ->ѣ",
+            "count": 144,
+            "avg_per_file": 1.469387755102041
+          },
+          {
+            "pattern": "ї->ь",
+            "count": 140,
+            "avg_per_file": 1.4285714285714286
+          },
+          {
+            "pattern": "ъ->ъ",
+            "count": 139,
+            "avg_per_file": 1.4183673469387754
+          },
+          {
+            "pattern": "ѣ->ѣ",
+            "count": 133,
+            "avg_per_file": 1.3571428571428572
+          },
+          {
+            "pattern": "ь->ь",
+            "count": 126,
+            "avg_per_file": 1.2857142857142858
+          },
+          {
+            "pattern": "ъ->∅",
+            "count": 88,
+            "avg_per_file": 0.8979591836734694
+          },
+          {
+            "pattern": "ѣ->ъ",
+            "count": 76,
+            "avg_per_file": 0.7755102040816326
+          }
+        ],
+        "foreign_char_stats": {
+          "total_insertions": 100,
+          "affected_files": 41,
+          "affected_files_pct": 41.83673469387755
+        }
+      }
+    },
+    {
+      "name": "claude-3-5-sonnet-20241022",
+      "display_name": "claude-3.5-sonnet",
+      "performance": {
+        "avg_character_accuracy": 0.9321359795690388,
+        "file_count": 98,
+        "avg_word_accuracy": 0.9154254286234235,
+        "avg_old_char_preservation": 0.8475665019850935,
+        "avg_case_accuracy": 0.9494281171229103
+      },
+      "errors": {
+        "case_errors": 2966,
+        "avg_case_errors_per_file": 30.26530612244898,
+        "foreign_chars": [
+          {
+            "character": "ï",
+            "count": 33,
+            "unicode": "U+00EF",
+            "name": "LATIN SMALL LETTER I WITH DIAERESIS"
+          },
+          {
+            "character": "Ђ",
+            "count": 20,
+            "unicode": "U+0402",
+            "name": "CYRILLIC CAPITAL LETTER DJE"
+          },
+          {
+            "character": "❋",
+            "count": 2,
+            "unicode": "U+274B",
+            "name": "HEAVY EIGHT TEARDROP-SPOKED PROPELLER ASTERISK"
+          },
+          {
+            "character": "D",
+            "count": 2,
+            "unicode": "U+0044",
+            "name": "LATIN CAPITAL LETTER D"
+          },
+          {
+            "character": "✣",
+            "count": 2,
+            "unicode": "U+2723",
+            "name": "FOUR BALLOON-SPOKED ASTERISK"
+          },
+          {
+            "character": "⁂",
+            "count": 2,
+            "unicode": "U+2042",
+            "name": "ASTERISM"
+          },
+          {
+            "character": "Ї",
+            "count": 2,
+            "unicode": "U+0407",
+            "name": "CYRILLIC CAPITAL LETTER YI"
+          },
+          {
+            "character": "ó",
+            "count": 1,
+            "unicode": "U+00F3",
+            "name": "LATIN SMALL LETTER O WITH ACUTE"
+          },
+          {
+            "character": "=",
+            "count": 1,
+            "unicode": "U+003D",
+            "name": "EQUALS SIGN"
+          },
+          {
+            "character": "F",
+            "count": 1,
+            "unicode": "U+0046",
+            "name": "LATIN CAPITAL LETTER F"
+          },
+          {
+            "character": "z",
+            "count": 1,
+            "unicode": "U+007A",
+            "name": "LATIN SMALL LETTER Z"
+          },
+          {
+            "character": "}",
+            "count": 1,
+            "unicode": "U+007D",
+            "name": "RIGHT CURLY BRACKET"
+          }
+        ],
+        "character_errors": [
+          {
+            "pattern": "ъ->Ъ",
+            "count": 299,
+            "avg_per_file": 3.0510204081632653
+          },
+          {
+            "pattern": "ї->і",
+            "count": 255,
+            "avg_per_file": 2.6020408163265305
+          },
+          {
+            "pattern": "ъ->ѣ",
+            "count": 41,
+            "avg_per_file": 0.41836734693877553
+          },
+          {
+            "pattern": "ь->ъ",
+            "count": 29,
+            "avg_per_file": 0.29591836734693877
+          },
+          {
+            "pattern": "ѣ->Ъ",
+            "count": 21,
+            "avg_per_file": 0.21428571428571427
+          },
+          {
+            "pattern": "ї->i",
+            "count": 16,
+            "avg_per_file": 0.16326530612244897
+          },
+          {
+            "pattern": "і->ï",
+            "count": 16,
+            "avg_per_file": 0.16326530612244897
+          },
+          {
+            "pattern": "т->ш",
+            "count": 12,
+            "avg_per_file": 0.12244897959183673
+          },
+          {
+            "pattern": "ъ въ->Ъ вЪ",
+            "count": 12,
+            "avg_per_file": 0.12244897959183673
+          },
+          {
+            "pattern": "-->—",
+            "count": 10,
+            "avg_per_file": 0.10204081632653061
+          },
+          {
+            "pattern": "ѣ->Ѣ",
+            "count": 10,
+            "avg_per_file": 0.10204081632653061
+          },
+          {
+            "pattern": "ї->ï",
+            "count": 10,
+            "avg_per_file": 0.10204081632653061
+          },
+          {
+            "pattern": "ѣ->Ђ",
+            "count": 7,
+            "avg_per_file": 0.07142857142857142
+          },
+          {
+            "pattern": "ъ->ь",
+            "count": 6,
+            "avg_per_file": 0.061224489795918366
+          },
+          {
+            "pattern": "ь->Ъ",
+            "count": 6,
+            "avg_per_file": 0.061224489795918366
+          }
+        ],
+        "old_character_errors": [
+          {
+            "pattern": "ъ->∅",
+            "count": 473,
+            "avg_per_file": 4.826530612244898
+          },
+          {
+            "pattern": "ї->∅",
+            "count": 333,
+            "avg_per_file": 3.3979591836734695
+          },
+          {
+            "pattern": "ъ->ѣ",
+            "count": 121,
+            "avg_per_file": 1.2346938775510203
+          },
+          {
+            "pattern": "ѣ->∅",
+            "count": 90,
+            "avg_per_file": 0.9183673469387755
+          },
+          {
+            "pattern": "ь->ъ",
+            "count": 63,
+            "avg_per_file": 0.6428571428571429
+          },
+          {
+            "pattern": "ѣ->ѣ",
+            "count": 62,
+            "avg_per_file": 0.6326530612244898
+          },
+          {
+            "pattern": "ъ->ъ",
+            "count": 60,
+            "avg_per_file": 0.6122448979591837
+          },
+          {
+            "pattern": "ъ->ь",
+            "count": 55,
+            "avg_per_file": 0.5612244897959183
+          },
+          {
+            "pattern": "ї->ъ",
+            "count": 44,
+            "avg_per_file": 0.4489795918367347
+          },
+          {
+            "pattern": "ї->ѣ",
+            "count": 42,
+            "avg_per_file": 0.42857142857142855
+          }
+        ],
+        "foreign_char_stats": {
+          "total_insertions": 68,
+          "affected_files": 13,
+          "affected_files_pct": 13.26530612244898
+        }
+      }
+    },
+    {
+      "name": "o3-2025-04-16",
+      "display_name": "o3-2025-04-16",
+      "performance": {
+        "avg_character_accuracy": 0.9320778133322468,
+        "file_count": 98,
+        "avg_word_accuracy": 0.9112959190219945,
+        "avg_old_char_preservation": 0.8442797164716046,
+        "avg_case_accuracy": 0.9542864093298571
+      },
+      "errors": {
+        "case_errors": 2836,
+        "avg_case_errors_per_file": 28.93877551020408,
+        "foreign_chars": [
+          {
+            "character": "―",
+            "count": 34,
+            "unicode": "U+2015",
+            "name": "HORIZONTAL BAR"
+          },
+          {
+            "character": "ё",
+            "count": 32,
+            "unicode": "U+0451",
+            "name": "CYRILLIC SMALL LETTER IO"
+          },
+          {
+            "character": "­",
+            "count": 28,
+            "unicode": "U+00AD",
+            "name": "UNKNOWN"
+          },
+          {
+            "character": "_",
+            "count": 16,
+            "unicode": "U+005F",
+            "name": "LOW LINE"
+          },
+          {
+            "character": "ѧ",
+            "count": 7,
+            "unicode": "U+0467",
+            "name": "CYRILLIC SMALL LETTER LITTLE YUS"
+          },
+          {
+            "character": "є",
+            "count": 7,
+            "unicode": "U+0454",
+            "name": "CYRILLIC SMALL LETTER UKRAINIAN IE"
+          },
+          {
+            "character": "ѵ",
+            "count": 3,
+            "unicode": "U+0475",
+            "name": "CYRILLIC SMALL LETTER IZHITSA"
+          },
+          {
+            "character": "⁂",
+            "count": 2,
+            "unicode": "U+2042",
+            "name": "ASTERISM"
+          },
+          {
+            "character": "∫",
+            "count": 2,
+            "unicode": "U+222B",
+            "name": "INTEGRAL"
+          },
+          {
+            "character": "✽",
+            "count": 2,
+            "unicode": "U+273D",
+            "name": "HEAVY TEARDROP-SPOKED ASTERISK"
+          },
+          {
+            "character": "D",
+            "count": 2,
+            "unicode": "U+0044",
+            "name": "LATIN CAPITAL LETTER D"
+          },
+          {
+            "character": "ѝ",
+            "count": 2,
+            "unicode": "U+045D",
+            "name": "CYRILLIC SMALL LETTER I WITH GRAVE"
+          },
+          {
+            "character": "҂",
+            "count": 2,
+            "unicode": "U+0482",
+            "name": "CYRILLIC THOUSANDS SIGN"
+          },
+          {
+            "character": "⚹",
+            "count": 2,
+            "unicode": "U+26B9",
+            "name": "SEXTILE"
+          },
+          {
+            "character": "✣",
+            "count": 2,
+            "unicode": "U+2723",
+            "name": "FOUR BALLOON-SPOKED ASTERISK"
+          }
+        ],
+        "character_errors": [
+          {
+            "pattern": "ї->і",
+            "count": 141,
+            "avg_per_file": 1.4387755102040816
+          },
+          {
+            "pattern": "ї->i",
+            "count": 68,
+            "avg_per_file": 0.6938775510204082
+          },
+          {
+            "pattern": "ъ->ь",
+            "count": 35,
+            "avg_per_file": 0.35714285714285715
+          },
+          {
+            "pattern": " ->\n",
+            "count": 29,
+            "avg_per_file": 0.29591836734693877
+          },
+          {
+            "pattern": "е->ѣ",
+            "count": 24,
+            "avg_per_file": 0.24489795918367346
+          },
+          {
+            "pattern": "\n-> ",
+            "count": 23,
+            "avg_per_file": 0.23469387755102042
+          },
+          {
+            "pattern": "ї->и",
+            "count": 13,
+            "avg_per_file": 0.1326530612244898
+          },
+          {
+            "pattern": "т->п",
+            "count": 12,
+            "avg_per_file": 0.12244897959183673
+          },
+          {
+            "pattern": "з->с",
+            "count": 12,
+            "avg_per_file": 0.12244897959183673
+          },
+          {
+            "pattern": "ь->ъ",
+            "count": 12,
+            "avg_per_file": 0.12244897959183673
+          },
+          {
+            "pattern": "а->о",
+            "count": 11,
+            "avg_per_file": 0.11224489795918367
+          },
+          {
+            "pattern": "е->ё",
+            "count": 9,
+            "avg_per_file": 0.09183673469387756
+          },
+          {
+            "pattern": "-->—",
+            "count": 9,
+            "avg_per_file": 0.09183673469387756
+          },
+          {
+            "pattern": "е->я",
+            "count": 9,
+            "avg_per_file": 0.09183673469387756
+          },
+          {
+            "pattern": "ѣ->е",
+            "count": 9,
+            "avg_per_file": 0.09183673469387756
+          }
+        ],
+        "old_character_errors": [
+          {
+            "pattern": "ъ->ъ",
+            "count": 262,
+            "avg_per_file": 2.673469387755102
+          },
+          {
+            "pattern": "ї->∅",
+            "count": 253,
+            "avg_per_file": 2.5816326530612246
+          },
+          {
+            "pattern": "ѣ->ъ",
+            "count": 176,
+            "avg_per_file": 1.7959183673469388
+          },
+          {
+            "pattern": "ъ->ь",
+            "count": 176,
+            "avg_per_file": 1.7959183673469388
+          },
+          {
+            "pattern": "ѣ->ѣ",
+            "count": 145,
+            "avg_per_file": 1.4795918367346939
+          },
+          {
+            "pattern": "ъ->ѣ",
+            "count": 140,
+            "avg_per_file": 1.4285714285714286
+          },
+          {
+            "pattern": "ї->i",
+            "count": 128,
+            "avg_per_file": 1.3061224489795917
+          },
+          {
+            "pattern": "ь->ъ",
+            "count": 124,
+            "avg_per_file": 1.2653061224489797
+          },
+          {
+            "pattern": "ї->ъ",
+            "count": 116,
+            "avg_per_file": 1.183673469387755
+          },
+          {
+            "pattern": "ѣ->ь",
+            "count": 92,
+            "avg_per_file": 0.9387755102040817
+          }
+        ],
+        "foreign_char_stats": {
+          "total_insertions": 160,
+          "affected_files": 41,
+          "affected_files_pct": 41.83673469387755
+        }
+      }
+    },
+    {
+      "name": "o4-mini-2025-04-16",
+      "display_name": "o4-mini-2025-04-16",
+      "performance": {
+        "avg_character_accuracy": 0.9312726489650408,
+        "file_count": 98,
+        "avg_word_accuracy": 0.909282766491818,
+        "avg_old_char_preservation": 0.8161792521464,
+        "avg_case_accuracy": 0.9599116991670221
+      },
+      "errors": {
+        "case_errors": 2559,
+        "avg_case_errors_per_file": 26.112244897959183,
+        "foreign_chars": [
+          {
+            "character": "­",
+            "count": 77,
+            "unicode": "U+00AD",
+            "name": "UNKNOWN"
+          },
+          {
+            "character": "ё",
+            "count": 18,
+            "unicode": "U+0451",
+            "name": "CYRILLIC SMALL LETTER IO"
+          },
+          {
+            "character": "ѧ",
+            "count": 16,
+            "unicode": "U+0467",
+            "name": "CYRILLIC SMALL LETTER LITTLE YUS"
+          },
+          {
+            "character": "̆",
+            "count": 9,
+            "unicode": "U+0306",
+            "name": "COMBINING BREVE"
+          },
+          {
+            "character": "ѭ",
+            "count": 9,
+            "unicode": "U+046D",
+            "name": "CYRILLIC SMALL LETTER IOTIFIED BIG YUS"
+          },
+          {
+            "character": "☙",
+            "count": 8,
+            "unicode": "U+2619",
+            "name": "REVERSED ROTATED FLORAL HEART BULLET"
+          },
+          {
+            "character": "❦",
+            "count": 8,
+            "unicode": "U+2766",
+            "name": "FLORAL HEART"
+          },
+          {
+            "character": "ó",
+            "count": 5,
+            "unicode": "U+00F3",
+            "name": "LATIN SMALL LETTER O WITH ACUTE"
+          },
+          {
+            "character": "́",
+            "count": 4,
+            "unicode": "U+0301",
+            "name": "COMBINING ACUTE ACCENT"
+          },
+          {
+            "character": "✠",
+            "count": 4,
+            "unicode": "U+2720",
+            "name": "MALTESE CROSS"
+          },
+          {
+            "character": "ґ",
+            "count": 3,
+            "unicode": "U+0491",
+            "name": "CYRILLIC SMALL LETTER GHE WITH UPTURN"
+          },
+          {
+            "character": "❧",
+            "count": 3,
+            "unicode": "U+2767",
+            "name": "ROTATED FLORAL HEART BULLET"
+          },
+          {
+            "character": "ѝ",
+            "count": 3,
+            "unicode": "U+045D",
+            "name": "CYRILLIC SMALL LETTER I WITH GRAVE"
+          },
+          {
+            "character": "ѥ",
+            "count": 3,
+            "unicode": "U+0465",
+            "name": "CYRILLIC SMALL LETTER IOTIFIED E"
+          },
+          {
+            "character": "❀",
+            "count": 2,
+            "unicode": "U+2740",
+            "name": "WHITE FLORETTE"
+          }
+        ],
+        "character_errors": [
+          {
+            "pattern": "ї->і",
+            "count": 165,
+            "avg_per_file": 1.683673469387755
+          },
+          {
+            "pattern": " ->\n",
+            "count": 54,
+            "avg_per_file": 0.5510204081632653
+          },
+          {
+            "pattern": "\n-> ",
+            "count": 54,
+            "avg_per_file": 0.5510204081632653
+          },
+          {
+            "pattern": "ъ->ь",
+            "count": 50,
+            "avg_per_file": 0.5102040816326531
+          },
+          {
+            "pattern": "ѣ->е",
+            "count": 34,
+            "avg_per_file": 0.3469387755102041
+          },
+          {
+            "pattern": "ї->i",
+            "count": 27,
+            "avg_per_file": 0.2755102040816326
+          },
+          {
+            "pattern": "ї->и",
+            "count": 21,
+            "avg_per_file": 0.21428571428571427
+          },
+          {
+            "pattern": "-->­",
+            "count": 17,
+            "avg_per_file": 0.17346938775510204
+          },
+          {
+            "pattern": "а->о",
+            "count": 16,
+            "avg_per_file": 0.16326530612244897
+          },
+          {
+            "pattern": "І->I",
+            "count": 15,
+            "avg_per_file": 0.15306122448979592
+          },
+          {
+            "pattern": "и->і",
+            "count": 14,
+            "avg_per_file": 0.14285714285714285
+          },
+          {
+            "pattern": "т->п",
+            "count": 14,
+            "avg_per_file": 0.14285714285714285
+          },
+          {
+            "pattern": "ь->ъ",
+            "count": 11,
+            "avg_per_file": 0.11224489795918367
+          },
+          {
+            "pattern": "е->ѣ",
+            "count": 11,
+            "avg_per_file": 0.11224489795918367
+          },
+          {
+            "pattern": "е->я",
+            "count": 10,
+            "avg_per_file": 0.10204081632653061
+          }
+        ],
+        "old_character_errors": [
+          {
+            "pattern": "ї->∅",
+            "count": 288,
+            "avg_per_file": 2.938775510204082
+          },
+          {
+            "pattern": "ъ->ъ",
+            "count": 257,
+            "avg_per_file": 2.622448979591837
+          },
+          {
+            "pattern": "ъ->ь",
+            "count": 225,
+            "avg_per_file": 2.295918367346939
+          },
+          {
+            "pattern": "ѣ->ъ",
+            "count": 151,
+            "avg_per_file": 1.5408163265306123
+          },
+          {
+            "pattern": "ѣ->ѣ",
+            "count": 136,
+            "avg_per_file": 1.3877551020408163
+          },
+          {
+            "pattern": "ъ->ѣ",
+            "count": 134,
+            "avg_per_file": 1.3673469387755102
+          },
+          {
+            "pattern": "ѣ->ь",
+            "count": 129,
+            "avg_per_file": 1.316326530612245
+          },
+          {
+            "pattern": "ь->ъ",
+            "count": 127,
+            "avg_per_file": 1.2959183673469388
+          },
+          {
+            "pattern": "ѣ->∅",
+            "count": 119,
+            "avg_per_file": 1.2142857142857142
+          },
+          {
+            "pattern": "ї->ъ",
+            "count": 112,
+            "avg_per_file": 1.1428571428571428
+          }
+        ],
+        "foreign_char_stats": {
+          "total_insertions": 208,
+          "affected_files": 59,
+          "affected_files_pct": 60.204081632653065
+        }
+      }
+    },
+    {
+      "name": "claude-3-7-sonnet-20250219",
+      "display_name": "claude-3.7-sonnet",
+      "performance": {
+        "avg_character_accuracy": 0.9311328376433741,
+        "file_count": 98,
+        "avg_word_accuracy": 0.9093503239221937,
+        "avg_old_char_preservation": 0.8513980090775146,
+        "avg_case_accuracy": 0.9462160889434539
+      },
+      "errors": {
+        "case_errors": 3155,
+        "avg_case_errors_per_file": 32.19387755102041,
+        "foreign_chars": [
+          {
+            "character": "ï",
+            "count": 5,
+            "unicode": "U+00EF",
+            "name": "LATIN SMALL LETTER I WITH DIAERESIS"
+          },
+          {
+            "character": "Ї",
+            "count": 4,
+            "unicode": "U+0407",
+            "name": "CYRILLIC CAPITAL LETTER YI"
+          },
+          {
+            "character": "́",
+            "count": 3,
+            "unicode": "U+0301",
+            "name": "COMBINING ACUTE ACCENT"
+          },
+          {
+            "character": "※",
+            "count": 3,
+            "unicode": "U+203B",
+            "name": "REFERENCE MARK"
+          },
+          {
+            "character": "◊",
+            "count": 2,
+            "unicode": "U+25CA",
+            "name": "LOZENGE"
+          },
+          {
+            "character": "D",
+            "count": 2,
+            "unicode": "U+0044",
+            "name": "LATIN CAPITAL LETTER D"
+          },
+          {
+            "character": "✣",
+            "count": 2,
+            "unicode": "U+2723",
+            "name": "FOUR BALLOON-SPOKED ASTERISK"
+          },
+          {
+            "character": "≋",
+            "count": 2,
+            "unicode": "U+224B",
+            "name": "TRIPLE TILDE"
+          },
+          {
+            "character": "•",
+            "count": 2,
+            "unicode": "U+2022",
+            "name": "BULLET"
+          },
+          {
+            "character": "⚜",
+            "count": 2,
+            "unicode": "U+269C",
+            "name": "FLEUR-DE-LIS"
+          },
+          {
+            "character": "●",
+            "count": 2,
+            "unicode": "U+25CF",
+            "name": "BLACK CIRCLE"
+          },
+          {
+            "character": "✳",
+            "count": 2,
+            "unicode": "U+2733",
+            "name": "EIGHT SPOKED ASTERISK"
+          },
+          {
+            "character": "ó",
+            "count": 1,
+            "unicode": "U+00F3",
+            "name": "LATIN SMALL LETTER O WITH ACUTE"
+          },
+          {
+            "character": "é",
+            "count": 1,
+            "unicode": "U+00E9",
+            "name": "LATIN SMALL LETTER E WITH ACUTE"
+          },
+          {
+            "character": "«",
+            "count": 1,
+            "unicode": "U+00AB",
+            "name": "LEFT-POINTING DOUBLE ANGLE QUOTATION MARK"
+          }
+        ],
+        "character_errors": [
+          {
+            "pattern": "ї->і",
+            "count": 320,
+            "avg_per_file": 3.2653061224489797
+          },
+          {
+            "pattern": "ъ->Ъ",
+            "count": 227,
+            "avg_per_file": 2.316326530612245
+          },
+          {
+            "pattern": "ъ->ѣ",
+            "count": 66,
+            "avg_per_file": 0.673469387755102
+          },
+          {
+            "pattern": "ѣ->Ѣ",
+            "count": 37,
+            "avg_per_file": 0.37755102040816324
+          },
+          {
+            "pattern": "ь->ъ",
+            "count": 20,
+            "avg_per_file": 0.20408163265306123
+          },
+          {
+            "pattern": "ѣ->Ъ",
+            "count": 15,
+            "avg_per_file": 0.15306122448979592
+          },
+          {
+            "pattern": "т->ш",
+            "count": 14,
+            "avg_per_file": 0.14285714285714285
+          },
+          {
+            "pattern": "ї->i",
+            "count": 14,
+            "avg_per_file": 0.14285714285714285
+          },
+          {
+            "pattern": "-->—",
+            "count": 9,
+            "avg_per_file": 0.09183673469387756
+          },
+          {
+            "pattern": "ъ въ->Ъ вЪ",
+            "count": 9,
+            "avg_per_file": 0.09183673469387756
+          },
+          {
+            "pattern": "ть->шъ",
+            "count": 7,
+            "avg_per_file": 0.07142857142857142
+          },
+          {
+            "pattern": ",->;",
+            "count": 7,
+            "avg_per_file": 0.07142857142857142
+          },
+          {
+            "pattern": "и->й",
+            "count": 6,
+            "avg_per_file": 0.061224489795918366
+          },
+          {
+            "pattern": "ъ->ь",
+            "count": 6,
+            "avg_per_file": 0.061224489795918366
+          },
+          {
+            "pattern": "е->ѣ",
+            "count": 5,
+            "avg_per_file": 0.05102040816326531
+          }
+        ],
+        "old_character_errors": [
+          {
+            "pattern": "ъ->∅",
+            "count": 392,
+            "avg_per_file": 4.0
+          },
+          {
+            "pattern": "ї->∅",
+            "count": 388,
+            "avg_per_file": 3.9591836734693877
+          },
+          {
+            "pattern": "ъ->ѣ",
+            "count": 166,
+            "avg_per_file": 1.6938775510204083
+          },
+          {
+            "pattern": "ѣ->Ѣ",
+            "count": 91,
+            "avg_per_file": 0.9285714285714286
+          },
+          {
+            "pattern": "ъ->ь",
+            "count": 68,
+            "avg_per_file": 0.6938775510204082
+          },
+          {
+            "pattern": "ѣ->ѣ",
+            "count": 68,
+            "avg_per_file": 0.6938775510204082
+          },
+          {
+            "pattern": "ѣ->∅",
+            "count": 64,
+            "avg_per_file": 0.6530612244897959
+          },
+          {
+            "pattern": "ь->ь",
+            "count": 53,
+            "avg_per_file": 0.5408163265306123
+          },
+          {
+            "pattern": "ъ->ъ",
+            "count": 47,
+            "avg_per_file": 0.47959183673469385
+          },
+          {
+            "pattern": "ь->ъ",
+            "count": 45,
+            "avg_per_file": 0.45918367346938777
+          }
+        ],
+        "foreign_char_stats": {
+          "total_insertions": 46,
+          "affected_files": 17,
+          "affected_files_pct": 17.346938775510203
+        }
+      }
+    },
+    {
+      "name": "gpt-4.1-2025-04-14",
+      "display_name": "gpt-4.1-2025-04-14",
+      "performance": {
+        "avg_character_accuracy": 0.9210398855588117,
+        "file_count": 98,
+        "avg_word_accuracy": 0.9024210995591082,
+        "avg_old_char_preservation": 0.8306421974136707,
+        "avg_case_accuracy": 0.9607113588155122
+      },
+      "errors": {
+        "case_errors": 2532,
+        "avg_case_errors_per_file": 25.836734693877553,
+        "foreign_chars": [
+          {
+            "character": "ё",
+            "count": 29,
+            "unicode": "U+0451",
+            "name": "CYRILLIC SMALL LETTER IO"
+          },
+          {
+            "character": "ѡ",
+            "count": 28,
+            "unicode": "U+0461",
+            "name": "CYRILLIC SMALL LETTER OMEGA"
+          },
+          {
+            "character": "ѧ",
+            "count": 26,
+            "unicode": "U+0467",
+            "name": "CYRILLIC SMALL LETTER LITTLE YUS"
+          },
+          {
+            "character": "­",
+            "count": 19,
+            "unicode": "U+00AD",
+            "name": "UNKNOWN"
+          },
+          {
+            "character": "є",
+            "count": 11,
+            "unicode": "U+0454",
+            "name": "CYRILLIC SMALL LETTER UKRAINIAN IE"
+          },
+          {
+            "character": "ꙋ",
+            "count": 9,
+            "unicode": "U+A64B",
+            "name": "CYRILLIC SMALL LETTER MONOGRAPH UK"
+          },
+          {
+            "character": "̆",
+            "count": 7,
+            "unicode": "U+0306",
+            "name": "COMBINING BREVE"
+          },
+          {
+            "character": "|",
+            "count": 4,
+            "unicode": "U+007C",
+            "name": "VERTICAL LINE"
+          },
+          {
+            "character": "ꙗ",
+            "count": 3,
+            "unicode": "U+A657",
+            "name": "CYRILLIC SMALL LETTER IOTIFIED A"
+          },
+          {
+            "character": "x",
+            "count": 3,
+            "unicode": "U+0078",
+            "name": "LATIN SMALL LETTER X"
+          },
+          {
+            "character": "́",
+            "count": 3,
+            "unicode": "U+0301",
+            "name": "COMBINING ACUTE ACCENT"
+          },
+          {
+            "character": "⅓",
+            "count": 3,
+            "unicode": "U+2153",
+            "name": "VULGAR FRACTION ONE THIRD"
+          },
+          {
+            "character": "T",
+            "count": 2,
+            "unicode": "U+0054",
+            "name": "LATIN CAPITAL LETTER T"
+          },
+          {
+            "character": "ο",
+            "count": 2,
+            "unicode": "U+03BF",
+            "name": "GREEK SMALL LETTER OMICRON"
+          },
+          {
+            "character": "D",
+            "count": 2,
+            "unicode": "U+0044",
+            "name": "LATIN CAPITAL LETTER D"
+          }
+        ],
+        "character_errors": [
+          {
+            "pattern": "\n-> ",
+            "count": 115,
+            "avg_per_file": 1.1734693877551021
+          },
+          {
+            "pattern": "ї->і",
+            "count": 100,
+            "avg_per_file": 1.0204081632653061
+          },
+          {
+            "pattern": "ї->i",
+            "count": 55,
+            "avg_per_file": 0.5612244897959183
+          },
+          {
+            "pattern": "ъ->ь",
+            "count": 24,
+            "avg_per_file": 0.24489795918367346
+          },
+          {
+            "pattern": "е->ѣ",
+            "count": 19,
+            "avg_per_file": 0.19387755102040816
+          },
+          {
+            "pattern": "ї->и",
+            "count": 19,
+            "avg_per_file": 0.19387755102040816
+          },
+          {
+            "pattern": "а->о",
+            "count": 17,
+            "avg_per_file": 0.17346938775510204
+          },
+          {
+            "pattern": "т->п",
+            "count": 17,
+            "avg_per_file": 0.17346938775510204
+          },
+          {
+            "pattern": "ѣ->е",
+            "count": 13,
+            "avg_per_file": 0.1326530612244898
+          },
+          {
+            "pattern": "ѣ->ъ",
+            "count": 12,
+            "avg_per_file": 0.12244897959183673
+          },
+          {
+            "pattern": "І->I",
+            "count": 11,
+            "avg_per_file": 0.11224489795918367
+          },
+          {
+            "pattern": "і->i",
+            "count": 10,
+            "avg_per_file": 0.10204081632653061
+          },
+          {
+            "pattern": " ->\n",
+            "count": 9,
+            "avg_per_file": 0.09183673469387756
+          },
+          {
+            "pattern": "-->—",
+            "count": 7,
+            "avg_per_file": 0.07142857142857142
+          },
+          {
+            "pattern": "ь->ъ",
+            "count": 7,
+            "avg_per_file": 0.07142857142857142
+          }
+        ],
+        "old_character_errors": [
+          {
+            "pattern": "ъ->ъ",
+            "count": 322,
+            "avg_per_file": 3.2857142857142856
+          },
+          {
+            "pattern": "ї->∅",
+            "count": 232,
+            "avg_per_file": 2.36734693877551
+          },
+          {
+            "pattern": "ѣ->ъ",
+            "count": 212,
+            "avg_per_file": 2.163265306122449
+          },
+          {
+            "pattern": "ъ->ь",
+            "count": 193,
+            "avg_per_file": 1.969387755102041
+          },
+          {
+            "pattern": "ъ->ѣ",
+            "count": 157,
+            "avg_per_file": 1.6020408163265305
+          },
+          {
+            "pattern": "ѣ->ѣ",
+            "count": 147,
+            "avg_per_file": 1.5
+          },
+          {
+            "pattern": "ь->ъ",
+            "count": 138,
+            "avg_per_file": 1.4081632653061225
+          },
+          {
+            "pattern": "ї->ъ",
+            "count": 136,
+            "avg_per_file": 1.3877551020408163
+          },
+          {
+            "pattern": "ї->i",
+            "count": 130,
+            "avg_per_file": 1.3265306122448979
+          },
+          {
+            "pattern": "ъ->∅",
+            "count": 102,
+            "avg_per_file": 1.0408163265306123
+          }
+        ],
+        "foreign_char_stats": {
+          "total_insertions": 167,
+          "affected_files": 48,
+          "affected_files_pct": 48.97959183673469
+        }
+      }
+    },
+    {
+      "name": "meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8",
+      "display_name": "meta-llama/Llama",
+      "performance": {
+        "avg_character_accuracy": 0.9171209239897947,
+        "file_count": 98,
+        "avg_word_accuracy": 0.8812536878275002,
+        "avg_old_char_preservation": 0.7766529345529812,
+        "avg_case_accuracy": 0.9550593223600653
+      },
+      "errors": {
+        "case_errors": 2785,
+        "avg_case_errors_per_file": 28.418367346938776,
+        "foreign_chars": [
+          {
+            "character": "­",
+            "count": 17,
+            "unicode": "U+00AD",
+            "name": "UNKNOWN"
+          },
+          {
+            "character": "_",
+            "count": 10,
+            "unicode": "U+005F",
+            "name": "LOW LINE"
+          },
+          {
+            "character": "y",
+            "count": 6,
+            "unicode": "U+0079",
+            "name": "LATIN SMALL LETTER Y"
+          },
+          {
+            "character": "k",
+            "count": 4,
+            "unicode": "U+006B",
+            "name": "LATIN SMALL LETTER K"
+          },
+          {
+            "character": "x",
+            "count": 4,
+            "unicode": "U+0078",
+            "name": "LATIN SMALL LETTER X"
+          },
+          {
+            "character": "̀",
+            "count": 4,
+            "unicode": "U+0300",
+            "name": "COMBINING GRAVE ACCENT"
+          },
+          {
+            "character": "̔",
+            "count": 4,
+            "unicode": "U+0314",
+            "name": "COMBINING REVERSED COMMA ABOVE"
+          },
+          {
+            "character": "́",
+            "count": 3,
+            "unicode": "U+0301",
+            "name": "COMBINING ACUTE ACCENT"
+          },
+          {
+            "character": "ѐ",
+            "count": 3,
+            "unicode": "U+0450",
+            "name": "CYRILLIC SMALL LETTER IE WITH GRAVE"
+          },
+          {
+            "character": "̂",
+            "count": 3,
+            "unicode": "U+0302",
+            "name": "COMBINING CIRCUMFLEX ACCENT"
+          },
+          {
+            "character": "D",
+            "count": 2,
+            "unicode": "U+0044",
+            "name": "LATIN CAPITAL LETTER D"
+          },
+          {
+            "character": "{",
+            "count": 2,
+            "unicode": "U+007B",
+            "name": "LEFT CURLY BRACKET"
+          },
+          {
+            "character": "}",
+            "count": 2,
+            "unicode": "U+007D",
+            "name": "RIGHT CURLY BRACKET"
+          },
+          {
+            "character": "ï",
+            "count": 2,
+            "unicode": "U+00EF",
+            "name": "LATIN SMALL LETTER I WITH DIAERESIS"
+          },
+          {
+            "character": "ө",
+            "count": 2,
+            "unicode": "U+04E9",
+            "name": "CYRILLIC SMALL LETTER BARRED O"
+          }
+        ],
+        "character_errors": [
+          {
+            "pattern": "ї->і",
+            "count": 144,
+            "avg_per_file": 1.469387755102041
+          },
+          {
+            "pattern": "т->п",
+            "count": 120,
+            "avg_per_file": 1.2244897959183674
+          },
+          {
+            "pattern": "\n-> ",
+            "count": 78,
+            "avg_per_file": 0.7959183673469388
+          },
+          {
+            "pattern": "ъ->b",
+            "count": 76,
+            "avg_per_file": 0.7755102040816326
+          },
+          {
+            "pattern": "ъ->Ь",
+            "count": 67,
+            "avg_per_file": 0.6836734693877551
+          },
+          {
+            "pattern": "ъ->Ъ",
+            "count": 65,
+            "avg_per_file": 0.6632653061224489
+          },
+          {
+            "pattern": "т->ш",
+            "count": 31,
+            "avg_per_file": 0.3163265306122449
+          },
+          {
+            "pattern": "ъ->ь",
+            "count": 24,
+            "avg_per_file": 0.24489795918367346
+          },
+          {
+            "pattern": "ї->i",
+            "count": 22,
+            "avg_per_file": 0.22448979591836735
+          },
+          {
+            "pattern": "т->m",
+            "count": 20,
+            "avg_per_file": 0.20408163265306123
+          },
+          {
+            "pattern": "ъ->ѣ",
+            "count": 20,
+            "avg_per_file": 0.20408163265306123
+          },
+          {
+            "pattern": "ї->и",
+            "count": 18,
+            "avg_per_file": 0.1836734693877551
+          },
+          {
+            "pattern": "ь->ъ",
+            "count": 12,
+            "avg_per_file": 0.12244897959183673
+          },
+          {
+            "pattern": "ѣ->ъ",
+            "count": 11,
+            "avg_per_file": 0.11224489795918367
+          },
+          {
+            "pattern": "і->ї",
+            "count": 9,
+            "avg_per_file": 0.09183673469387756
+          }
+        ],
+        "old_character_errors": [
+          {
+            "pattern": "ъ->∅",
+            "count": 496,
+            "avg_per_file": 5.061224489795919
+          },
+          {
+            "pattern": "ї->∅",
+            "count": 269,
+            "avg_per_file": 2.7448979591836733
+          },
+          {
+            "pattern": "ъ->ѣ",
+            "count": 231,
+            "avg_per_file": 2.357142857142857
+          },
+          {
+            "pattern": "ъ->ъ",
+            "count": 213,
+            "avg_per_file": 2.173469387755102
+          },
+          {
+            "pattern": "ѣ->ѣ",
+            "count": 185,
+            "avg_per_file": 1.8877551020408163
+          },
+          {
+            "pattern": "ъ->ь",
+            "count": 181,
+            "avg_per_file": 1.846938775510204
+          },
+          {
+            "pattern": "ь->ь",
+            "count": 134,
+            "avg_per_file": 1.3673469387755102
+          },
+          {
+            "pattern": "ѣ->ъ",
+            "count": 127,
+            "avg_per_file": 1.2959183673469388
+          },
+          {
+            "pattern": "ь->ъ",
+            "count": 103,
+            "avg_per_file": 1.0510204081632653
+          },
+          {
+            "pattern": "ѣ->∅",
+            "count": 92,
+            "avg_per_file": 0.9387755102040817
+          }
+        ],
+        "foreign_char_stats": {
+          "total_insertions": 88,
+          "affected_files": 29,
+          "affected_files_pct": 29.591836734693878
+        }
+      }
+    },
+    {
+      "name": "gpt-4o-2024-08-06",
+      "display_name": "gpt-4o-2024-08-06",
+      "performance": {
+        "avg_character_accuracy": 0.9077449265891577,
+        "file_count": 98,
+        "avg_word_accuracy": 0.8634203558841027,
+        "avg_old_char_preservation": 0.7930458410260843,
+        "avg_case_accuracy": 0.957819941114123
+      },
+      "errors": {
+        "case_errors": 2694,
+        "avg_case_errors_per_file": 27.489795918367346,
+        "foreign_chars": [
+          {
+            "character": "ѝ",
+            "count": 33,
+            "unicode": "U+045D",
+            "name": "CYRILLIC SMALL LETTER I WITH GRAVE"
+          },
+          {
+            "character": "ѡ",
+            "count": 32,
+            "unicode": "U+0461",
+            "name": "CYRILLIC SMALL LETTER OMEGA"
+          },
+          {
+            "character": "ѧ",
+            "count": 28,
+            "unicode": "U+0467",
+            "name": "CYRILLIC SMALL LETTER LITTLE YUS"
+          },
+          {
+            "character": "ё",
+            "count": 21,
+            "unicode": "U+0451",
+            "name": "CYRILLIC SMALL LETTER IO"
+          },
+          {
+            "character": "́",
+            "count": 17,
+            "unicode": "U+0301",
+            "name": "COMBINING ACUTE ACCENT"
+          },
+          {
+            "character": "✿",
+            "count": 17,
+            "unicode": "U+273F",
+            "name": "BLACK FLORETTE"
+          },
+          {
+            "character": "⸢",
+            "count": 16,
+            "unicode": "U+2E22",
+            "name": "TOP LEFT HALF BRACKET"
+          },
+          {
+            "character": "Ђ",
+            "count": 12,
+            "unicode": "U+0402",
+            "name": "CYRILLIC CAPITAL LETTER DJE"
+          },
+          {
+            "character": "ꙋ",
+            "count": 12,
+            "unicode": "U+A64B",
+            "name": "CYRILLIC SMALL LETTER MONOGRAPH UK"
+          },
+          {
+            "character": "є",
+            "count": 11,
+            "unicode": "U+0454",
+            "name": "CYRILLIC SMALL LETTER UKRAINIAN IE"
+          },
+          {
+            "character": "–",
+            "count": 8,
+            "unicode": "U+2013",
+            "name": "EN DASH"
+          },
+          {
+            "character": "⁠",
+            "count": 8,
+            "unicode": "U+2060",
+            "name": "UNKNOWN"
+          },
+          {
+            "character": "ѻ",
+            "count": 7,
+            "unicode": "U+047B",
+            "name": "CYRILLIC SMALL LETTER ROUND OMEGA"
+          },
+          {
+            "character": "ѿ",
+            "count": 7,
+            "unicode": "U+047F",
+            "name": "CYRILLIC SMALL LETTER OT"
+          },
+          {
+            "character": "ѥ",
+            "count": 6,
+            "unicode": "U+0465",
+            "name": "CYRILLIC SMALL LETTER IOTIFIED E"
+          }
+        ],
+        "character_errors": [
+          {
+            "pattern": "ї->і",
+            "count": 95,
+            "avg_per_file": 0.9693877551020408
+          },
+          {
+            "pattern": "ъ->ь",
+            "count": 48,
+            "avg_per_file": 0.4897959183673469
+          },
+          {
+            "pattern": "ї->i",
+            "count": 37,
+            "avg_per_file": 0.37755102040816324
+          },
+          {
+            "pattern": "І->I",
+            "count": 18,
+            "avg_per_file": 0.1836734693877551
+          },
+          {
+            "pattern": "е->ѣ",
+            "count": 16,
+            "avg_per_file": 0.16326530612244897
+          },
+          {
+            "pattern": "\n-> ",
+            "count": 16,
+            "avg_per_file": 0.16326530612244897
+          },
+          {
+            "pattern": "ї->и",
+            "count": 14,
+            "avg_per_file": 0.14285714285714285
+          },
+          {
+            "pattern": "т->п",
+            "count": 13,
+            "avg_per_file": 0.1326530612244898
+          },
+          {
+            "pattern": "а->о",
+            "count": 12,
+            "avg_per_file": 0.12244897959183673
+          },
+          {
+            "pattern": "ѣ->ъ",
+            "count": 11,
+            "avg_per_file": 0.11224489795918367
+          },
+          {
+            "pattern": "и->ы",
+            "count": 10,
+            "avg_per_file": 0.10204081632653061
+          },
+          {
+            "pattern": "-->—",
+            "count": 8,
+            "avg_per_file": 0.08163265306122448
+          },
+          {
+            "pattern": "ѣ->е",
+            "count": 7,
+            "avg_per_file": 0.07142857142857142
+          },
+          {
+            "pattern": "з->с",
+            "count": 7,
+            "avg_per_file": 0.07142857142857142
+          },
+          {
+            "pattern": "и->i",
+            "count": 7,
+            "avg_per_file": 0.07142857142857142
+          }
+        ],
+        "old_character_errors": [
+          {
+            "pattern": "ъ->ъ",
+            "count": 320,
+            "avg_per_file": 3.2653061224489797
+          },
+          {
+            "pattern": "ъ->ь",
+            "count": 295,
+            "avg_per_file": 3.010204081632653
+          },
+          {
+            "pattern": "ѣ->ъ",
+            "count": 212,
+            "avg_per_file": 2.163265306122449
+          },
+          {
+            "pattern": "ї->∅",
+            "count": 200,
+            "avg_per_file": 2.0408163265306123
+          },
+          {
+            "pattern": "ъ->ѣ",
+            "count": 156,
+            "avg_per_file": 1.5918367346938775
+          },
+          {
+            "pattern": "ѣ->ь",
+            "count": 155,
+            "avg_per_file": 1.5816326530612246
+          },
+          {
+            "pattern": "ь->ъ",
+            "count": 151,
+            "avg_per_file": 1.5408163265306123
+          },
+          {
+            "pattern": "ї->ъ",
+            "count": 132,
+            "avg_per_file": 1.346938775510204
+          },
+          {
+            "pattern": "ь->ь",
+            "count": 130,
+            "avg_per_file": 1.3265306122448979
+          },
+          {
+            "pattern": "ѣ->ѣ",
+            "count": 129,
+            "avg_per_file": 1.316326530612245
+          }
+        ],
+        "foreign_char_stats": {
+          "total_insertions": 336,
+          "affected_files": 59,
+          "affected_files_pct": 60.204081632653065
+        }
+      }
+    },
+    {
+      "name": "meta-llama/Llama-4-Scout-17B-16E-Instruct",
+      "display_name": "meta-llama/Llama",
+      "performance": {
+        "avg_character_accuracy": 0.8405576804506031,
+        "file_count": 98,
+        "avg_word_accuracy": 0.7948611922453584,
+        "avg_old_char_preservation": 0.5776962405011989,
+        "avg_case_accuracy": 0.9456338252648893
+      },
+      "errors": {
+        "case_errors": 2917,
+        "avg_case_errors_per_file": 29.76530612244898,
+        "foreign_chars": [
+          {
+            "character": "\\",
+            "count": 2088,
+            "unicode": "U+005C",
+            "name": "REVERSE SOLIDUS"
+          },
+          {
+            "character": "µ",
+            "count": 229,
+            "unicode": "U+00B5",
+            "name": "MICRO SIGN"
+          },
+          {
+            "character": "´",
+            "count": 61,
+            "unicode": "U+00B4",
+            "name": "ACUTE ACCENT"
+          },
+          {
+            "character": "{",
+            "count": 51,
+            "unicode": "U+007B",
+            "name": "LEFT CURLY BRACKET"
+          },
+          {
+            "character": "}",
+            "count": 49,
+            "unicode": "U+007D",
+            "name": "RIGHT CURLY BRACKET"
+          },
+          {
+            "character": "ě",
+            "count": 25,
+            "unicode": "U+011B",
+            "name": "LATIN SMALL LETTER E WITH CARON"
+          },
+          {
+            "character": "»",
+            "count": 21,
+            "unicode": "U+00BB",
+            "name": "RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK"
+          },
+          {
+            "character": "�",
+            "count": 20,
+            "unicode": "U+FFFD",
+            "name": "REPLACEMENT CHARACTER"
+          },
+          {
+            "character": "¿",
+            "count": 18,
+            "unicode": "U+00BF",
+            "name": "INVERTED QUESTION MARK"
+          },
+          {
+            "character": "°",
+            "count": 13,
+            "unicode": "U+00B0",
+            "name": "DEGREE SIGN"
+          },
+          {
+            "character": "é",
+            "count": 11,
+            "unicode": "U+00E9",
+            "name": "LATIN SMALL LETTER E WITH ACUTE"
+          },
+          {
+            "character": "_",
+            "count": 9,
+            "unicode": "U+005F",
+            "name": "LOW LINE"
+          },
+          {
+            "character": "ʋ",
+            "count": 8,
+            "unicode": "U+028B",
+            "name": "LATIN SMALL LETTER V WITH HOOK"
+          },
+          {
+            "character": "x",
+            "count": 6,
+            "unicode": "U+0078",
+            "name": "LATIN SMALL LETTER X"
+          },
+          {
+            "character": "²",
+            "count": 5,
+            "unicode": "U+00B2",
+            "name": "SUPERSCRIPT TWO"
+          }
+        ],
+        "character_errors": [
+          {
+            "pattern": "\n-> ",
+            "count": 121,
+            "avg_per_file": 1.2346938775510203
+          },
+          {
+            "pattern": "ъ->ь",
+            "count": 95,
+            "avg_per_file": 0.9693877551020408
+          },
+          {
+            "pattern": "ї->і",
+            "count": 95,
+            "avg_per_file": 0.9693877551020408
+          },
+          {
+            "pattern": "ъ->b",
+            "count": 66,
+            "avg_per_file": 0.673469387755102
+          },
+          {
+            "pattern": "ї->i",
+            "count": 61,
+            "avg_per_file": 0.6224489795918368
+          },
+          {
+            "pattern": "ъ->µ",
+            "count": 31,
+            "avg_per_file": 0.3163265306122449
+          },
+          {
+            "pattern": "ъ->ѣ",
+            "count": 27,
+            "avg_per_file": 0.2755102040816326
+          },
+          {
+            "pattern": "т->п",
+            "count": 24,
+            "avg_per_file": 0.24489795918367346
+          },
+          {
+            "pattern": "ї->и",
+            "count": 22,
+            "avg_per_file": 0.22448979591836735
+          },
+          {
+            "pattern": "ъ->Ъ",
+            "count": 19,
+            "avg_per_file": 0.19387755102040816
+          },
+          {
+            "pattern": "ѣ->ы",
+            "count": 15,
+            "avg_per_file": 0.15306122448979592
+          },
+          {
+            "pattern": "і->i",
+            "count": 9,
+            "avg_per_file": 0.09183673469387756
+          },
+          {
+            "pattern": ",\n-> , ",
+            "count": 8,
+            "avg_per_file": 0.08163265306122448
+          },
+          {
+            "pattern": "ѣ->ь",
+            "count": 7,
+            "avg_per_file": 0.07142857142857142
+          },
+          {
+            "pattern": "\n->\"}, {\"line\": \"",
+            "count": 7,
+            "avg_per_file": 0.07142857142857142
+          }
+        ],
+        "old_character_errors": [
+          {
+            "pattern": "ъ->∅",
+            "count": 495,
+            "avg_per_file": 5.051020408163265
+          },
+          {
+            "pattern": "ъ->ь",
+            "count": 362,
+            "avg_per_file": 3.693877551020408
+          },
+          {
+            "pattern": "ѣ->∅",
+            "count": 276,
+            "avg_per_file": 2.816326530612245
+          },
+          {
+            "pattern": "ї->∅",
+            "count": 260,
+            "avg_per_file": 2.6530612244897958
+          },
+          {
+            "pattern": "ѣ->ь",
+            "count": 160,
+            "avg_per_file": 1.6326530612244898
+          },
+          {
+            "pattern": "ъ->ѣ",
+            "count": 160,
+            "avg_per_file": 1.6326530612244898
+          },
+          {
+            "pattern": "ъ->ъ",
+            "count": 153,
+            "avg_per_file": 1.5612244897959184
+          },
+          {
+            "pattern": "ї->i",
+            "count": 152,
+            "avg_per_file": 1.5510204081632653
+          },
+          {
+            "pattern": "ь->ь",
+            "count": 130,
+            "avg_per_file": 1.3265306122448979
+          },
+          {
+            "pattern": "ѣ->ѣ",
+            "count": 126,
+            "avg_per_file": 1.2857142857142858
+          }
+        ],
+        "foreign_char_stats": {
+          "total_insertions": 2652,
+          "affected_files": 38,
+          "affected_files_pct": 38.775510204081634
+        }
+      }
+    }
+  ]
+}

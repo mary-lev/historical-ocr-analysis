@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>e32e4e1481c2.jpeg</fileName>
+      <fileIdentifier>mets//mets.zip/e32e4e1481c2.jpeg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT134" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT137" LABEL="MarginTextZone:outer" DESCRIPTION="block type MarginTextZone:outer"/><OtherTag ID="BT135" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT138" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT2" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT136" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT50" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/>
+    <OtherTag ID="LT85" LABEL="CustomLine:divider" DESCRIPTION="line type CustomLine:divider"/><OtherTag ID="LT86" LABEL="CustomLine:onstage" DESCRIPTION="line type CustomLine:onstage"/><OtherTag ID="LT74" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT83" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT77" LABEL="CustomLine:paragraph_start" DESCRIPTION="line type CustomLine:paragraph_start"/><OtherTag ID="LT73" LABEL="CustomLine:signature" DESCRIPTION="line type CustomLine:signature"/><OtherTag ID="LT72" LABEL="CustomLine:catchword" DESCRIPTION="line type CustomLine:catchword"/><OtherTag ID="LT79" LABEL="CustomLine:verse" DESCRIPTION="line type CustomLine:verse"/><OtherTag ID="LT82" LABEL="CustomLine:speaker" DESCRIPTION="line type CustomLine:speaker"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="1950"
+          HEIGHT="2950"
+          PHYSICAL_IMG_NR="13"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1950"
+                  HEIGHT="2950">
+        <TextBlock HPOS="342.0"
+                   VPOS="325.0"
+                   WIDTH="187.0"
+                   HEIGHT="117.0"
+                   ID="block_2"
+                   TAGREFS="BT134">
+          <Shape><Polygon POINTS="342 325 529 325 529 442 342 442"/></Shape>
+          <TextLine ID="line_27"
+                    TAGREFS="LT74"
+                    BASELINE="361 421 495 419" 
+                    HPOS="356"
+                    VPOS="336"
+                    WIDTH="138"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="359 420 359 444 405 462 408 462 410 462 494 452 494 417 489 346 432 336 430 336 427 336 356 363 359 420"/></Shape>
+	    <String CONTENT="34"
+                    HPOS="356"
+                    VPOS="336"
+                    WIDTH="138"
+                    HEIGHT="126"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="348.0"
+                   VPOS="472.0"
+                   WIDTH="1388.0"
+                   HEIGHT="1994.0"
+                   ID="block_0"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="348 472 1736 472 1736 2466 348 2466"/></Shape>
+          <TextLine ID="line_0"
+                    TAGREFS="LT77"
+                    BASELINE="420 580 1636 580" 
+                    HPOS="420"
+                    VPOS="454"
+                    WIDTH="1216"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="420 454 1636 454 1636 580 420 580"/></Shape>
+	    <String CONTENT="Какїя провинцїи находятся около рѣки"
+                    HPOS="420"
+                    VPOS="454"
+                    WIDTH="1216"
+                    HEIGHT="126"></String>
+          </TextLine>
+          <TextLine ID="line_1"
+                    TAGREFS="LT74"
+                    BASELINE="909 639 1163 639" 
+                    HPOS="909"
+                    VPOS="546"
+                    WIDTH="254"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="909 546 1163 546 1163 639 909 639"/></Shape>
+	    <String CONTENT="Везера ?"
+                    HPOS="909"
+                    VPOS="546"
+                    WIDTH="254"
+                    HEIGHT="93"></String>
+          </TextLine>
+          <TextLine ID="line_2"
+                    TAGREFS="LT77"
+                    BASELINE="478 726 1678 726" 
+                    HPOS="478"
+                    VPOS="619"
+                    WIDTH="1200"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="478 619 1678 619 1678 726 478 726"/></Shape>
+	    <String CONTENT="ГЕРЦОГСТВО ВЕСТФАЛЬСКОЕ, въ"
+                    HPOS="478"
+                    VPOS="619"
+                    WIDTH="1200"
+                    HEIGHT="107"></String>
+          </TextLine>
+          <TextLine ID="line_3"
+                    TAGREFS="LT74"
+                    BASELINE="376 802 1672 802" 
+                    HPOS="376"
+                    VPOS="700"
+                    WIDTH="1296"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="376 700 1672 700 1672 802 376 802"/></Shape>
+	    <String CONTENT="которомъ епископства Минстерское,"
+                    HPOS="376"
+                    VPOS="700"
+                    WIDTH="1296"
+                    HEIGHT="102"></String>
+          </TextLine>
+          <TextLine ID="line_4"
+                    TAGREFS="LT74"
+                    BASELINE="381 874 1675 874" 
+                    HPOS="381"
+                    VPOS="775"
+                    WIDTH="1294"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="381 775 1675 775 1675 874 381 874"/></Shape>
+	    <String CONTENT="Оснабригское и Падероорнское, также"
+                    HPOS="381"
+                    VPOS="775"
+                    WIDTH="1294"
+                    HEIGHT="99"></String>
+          </TextLine>
+          <TextLine ID="line_5"
+                    TAGREFS="LT74"
+                    BASELINE="377 947 1674 947" 
+                    HPOS="377"
+                    VPOS="847"
+                    WIDTH="1297"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="377 847 1674 847 1674 947 377 947"/></Shape>
+	    <String CONTENT="и разныя графства. Герцогства Анне-"
+                    HPOS="377"
+                    VPOS="847"
+                    WIDTH="1297"
+                    HEIGHT="100"></String>
+          </TextLine>
+          <TextLine ID="line_6"
+                    TAGREFS="LT74"
+                    BASELINE="380 1015 1675 1015" 
+                    HPOS="380"
+                    VPOS="920"
+                    WIDTH="1295"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="380 920 1675 920 1675 1015 380 1015"/></Shape>
+	    <String CONTENT="бургское и Брауншвейгское, гдѣ Ган-"
+                    HPOS="380"
+                    VPOS="920"
+                    WIDTH="1295"
+                    HEIGHT="95"></String>
+          </TextLine>
+          <TextLine ID="line_7"
+                    TAGREFS="LT74"
+                    BASELINE="376 1092 1677 1092" 
+                    HPOS="376"
+                    VPOS="991"
+                    WIDTH="1301"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="376 991 1677 991 1677 1092 376 1092"/></Shape>
+	    <String CONTENT="новеръ столичной городъ; Эттингенъ,"
+                    HPOS="376"
+                    VPOS="991"
+                    WIDTH="1301"
+                    HEIGHT="101"></String>
+          </TextLine>
+          <TextLine ID="line_8"
+                    TAGREFS="LT74"
+                    BASELINE="376 1166 1669 1166" 
+                    HPOS="376"
+                    VPOS="1065"
+                    WIDTH="1293"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="376 1065 1669 1065 1669 1166 376 1166"/></Shape>
+	    <String CONTENT="университетъ ; Линебургъ, гдѣ соля-"
+                    HPOS="376"
+                    VPOS="1065"
+                    WIDTH="1293"
+                    HEIGHT="101"></String>
+          </TextLine>
+          <TextLine ID="line_9"
+                    TAGREFS="LT74"
+                    BASELINE="378 1237 1682 1237" 
+                    HPOS="378"
+                    VPOS="1138"
+                    WIDTH="1304"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="378 1138 1682 1138 1682 1237 378 1237"/></Shape>
+	    <String CONTENT="ные заводы; Целле, прежняя столица,"
+                    HPOS="378"
+                    VPOS="1138"
+                    WIDTH="1304"
+                    HEIGHT="99"></String>
+          </TextLine>
+          <TextLine ID="line_10"
+                    TAGREFS="LT74"
+                    BASELINE="374 1306 1680 1306" 
+                    HPOS="374"
+                    VPOS="1207"
+                    WIDTH="1306"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="374 1207 1680 1207 1680 1306 374 1306"/></Shape>
+	    <String CONTENT="Волфенбиттель, крѣпость и столица;"
+                    HPOS="374"
+                    VPOS="1207"
+                    WIDTH="1306"
+                    HEIGHT="99"></String>
+          </TextLine>
+          <TextLine ID="line_11"
+                    TAGREFS="LT74"
+                    BASELINE="374 1379 1674 1379" 
+                    HPOS="374"
+                    VPOS="1276"
+                    WIDTH="1300"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="374 1276 1674 1276 1674 1379 374 1379"/></Shape>
+	    <String CONTENT="Брауншвейгъ, великой городъ; Гелм-"
+                    HPOS="374"
+                    VPOS="1276"
+                    WIDTH="1300"
+                    HEIGHT="103"></String>
+          </TextLine>
+          <TextLine ID="line_12"
+                    TAGREFS="LT74"
+                    BASELINE="376 1448 1678 1448" 
+                    HPOS="376"
+                    VPOS="1347"
+                    WIDTH="1302"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="376 1347 1678 1347 1678 1448 376 1448"/></Shape>
+	    <String CONTENT="штетъ, университетъ; Гилдесгеймъ,"
+                    HPOS="376"
+                    VPOS="1347"
+                    WIDTH="1302"
+                    HEIGHT="101"></String>
+          </TextLine>
+          <TextLine ID="line_13"
+                    TAGREFS="LT74"
+                    BASELINE="377 1521 1678 1521" 
+                    HPOS="377"
+                    VPOS="1419"
+                    WIDTH="1301"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="377 1419 1678 1419 1678 1521 377 1521"/></Shape>
+	    <String CONTENT="епископство. Остфрисландъ, гдѣ Эм-"
+                    HPOS="377"
+                    VPOS="1419"
+                    WIDTH="1301"
+                    HEIGHT="102"></String>
+          </TextLine>
+          <TextLine ID="line_14"
+                    TAGREFS="LT74"
+                    BASELINE="376 1598 1675 1598" 
+                    HPOS="376"
+                    VPOS="1494"
+                    WIDTH="1299"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="376 1494 1675 1494 1675 1598 376 1598"/></Shape>
+	    <String CONTENT="денъ, главный городъ. Графство Ол-"
+                    HPOS="376"
+                    VPOS="1494"
+                    WIDTH="1299"
+                    HEIGHT="104"></String>
+          </TextLine>
+          <TextLine ID="line_15"
+                    TAGREFS="LT74"
+                    BASELINE="375 1674 1686 1674" 
+                    HPOS="375"
+                    VPOS="1569"
+                    WIDTH="1311"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="375 1569 1686 1569 1686 1674 375 1674"/></Shape>
+	    <String CONTENT="денбургское, въ немъ Олденбургъ и"
+                    HPOS="375"
+                    VPOS="1569"
+                    WIDTH="1311"
+                    HEIGHT="105"></String>
+          </TextLine>
+          <TextLine ID="line_16"
+                    TAGREFS="LT74"
+                    BASELINE="372 1747 1678 1747" 
+                    HPOS="372"
+                    VPOS="1641"
+                    WIDTH="1306"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="372 1641 1678 1641 1678 1747 372 1747"/></Shape>
+	    <String CONTENT="Делменгорстъ. Гецогство Бременское,"
+                    HPOS="372"
+                    VPOS="1641"
+                    WIDTH="1306"
+                    HEIGHT="106"></String>
+          </TextLine>
+          <TextLine ID="line_17"
+                    TAGREFS="LT74"
+                    BASELINE="373 1818 1685 1818" 
+                    HPOS="373"
+                    VPOS="1715"
+                    WIDTH="1312"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="373 1715 1685 1715 1685 1818 373 1818"/></Shape>
+	    <String CONTENT="въ немъ Бременъ, главный городъ и"
+                    HPOS="373"
+                    VPOS="1715"
+                    WIDTH="1312"
+                    HEIGHT="103"></String>
+          </TextLine>
+          <TextLine ID="line_18"
+                    TAGREFS="LT74"
+                    BASELINE="373 1894 1073 1894" 
+                    HPOS="373"
+                    VPOS="1788"
+                    WIDTH="700"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="373 1788 1073 1788 1073 1894 373 1894"/></Shape>
+	    <String CONTENT="Штаде, крѣпость."
+                    HPOS="373"
+                    VPOS="1788"
+                    WIDTH="700"
+                    HEIGHT="106"></String>
+          </TextLine>
+          <TextLine ID="line_19"
+                    TAGREFS="LT74"
+                    BASELINE="371 1982 1684 1982" 
+                    HPOS="371"
+                    VPOS="1858"
+                    WIDTH="1313"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="371 1858 1684 1858 1684 1982 371 1982"/></Shape>
+	    <String CONTENT="Какїя провинцїи лежатъ около рѣки Эльбы?"
+                    HPOS="371"
+                    VPOS="1858"
+                    WIDTH="1313"
+                    HEIGHT="124"></String>
+          </TextLine>
+          <TextLine ID="line_20"
+                    TAGREFS="LT74"
+                    BASELINE="481 2082 1678 2082" 
+                    HPOS="481"
+                    VPOS="1947"
+                    WIDTH="1197"
+                    HEIGHT="135">
+            <Shape><Polygon POINTS="481 1947 1678 1947 1678 2082 481 2082"/></Shape>
+	    <String CONTENT="ГЕРЦОГСТВО ШЛЕЗВИГСКОЕ, ко-"
+                    HPOS="481"
+                    VPOS="1947"
+                    WIDTH="1197"
+                    HEIGHT="135"></String>
+          </TextLine>
+          <TextLine ID="line_21"
+                    TAGREFS="LT74"
+                    BASELINE="374 2155 1677 2155" 
+                    HPOS="374"
+                    VPOS="2042"
+                    WIDTH="1303"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="374 2042 1677 2042 1677 2155 374 2155"/></Shape>
+	    <String CONTENT="тораго на ландкартахъ о сѣверныхъ ко-"
+                    HPOS="374"
+                    VPOS="2042"
+                    WIDTH="1303"
+                    HEIGHT="113"></String>
+          </TextLine>
+          <TextLine ID="line_22"
+                    TAGREFS="LT74"
+                    BASELINE="377 2228 1684 2228" 
+                    HPOS="377"
+                    VPOS="2119"
+                    WIDTH="1307"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="377 2119 1684 2119 1684 2228 377 2228"/></Shape>
+	    <String CONTENT="ролевствахъ искать должно. Въ ономъ"
+                    HPOS="377"
+                    VPOS="2119"
+                    WIDTH="1307"
+                    HEIGHT="109"></String>
+          </TextLine>
+          <TextLine ID="line_23"
+                    TAGREFS="LT74"
+                    BASELINE="378 2301 1671 2301" 
+                    HPOS="378"
+                    VPOS="2193"
+                    WIDTH="1293"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="378 2193 1671 2193 1671 2301 378 2301"/></Shape>
+	    <String CONTENT="Фленсбургъ, крѣпость и портъ; Шле-"
+                    HPOS="378"
+                    VPOS="2193"
+                    WIDTH="1293"
+                    HEIGHT="108"></String>
+          </TextLine>
+          <TextLine ID="line_24"
+                    TAGREFS="LT74"
+                    BASELINE="374 2398 1679 2398" 
+                    HPOS="374"
+                    VPOS="2272"
+                    WIDTH="1305"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="374 2272 1679 2272 1679 2398 374 2398"/></Shape>
+	    <String CONTENT="звигъ, главный городъ; и Готторпъ,"
+                    HPOS="374"
+                    VPOS="2272"
+                    WIDTH="1305"
+                    HEIGHT="126"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="730.0"
+                   VPOS="303.0"
+                   WIDTH="593.0"
+                   HEIGHT="137.0"
+                   ID="block_1"
+                   TAGREFS="BT135">
+          <Shape><Polygon POINTS="730 303 1323 303 1323 440 730 440"/></Shape>
+        </TextBlock>
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="line_25"
+                    TAGREFS="LT72"
+                    BASELINE="1361 2471 1684 2471" 
+                    HPOS="1361"
+                    VPOS="2342"
+                    WIDTH="323"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="1361 2342 1684 2342 1684 2471 1361 2471"/></Shape>
+	    <String CONTENT="изрядной"
+                    HPOS="1361"
+                    VPOS="2342"
+                    WIDTH="323"
+                    HEIGHT="129"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

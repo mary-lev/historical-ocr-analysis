@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>2b9f62e32be5.jpeg</fileName>
+      <fileIdentifier>mets//mets.zip/2b9f62e32be5.jpeg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT134" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT137" LABEL="MarginTextZone:outer" DESCRIPTION="block type MarginTextZone:outer"/><OtherTag ID="BT135" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT138" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT2" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT136" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT50" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/>
+    <OtherTag ID="LT85" LABEL="CustomLine:divider" DESCRIPTION="line type CustomLine:divider"/><OtherTag ID="LT86" LABEL="CustomLine:onstage" DESCRIPTION="line type CustomLine:onstage"/><OtherTag ID="LT74" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT83" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT77" LABEL="CustomLine:paragraph_start" DESCRIPTION="line type CustomLine:paragraph_start"/><OtherTag ID="LT73" LABEL="CustomLine:signature" DESCRIPTION="line type CustomLine:signature"/><OtherTag ID="LT72" LABEL="CustomLine:catchword" DESCRIPTION="line type CustomLine:catchword"/><OtherTag ID="LT79" LABEL="CustomLine:verse" DESCRIPTION="line type CustomLine:verse"/><OtherTag ID="LT82" LABEL="CustomLine:speaker" DESCRIPTION="line type CustomLine:speaker"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="1400"
+          HEIGHT="2500"
+          PHYSICAL_IMG_NR="6"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1400"
+                  HEIGHT="2500">
+        <TextBlock HPOS="216.0"
+                   VPOS="611.0"
+                   WIDTH="1169.0"
+                   HEIGHT="1692.0"
+                   ID="block_0"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="216 613 1353 611 1385 2303 221 2303"/></Shape>
+          <TextLine ID="line_13"
+                    TAGREFS="LT83"
+                    BASELINE="467 755 1172 755" 
+                    HPOS="467"
+                    VPOS="617"
+                    WIDTH="705"
+                    HEIGHT="138">
+            <Shape><Polygon POINTS="467 617 1172 617 1172 755 467 755"/></Shape>
+	    <String CONTENT="ПОСТОЯННАЯ"
+                    HPOS="467"
+                    VPOS="617"
+                    WIDTH="705"
+                    HEIGHT="138"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_e14d1ce1"
+                    TAGREFS="LT83"
+                    BASELINE="480 852 1184 850" 
+                    HPOS="479"
+                    VPOS="760"
+                    WIDTH="704"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="479 850 479 883 687 881 710 870 785 881 937 870 956 883 966 883 987 870 1066 883 1110 870 1181 883 1183 779 1141 760 1072 779 1047 760 970 779 891 762 875 781 822 781 785 760 779 760 739 781 712 781 689 760 556 777 504 760 479 772 479 850"/></Shape>
+	    <String CONTENT="ЛЮБОВЬ"
+                    HPOS="479"
+                    VPOS="760"
+                    WIDTH="704"
+                    HEIGHT="123"></String>
+          </TextLine>
+          <TextLine ID="line_0"
+                    TAGREFS="LT83"
+                    BASELINE="779 968 871 968" 
+                    HPOS="779"
+                    VPOS="881"
+                    WIDTH="92"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="779 881 871 881 871 968 779 968"/></Shape>
+	    <String CONTENT="съ"
+                    HPOS="779"
+                    VPOS="881"
+                    WIDTH="92"
+                    HEIGHT="87"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_e000a608"
+                    TAGREFS="LT83"
+                    BASELINE="618 1062 1066 1057" 
+                    HPOS="614"
+                    VPOS="977"
+                    WIDTH="450"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="616 1060 616 1075 929 1081 931 1081 947 1079 1006 1068 1062 1079 1064 1056 1056 979 1018 989 975 981 956 977 954 977 952 977 943 981 927 989 831 983 785 981 783 981 781 981 770 985 754 991 745 985 739 979 737 979 735 979 733 979 614 987 616 1060"/></Shape>
+	    <String CONTENT="ПОМОЩІЮ"
+                    HPOS="614"
+                    VPOS="977"
+                    WIDTH="450"
+                    HEIGHT="104"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_ec4973ce"
+                    TAGREFS="LT83"
+                    BASELINE="462 1175 1217 1174" 
+                    HPOS="458"
+                    VPOS="1089"
+                    WIDTH="758"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="460 1175 460 1191 1216 1185 1216 1172 1214 1106 1175 1089 1172 1089 1170 1089 1100 1104 1095 1106 918 1106 914 1102 900 1089 897 1089 895 1089 893 1089 777 1093 775 1093 772 1093 766 1100 760 1104 710 1097 631 1089 629 1089 589 1095 560 1102 543 1095 537 1093 535 1093 533 1093 531 1093 529 1093 529 1095 527 1095 518 1104 458 1095 460 1175"/></Shape>
+	    <String CONTENT="НЕВИННОСТИ."
+                    HPOS="458"
+                    VPOS="1089"
+                    WIDTH="758"
+                    HEIGHT="102"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_fa8c594c"
+                    TAGREFS="LT77"
+                    BASELINE="467 1452 1364 1447" 
+                    HPOS="464"
+                    VPOS="1383"
+                    WIDTH="898"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="466 1472 635 1479 637 1479 697 1470 727 1466 745 1470 791 1479 793 1479 918 1466 956 1464 968 1466 1008 1477 1010 1477 1012 1479 1289 1479 1289 1477 1362 1460 1362 1445 1354 1383 1314 1397 1252 1389 1250 1389 1135 1402 1037 1391 1035 1391 914 1402 872 1389 870 1389 868 1389 866 1389 833 1404 802 1391 800 1391 797 1391 695 1404 635 1387 633 1387 631 1387 629 1387 627 1387 606 1406 541 1406 525 1389 525 1387 522 1387 520 1387 464 1387 466 1450"/></Shape>
+	    <String CONTENT="Въ семъ свѣтѣ находится нѣ-"
+                    HPOS="464"
+                    VPOS="1383"
+                    WIDTH="898"
+                    HEIGHT="96"></String>
+          </TextLine>
+          <TextLine ID="line_1"
+                    TAGREFS="LT74"
+                    BASELINE="502 1529 1365 1513" 
+                    HPOS="497"
+                    VPOS="1462"
+                    WIDTH="867"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="500 1541 591 1537 652 1550 652 1547 668 1533 754 1533 787 1550 852 1550 852 1547 875 1535 922 1545 1047 1533 1070 1543 1077 1543 1116 1527 1202 1541 1333 1539 1364 1520 1364 1512 1358 1462 1112 1475 1064 1462 956 1479 812 1479 791 1464 783 1464 741 1479 729 1466 497 1472 500 1527"/></Shape>
+	    <String CONTENT="которой счастливой островъ,"
+                    HPOS="497"
+                    VPOS="1462"
+                    WIDTH="867"
+                    HEIGHT="88"></String>
+          </TextLine>
+          <TextLine ID="line_2"
+                    TAGREFS="LT74"
+                    BASELINE="494 1595 1375 1582" 
+                    HPOS="491"
+                    VPOS="1525"
+                    WIDTH="884"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="493 1593 493 1612 641 1602 737 1612 885 1600 900 1610 906 1610 1168 1606 1227 1593 1293 1604 1372 1591 1375 1581 1368 1527 1233 1537 1118 1525 1060 1541 972 1541 954 1527 945 1527 900 1541 841 1529 781 1543 689 1531 600 1543 585 1533 491 1537 493 1593"/></Shape>
+	    <String CONTENT="неизвѣстной большой части"
+                    HPOS="491"
+                    VPOS="1525"
+                    WIDTH="884"
+                    HEIGHT="87"></String>
+          </TextLine>
+          <TextLine ID="line_3"
+                    TAGREFS="LT74"
+                    BASELINE="259 1658 1370 1642" 
+                    HPOS="256"
+                    VPOS="1583"
+                    WIDTH="1112"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="904 1589 802 1610 758 1610 739 1593 731 1593 702 1604 647 1593 627 1610 562 1595 350 1600 333 1610 256 1597 258 1679 337 1670 372 1681 416 1668 602 1677 614 1666 883 1675 900 1662 1000 1672 1047 1660 1064 1672 1193 1672 1216 1658 1327 1668 1368 1656 1360 1583 1312 1604 1193 1604 1135 1591 1039 1608 922 1608 904 1589"/></Shape>
+	    <String CONTENT="смертныхъ. Воздухъ на немъ всегда"
+                    HPOS="256"
+                    VPOS="1583"
+                    WIDTH="1112"
+                    HEIGHT="98"></String>
+          </TextLine>
+          <TextLine ID="line_4"
+                    TAGREFS="LT74"
+                    BASELINE="257 1745 1361 1745" 
+                    HPOS="257"
+                    VPOS="1661"
+                    WIDTH="1104"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="257 1661 1361 1661 1361 1745 257 1745"/></Shape>
+	    <String CONTENT="чистъ и свѣтелъ, погоды неподверже-"
+                    HPOS="257"
+                    VPOS="1661"
+                    WIDTH="1104"
+                    HEIGHT="84"></String>
+          </TextLine>
+          <TextLine ID="line_5"
+                    TAGREFS="LT74"
+                    BASELINE="252 1811 1360 1811" 
+                    HPOS="252"
+                    VPOS="1726"
+                    WIDTH="1108"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="252 1726 1360 1726 1360 1811 252 1811"/></Shape>
+	    <String CONTENT="ны тѣмъ страннымъ перемѣнамъ, кои"
+                    HPOS="252"
+                    VPOS="1726"
+                    WIDTH="1108"
+                    HEIGHT="85"></String>
+          </TextLine>
+          <TextLine ID="line_6"
+                    TAGREFS="LT74"
+                    BASELINE="253 1882 1362 1882" 
+                    HPOS="253"
+                    VPOS="1792"
+                    WIDTH="1109"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="253 1792 1362 1792 1362 1882 253 1882"/></Shape>
+	    <String CONTENT="мы чувствуемъ въ нашемъ полушарѣ,"
+                    HPOS="253"
+                    VPOS="1792"
+                    WIDTH="1109"
+                    HEIGHT="90"></String>
+          </TextLine>
+          <TextLine ID="line_7"
+                    TAGREFS="LT74"
+                    BASELINE="253 1946 1366 1946" 
+                    HPOS="253"
+                    VPOS="1856"
+                    WIDTH="1113"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="253 1856 1366 1856 1366 1946 253 1946"/></Shape>
+	    <String CONTENT="поверхности водъ касаются одни лишъ"
+                    HPOS="253"
+                    VPOS="1856"
+                    WIDTH="1113"
+                    HEIGHT="90"></String>
+          </TextLine>
+          <TextLine ID="line_8"
+                    TAGREFS="LT74"
+                    BASELINE="254 2013 1367 2013" 
+                    HPOS="254"
+                    VPOS="1930"
+                    WIDTH="1113"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="254 1930 1367 1930 1367 2013 254 2013"/></Shape>
+	    <String CONTENT="Зефиры, и сердце счастливыхъ обита-"
+                    HPOS="254"
+                    VPOS="1930"
+                    WIDTH="1113"
+                    HEIGHT="83"></String>
+          </TextLine>
+          <TextLine ID="line_9"
+                    TAGREFS="LT74"
+                    BASELINE="254 2084 1367 2084" 
+                    HPOS="254"
+                    VPOS="1996"
+                    WIDTH="1113"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="254 1996 1367 1996 1367 2084 254 2084"/></Shape>
+	    <String CONTENT="телей сего блаженнаго жилища ни-"
+                    HPOS="254"
+                    VPOS="1996"
+                    WIDTH="1113"
+                    HEIGHT="88"></String>
+          </TextLine>
+          <TextLine ID="line_10"
+                    TAGREFS="LT74"
+                    BASELINE="253 2145 1368 2145" 
+                    HPOS="253"
+                    VPOS="2060"
+                    WIDTH="1115"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="253 2060 1368 2060 1368 2145 253 2145"/></Shape>
+	    <String CONTENT="когда не познало треволненій, возбуж-"
+                    HPOS="253"
+                    VPOS="2060"
+                    WIDTH="1115"
+                    HEIGHT="85"></String>
+          </TextLine>
+          <TextLine ID="line_11"
+                    TAGREFS="LT74"
+                    BASELINE="254 2221 1370 2221" 
+                    HPOS="254"
+                    VPOS="2127"
+                    WIDTH="1116"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="254 2127 1370 2127 1370 2221 254 2221"/></Shape>
+	    <String CONTENT="даемыхъ силою страстей и неумерен-"
+                    HPOS="254"
+                    VPOS="2127"
+                    WIDTH="1116"
+                    HEIGHT="94"></String>
+          </TextLine>
+          <TextLine ID="line_12"
+                    TAGREFS="LT72"
+                    BASELINE="1245 2274 1373 2274" 
+                    HPOS="1245"
+                    VPOS="2183"
+                    WIDTH="128"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="1245 2183 1373 2183 1373 2274 1245 2274"/></Shape>
+	    <String CONTENT="ными"
+                    HPOS="1245"
+                    VPOS="2183"
+                    WIDTH="128"
+                    HEIGHT="91"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="163.0"
+                   VPOS="99.0"
+                   WIDTH="1194.0"
+                   HEIGHT="495.0"
+                   ID="block_1"
+                   TAGREFS="BT135">
+          <Shape><Polygon POINTS="163 99 1357 99 1357 594 163 594"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

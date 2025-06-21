@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>e6f218027d3c.jpeg</fileName>
+      <fileIdentifier>mets//mets.zip/e6f218027d3c.jpeg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT134" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT137" LABEL="MarginTextZone:outer" DESCRIPTION="block type MarginTextZone:outer"/><OtherTag ID="BT135" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT138" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT2" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT136" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT50" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/>
+    <OtherTag ID="LT85" LABEL="CustomLine:divider" DESCRIPTION="line type CustomLine:divider"/><OtherTag ID="LT86" LABEL="CustomLine:onstage" DESCRIPTION="line type CustomLine:onstage"/><OtherTag ID="LT74" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT83" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT77" LABEL="CustomLine:paragraph_start" DESCRIPTION="line type CustomLine:paragraph_start"/><OtherTag ID="LT73" LABEL="CustomLine:signature" DESCRIPTION="line type CustomLine:signature"/><OtherTag ID="LT72" LABEL="CustomLine:catchword" DESCRIPTION="line type CustomLine:catchword"/><OtherTag ID="LT79" LABEL="CustomLine:verse" DESCRIPTION="line type CustomLine:verse"/><OtherTag ID="LT82" LABEL="CustomLine:speaker" DESCRIPTION="line type CustomLine:speaker"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="525"
+          HEIGHT="950"
+          PHYSICAL_IMG_NR="27"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="525"
+                  HEIGHT="950">
+        <TextBlock HPOS="71.0"
+                   VPOS="122.0"
+                   WIDTH="452.0"
+                   HEIGHT="779.0"
+                   ID="block_0"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="71 122 523 122 523 901 71 901"/></Shape>
+          <TextLine ID="line_0"
+                    TAGREFS="LT74"
+                    BASELINE="82 160 516 160" 
+                    HPOS="82"
+                    VPOS="115"
+                    WIDTH="434"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="82 115 516 115 516 160 82 160"/></Shape>
+	    <String CONTENT="представилъ въ Сыскной приказъ, а того до-"
+                    HPOS="82"
+                    VPOS="115"
+                    WIDTH="434"
+                    HEIGHT="45"></String>
+          </TextLine>
+          <TextLine ID="line_1"
+                    TAGREFS="LT74"
+                    BASELINE="83 186 518 186" 
+                    HPOS="83"
+                    VPOS="151"
+                    WIDTH="435"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="83 151 518 151 518 186 83 186"/></Shape>
+	    <String CONTENT="казателя оставилъ въ своей квартирѣ, послѣ"
+                    HPOS="83"
+                    VPOS="151"
+                    WIDTH="435"
+                    HEIGHT="35"></String>
+          </TextLine>
+          <TextLine ID="line_2"
+                    TAGREFS="LT74"
+                    BASELINE="81 214 518 214" 
+                    HPOS="81"
+                    VPOS="177"
+                    WIDTH="437"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="81 177 518 177 518 214 81 214"/></Shape>
+	    <String CONTENT="на третїй день отпустилъ ево за карауломъ"
+                    HPOS="81"
+                    VPOS="177"
+                    WIDTH="437"
+                    HEIGHT="37"></String>
+          </TextLine>
+          <TextLine ID="line_3"
+                    TAGREFS="LT74"
+                    BASELINE="83 238 517 238" 
+                    HPOS="83"
+                    VPOS="202"
+                    WIDTH="434"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="83 202 517 202 517 238 83 238"/></Shape>
+	    <String CONTENT="для провѣдыванїя другихъ артелей, тогда"
+                    HPOS="83"
+                    VPOS="202"
+                    WIDTH="434"
+                    HEIGHT="36"></String>
+          </TextLine>
+          <TextLine ID="line_4"
+                    TAGREFS="LT74"
+                    BASELINE="84 263 518 263" 
+                    HPOS="84"
+                    VPOS="229"
+                    WIDTH="434"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="84 229 518 229 518 263 84 263"/></Shape>
+	    <String CONTENT="онъ бѣжалъ; а показанныя воры по допросу въ"
+                    HPOS="84"
+                    VPOS="229"
+                    WIDTH="434"
+                    HEIGHT="34"></String>
+          </TextLine>
+          <TextLine ID="line_5"
+                    TAGREFS="LT74"
+                    BASELINE="83 288 515 288" 
+                    HPOS="83"
+                    VPOS="254"
+                    WIDTH="432"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="83 254 515 254 515 288 83 288"/></Shape>
+	    <String CONTENT="Сыскномъ приказѣ винились во многихъ воро-"
+                    HPOS="83"
+                    VPOS="254"
+                    WIDTH="432"
+                    HEIGHT="34"></String>
+          </TextLine>
+          <TextLine ID="line_6"
+                    TAGREFS="LT74"
+                    BASELINE="83 312 507 312" 
+                    HPOS="83"
+                    VPOS="279"
+                    WIDTH="424"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="83 279 507 279 507 312 83 312"/></Shape>
+	    <String CONTENT="ствахъ и смертныхъ убивствахъ, изъ коих"
+                    HPOS="83"
+                    VPOS="279"
+                    WIDTH="424"
+                    HEIGHT="33"></String>
+          </TextLine>
+          <TextLine ID="line_7"
+                    TAGREFS="LT74"
+                    BASELINE="83 340 517 340" 
+                    HPOS="83"
+                    VPOS="303"
+                    WIDTH="434"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="83 303 517 303 517 340 83 340"/></Shape>
+	    <String CONTENT="Савелїй Вьюшкинъ показалъ, что онъ бывалъ"
+                    HPOS="83"
+                    VPOS="303"
+                    WIDTH="434"
+                    HEIGHT="37"></String>
+          </TextLine>
+          <TextLine ID="line_8"
+                    TAGREFS="LT74"
+                    BASELINE="82 366 516 366" 
+                    HPOS="82"
+                    VPOS="328"
+                    WIDTH="434"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="82 328 516 328 516 366 82 366"/></Shape>
+	    <String CONTENT="во многихъ партїяхъ до 70 разбоевъ, а"
+                    HPOS="82"
+                    VPOS="328"
+                    WIDTH="434"
+                    HEIGHT="38"></String>
+          </TextLine>
+          <TextLine ID="line_9"
+                    TAGREFS="LT74"
+                    BASELINE="84 393 514 393" 
+                    HPOS="84"
+                    VPOS="354"
+                    WIDTH="430"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="84 354 514 354 514 393 84 393"/></Shape>
+	    <String CONTENT="смертныхъ убивствъ учинилъ сколько чис-"
+                    HPOS="84"
+                    VPOS="354"
+                    WIDTH="430"
+                    HEIGHT="39"></String>
+          </TextLine>
+          <TextLine ID="line_10"
+                    TAGREFS="LT74"
+                    BASELINE="85 416 492 416" 
+                    HPOS="85"
+                    VPOS="381"
+                    WIDTH="407"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="85 381 492 381 492 416 85 416"/></Shape>
+	    <String CONTENT="ломъ, того по множеству не упомнитъ."
+                    HPOS="85"
+                    VPOS="381"
+                    WIDTH="407"
+                    HEIGHT="35"></String>
+          </TextLine>
+          <TextLine ID="line_11"
+                    TAGREFS="LT77"
+                    BASELINE="108 439 515 439" 
+                    HPOS="108"
+                    VPOS="407"
+                    WIDTH="407"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="108 407 515 407 515 439 108 439"/></Shape>
+	    <String CONTENT="Послѣ того сыскалъ разбойниковъ 72 чело-"
+                    HPOS="108"
+                    VPOS="407"
+                    WIDTH="407"
+                    HEIGHT="32"></String>
+          </TextLine>
+          <TextLine ID="line_12"
+                    TAGREFS="LT74"
+                    BASELINE="83 465 518 465" 
+                    HPOS="83"
+                    VPOS="431"
+                    WIDTH="435"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="83 431 518 431 518 465 83 465"/></Shape>
+	    <String CONTENT="вѣкъ, и при нихъ Атамана Михайлу Бухтѣя"
+                    HPOS="83"
+                    VPOS="431"
+                    WIDTH="435"
+                    HEIGHT="34"></String>
+          </TextLine>
+          <TextLine ID="line_13"
+                    TAGREFS="LT74"
+                    BASELINE="83 492 518 492" 
+                    HPOS="83"
+                    VPOS="456"
+                    WIDTH="435"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="83 456 518 456 518 492 83 492"/></Shape>
+	    <String CONTENT="которые винились въ разбитїи Колотскова"
+                    HPOS="83"
+                    VPOS="456"
+                    WIDTH="435"
+                    HEIGHT="36"></String>
+          </TextLine>
+          <TextLine ID="line_14"
+                    TAGREFS="LT74"
+                    BASELINE="80 518 516 518" 
+                    HPOS="80"
+                    VPOS="481"
+                    WIDTH="436"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="80 481 516 481 516 518 80 518"/></Shape>
+	    <String CONTENT="Монастыря и въ прочихъ многихъ воровст-"
+                    HPOS="80"
+                    VPOS="481"
+                    WIDTH="436"
+                    HEIGHT="37"></String>
+          </TextLine>
+          <TextLine ID="line_15"
+                    TAGREFS="LT74"
+                    BASELINE="81 542 516 542" 
+                    HPOS="81"
+                    VPOS="506"
+                    WIDTH="435"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="81 506 516 506 516 542 81 542"/></Shape>
+	    <String CONTENT="вахъ и разбояхъ и въ смертныхъ убивствахъ."
+                    HPOS="81"
+                    VPOS="506"
+                    WIDTH="435"
+                    HEIGHT="36"></String>
+          </TextLine>
+          <TextLine ID="line_16"
+                    TAGREFS="LT74"
+                    BASELINE="82 568 515 568" 
+                    HPOS="82"
+                    VPOS="533"
+                    WIDTH="433"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="82 533 515 533 515 568 82 568"/></Shape>
+	    <String CONTENT="Еще взялъ въ покровскомъ селѣ въ баняхъ раз-"
+                    HPOS="82"
+                    VPOS="533"
+                    WIDTH="433"
+                    HEIGHT="35"></String>
+          </TextLine>
+          <TextLine ID="line_17"
+                    TAGREFS="LT74"
+                    BASELINE="83 592 518 592" 
+                    HPOS="83"
+                    VPOS="559"
+                    WIDTH="435"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="83 559 518 559 518 592 83 592"/></Shape>
+	    <String CONTENT="бойниковъ 35 человѣкъ, кои винились въ раз-"
+                    HPOS="83"
+                    VPOS="559"
+                    WIDTH="435"
+                    HEIGHT="33"></String>
+          </TextLine>
+          <TextLine ID="line_18"
+                    TAGREFS="LT74"
+                    BASELINE="82 620 518 620" 
+                    HPOS="82"
+                    VPOS="584"
+                    WIDTH="436"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="82 584 518 584 518 620 82 620"/></Shape>
+	    <String CONTENT="битїи Кашинскаго помѣщика Мелистина и въ"
+                    HPOS="82"
+                    VPOS="584"
+                    WIDTH="436"
+                    HEIGHT="36"></String>
+          </TextLine>
+          <TextLine ID="line_19"
+                    TAGREFS="LT74"
+                    BASELINE="83 645 516 645" 
+                    HPOS="83"
+                    VPOS="608"
+                    WIDTH="433"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="83 608 516 608 516 645 83 645"/></Shape>
+	    <String CONTENT="прочихъ многихъ воровствахъ и разбояхъ."
+                    HPOS="83"
+                    VPOS="608"
+                    WIDTH="433"
+                    HEIGHT="37"></String>
+          </TextLine>
+          <TextLine ID="line_20"
+                    TAGREFS="LT74"
+                    BASELINE="81 670 517 670" 
+                    HPOS="81"
+                    VPOS="634"
+                    WIDTH="436"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="81 634 517 634 517 670 81 670"/></Shape>
+	    <String CONTENT="Послѣ онаго близь Васильевскаго саду, взялъ"
+                    HPOS="81"
+                    VPOS="634"
+                    WIDTH="436"
+                    HEIGHT="36"></String>
+          </TextLine>
+          <TextLine ID="line_21"
+                    TAGREFS="LT74"
+                    BASELINE="85 695 515 695" 
+                    HPOS="85"
+                    VPOS="661"
+                    WIDTH="430"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="85 661 515 661 515 695 85 695"/></Shape>
+	    <String CONTENT="фабришнаго Андрея Скоробогатова съ това-"
+                    HPOS="85"
+                    VPOS="661"
+                    WIDTH="430"
+                    HEIGHT="34"></String>
+          </TextLine>
+          <TextLine ID="line_22"
+                    TAGREFS="LT74"
+                    BASELINE="84 720 515 720" 
+                    HPOS="84"
+                    VPOS="687"
+                    WIDTH="431"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="84 687 515 687 515 720 84 720"/></Shape>
+	    <String CONTENT="рищи, всѣхъ 17 человѣкъ, въ дѣланїи воровс-"
+                    HPOS="84"
+                    VPOS="687"
+                    WIDTH="431"
+                    HEIGHT="33"></String>
+          </TextLine>
+          <TextLine ID="line_23"
+                    TAGREFS="LT74"
+                    BASELINE="83 745 517 745" 
+                    HPOS="83"
+                    VPOS="711"
+                    WIDTH="434"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="83 711 517 711 517 745 83 745"/></Shape>
+	    <String CONTENT="кихъ денегъ и съ тѣми ихъ деньгами. Взялъ"
+                    HPOS="83"
+                    VPOS="711"
+                    WIDTH="434"
+                    HEIGHT="34"></String>
+          </TextLine>
+          <TextLine ID="line_24"
+                    TAGREFS="LT74"
+                    BASELINE="84 772 516 772" 
+                    HPOS="84"
+                    VPOS="736"
+                    WIDTH="432"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="84 736 516 736 516 772 84 772"/></Shape>
+	    <String CONTENT="въ Тверской Ямской вора, при которомъ"
+                    HPOS="84"
+                    VPOS="736"
+                    WIDTH="432"
+                    HEIGHT="36"></String>
+          </TextLine>
+          <TextLine ID="line_25"
+                    TAGREFS="LT74"
+                    BASELINE="85 798 515 798" 
+                    HPOS="85"
+                    VPOS="761"
+                    WIDTH="430"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="85 761 515 761 515 798 85 798"/></Shape>
+	    <String CONTENT="взялъ серебреной съ образовъ окладъ; а по до-"
+                    HPOS="85"
+                    VPOS="761"
+                    WIDTH="430"
+                    HEIGHT="37"></String>
+          </TextLine>
+          <TextLine ID="line_26"
+                    TAGREFS="LT74"
+                    BASELINE="84 823 516 823" 
+                    HPOS="84"
+                    VPOS="788"
+                    WIDTH="432"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="84 788 516 788 516 823 84 823"/></Shape>
+	    <String CONTENT="просу винился въ кражѣ въ городѣ Старицѣ"
+                    HPOS="84"
+                    VPOS="788"
+                    WIDTH="432"
+                    HEIGHT="35"></String>
+          </TextLine>
+          <TextLine ID="line_27"
+                    TAGREFS="LT74"
+                    BASELINE="84 847 515 847" 
+                    HPOS="84"
+                    VPOS="813"
+                    WIDTH="431"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="84 813 515 813 515 847 84 847"/></Shape>
+	    <String CONTENT="церкви,. После онаго взяты воры: Алексѣй"
+                    HPOS="84"
+                    VPOS="813"
+                    WIDTH="431"
+                    HEIGHT="34"></String>
+          </TextLine>
+          <TextLine ID="line_28"
+                    TAGREFS="LT74"
+                    BASELINE="83 882 516 882" 
+                    HPOS="83"
+                    VPOS="839"
+                    WIDTH="433"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="83 839 516 839 516 882 83 882"/></Shape>
+	    <String CONTENT="Журка съ товарыщи 14 человѣкъ а по при-"
+                    HPOS="83"
+                    VPOS="839"
+                    WIDTH="433"
+                    HEIGHT="43"></String>
+          </TextLine>
+          <TextLine ID="line_29"
+                    TAGREFS="LT72"
+                    BASELINE="487 903 517 903" 
+                    HPOS="487"
+                    VPOS="866"
+                    WIDTH="30"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="487 866 517 866 517 903 487 903"/></Shape>
+	    <String CONTENT="во"
+                    HPOS="487"
+                    VPOS="866"
+                    WIDTH="30"
+                    HEIGHT="37"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="72.0"
+                   VPOS="71.0"
+                   WIDTH="53.0"
+                   HEIGHT="39.0"
+                   ID="block_2"
+                   TAGREFS="BT134">
+          <Shape><Polygon POINTS="72 71 125 71 125 110 72 110"/></Shape>
+          <TextLine ID="line_30"
+                    TAGREFS="LT74"
+                    BASELINE="81 113 120 113" 
+                    HPOS="81"
+                    VPOS="64"
+                    WIDTH="39"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="81 64 120 64 120 113 81 113"/></Shape>
+	    <String CONTENT="36"
+                    HPOS="81"
+                    VPOS="64"
+                    WIDTH="39"
+                    HEIGHT="49"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="222.0"
+                   VPOS="63.0"
+                   WIDTH="153.0"
+                   HEIGHT="49.0"
+                   ID="block_1"
+                   TAGREFS="BT135">
+          <Shape><Polygon POINTS="222 63 375 63 375 112 222 112"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

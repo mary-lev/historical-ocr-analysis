@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>024d35035e81.jpeg</fileName>
+      <fileIdentifier>mets//mets.zip/024d35035e81.jpeg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT134" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT137" LABEL="MarginTextZone:outer" DESCRIPTION="block type MarginTextZone:outer"/><OtherTag ID="BT135" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT138" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT2" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT136" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT50" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/>
+    <OtherTag ID="LT85" LABEL="CustomLine:divider" DESCRIPTION="line type CustomLine:divider"/><OtherTag ID="LT86" LABEL="CustomLine:onstage" DESCRIPTION="line type CustomLine:onstage"/><OtherTag ID="LT74" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT83" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT77" LABEL="CustomLine:paragraph_start" DESCRIPTION="line type CustomLine:paragraph_start"/><OtherTag ID="LT73" LABEL="CustomLine:signature" DESCRIPTION="line type CustomLine:signature"/><OtherTag ID="LT72" LABEL="CustomLine:catchword" DESCRIPTION="line type CustomLine:catchword"/><OtherTag ID="LT79" LABEL="CustomLine:verse" DESCRIPTION="line type CustomLine:verse"/><OtherTag ID="LT82" LABEL="CustomLine:speaker" DESCRIPTION="line type CustomLine:speaker"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3300"
+          HEIGHT="4200"
+          PHYSICAL_IMG_NR="64"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3300"
+                  HEIGHT="4200">
+        <TextBlock HPOS="515.0"
+                   VPOS="596.0"
+                   WIDTH="2476.0"
+                   HEIGHT="3112.0"
+                   ID="eSc_textblock_a8a84e1e"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="548 596 515 3708 2991 3694 2991 611"/></Shape>
+          <TextLine ID="line_0"
+                    TAGREFS="LT74"
+                    BASELINE="849 650 2945 650" 
+                    HPOS="849"
+                    VPOS="621"
+                    WIDTH="2096"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="849 621 2945 623 2945 679 849 676"/></Shape>
+	    <String CONTENT="ляется отъ части въ сторону D, отъ части въ сторону В;"
+                    HPOS="849"
+                    VPOS="621"
+                    WIDTH="2096"
+                    HEIGHT="58"></String>
+          </TextLine>
+          <TextLine ID="line_1"
+                    TAGREFS="LT74"
+                    BASELINE="849 718 2936 718" 
+                    HPOS="849"
+                    VPOS="691"
+                    WIDTH="2088"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="849 695 2936 691 2937 742 849 745"/></Shape>
+	    <String CONTENT="и тѣмъ своимъ упоромѣ, которой производитъ она въ далекомъ"
+                    HPOS="849"
+                    VPOS="691"
+                    WIDTH="2088"
+                    HEIGHT="54"></String>
+          </TextLine>
+          <TextLine ID="line_2"
+                    TAGREFS="LT74"
+                    BASELINE="849 784 2937 784" 
+                    HPOS="849"
+                    VPOS="758"
+                    WIDTH="2088"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="849 758 2937 760 2936 810 849 807"/></Shape>
+	    <String CONTENT="разстоянїи отъ центра тяжести судна G, подвигаетъ корму"
+                    HPOS="849"
+                    VPOS="758"
+                    WIDTH="2088"
+                    HEIGHT="52"></String>
+          </TextLine>
+          <TextLine ID="line_3"
+                    TAGREFS="LT74"
+                    BASELINE="831 853 2395 853" 
+                    HPOS="830"
+                    VPOS="824"
+                    WIDTH="1565"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="831 824 2395 827 2394 883 830 879"/></Shape>
+	    <String CONTENT="судна въ одну сторону b, а носъ въ другую а."
+                    HPOS="830"
+                    VPOS="824"
+                    WIDTH="1565"
+                    HEIGHT="59"></String>
+          </TextLine>
+          <TextLine ID="line_4"
+                    TAGREFS="LT83"
+                    BASELINE="1755 951 2124 951" 
+                    HPOS="1755"
+                    VPOS="922"
+                    WIDTH="372"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="1755 924 2124 922 2127 978 1758 980"/></Shape>
+	    <String CONTENT="Задача"
+                    HPOS="1755"
+                    VPOS="922"
+                    WIDTH="372"
+                    HEIGHT="58"></String>
+          </TextLine>
+          <TextLine ID="line_5"
+                    TAGREFS="LT77"
+                    BASELINE="1105 1036 2942 1036" 
+                    HPOS="1105"
+                    VPOS="1005"
+                    WIDTH="1837"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="1105 1005 2942 1007 2942 1067 1105 1065"/></Shape>
+	    <String CONTENT="28. Сыскать, сколь великою силою понуждается"
+                    HPOS="1105"
+                    VPOS="1005"
+                    WIDTH="1837"
+                    HEIGHT="62"></String>
+          </TextLine>
+          <TextLine ID="line_6"
+                    TAGREFS="LT74"
+                    BASELINE="834 1118 2943 1118" 
+                    HPOS="832"
+                    VPOS="1081"
+                    WIDTH="2111"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="834 1081 2943 1088 2941 1155 832 1148"/></Shape>
+	    <String CONTENT="судно по рѣкѣ, когда извѣстно число гребцовъ и длина"
+                    HPOS="832"
+                    VPOS="1081"
+                    WIDTH="2111"
+                    HEIGHT="74"></String>
+          </TextLine>
+          <TextLine ID="line_7"
+                    TAGREFS="LT74"
+                    BASELINE="832 1214 2388 1214" 
+                    HPOS="825"
+                    VPOS="1165"
+                    WIDTH="1563"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="832 1165 2388 1183 2381 1263 825 1246"/></Shape>
+	    <String CONTENT="концовъ веселъ, отъ уклюшины щитая."
+                    HPOS="825"
+                    VPOS="1165"
+                    WIDTH="1563"
+                    HEIGHT="98"></String>
+          </TextLine>
+          <TextLine ID="line_8"
+                    TAGREFS="LT83"
+                    BASELINE="1647 1300 2178 1300" 
+                    HPOS="1647"
+                    VPOS="1270"
+                    WIDTH="531"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="1647 1270 2178 1270 2178 1330 1647 1330"/></Shape>
+	    <String CONTENT="Рѣшенїе."
+                    HPOS="1647"
+                    VPOS="1270"
+                    WIDTH="531"
+                    HEIGHT="60"></String>
+          </TextLine>
+          <TextLine ID="line_9"
+                    TAGREFS="LT77"
+                    BASELINE="1036 1385 2945 1385" 
+                    HPOS="1036"
+                    VPOS="1353"
+                    WIDTH="1909"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="1036 1353 2945 1353 2945 1418 1036 1418"/></Shape>
+	    <String CONTENT="Ежели положить число гребцовъ 10, силу кажда-"
+                    HPOS="1036"
+                    VPOS="1353"
+                    WIDTH="1909"
+                    HEIGHT="65"></String>
+          </TextLine>
+          <TextLine ID="line_10"
+                    TAGREFS="LT74"
+                    BASELINE="818 1472 2939 1472" 
+                    HPOS="818"
+                    VPOS="1437"
+                    WIDTH="2122"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="818 1441 2939 1437 2940 1503 819 1507"/></Shape>
+	    <String CONTENT="го въ полтора пуда, или 60 фунтовъ; а хотя человѣкъ"
+                    HPOS="818"
+                    VPOS="1437"
+                    WIDTH="2122"
+                    HEIGHT="70"></String>
+          </TextLine>
+          <TextLine ID="line_11"
+                    TAGREFS="LT74"
+                    BASELINE="819 1555 2945 1555" 
+                    HPOS="819"
+                    VPOS="1521"
+                    WIDTH="2126"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="819 1524 2945 1521 2945 1586 819 1589"/></Shape>
+	    <String CONTENT="и большею силою работать можетъ, но она меньше"
+                    HPOS="819"
+                    VPOS="1521"
+                    WIDTH="2126"
+                    HEIGHT="68"></String>
+          </TextLine>
+          <TextLine ID="line_12"
+                    TAGREFS="LT74"
+                    BASELINE="827 1638 2939 1638" 
+                    HPOS="827"
+                    VPOS="1604"
+                    WIDTH="2113"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="827 1607 2939 1604 2940 1669 828 1672"/></Shape>
+	    <String CONTENT="полагается, въ разсужденїи того, что сила, упору весла"
+                    HPOS="827"
+                    VPOS="1604"
+                    WIDTH="2113"
+                    HEIGHT="68"></String>
+          </TextLine>
+          <TextLine ID="line_13"
+                    TAGREFS="LT74"
+                    BASELINE="831 1724 2946 1724" 
+                    HPOS="829"
+                    VPOS="1688"
+                    WIDTH="2117"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="831 1688 2946 1694 2944 1760 829 1754"/></Shape>
+	    <String CONTENT="въ воду, не будетъ точно такая, какъ она опредѣ-"
+                    HPOS="829"
+                    VPOS="1688"
+                    WIDTH="2117"
+                    HEIGHT="72"></String>
+          </TextLine>
+          <TextLine ID="line_14"
+                    TAGREFS="LT74"
+                    BASELINE="828 1810 2946 1810" 
+                    HPOS="827"
+                    VPOS="1773"
+                    WIDTH="2119"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="828 1773 2946 1779 2944 1847 827 1842"/></Shape>
+	    <String CONTENT="ляется по пропорцїи, а нѣсколько меньше, по тому что"
+                    HPOS="827"
+                    VPOS="1773"
+                    WIDTH="2119"
+                    HEIGHT="74"></String>
+          </TextLine>
+          <TextLine ID="line_15"
+                    TAGREFS="LT74"
+                    BASELINE="822 1897 2950 1897" 
+                    HPOS="822"
+                    VPOS="1865"
+                    WIDTH="2128"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="822 1865 2950 1865 2950 1929 822 1929"/></Shape>
+	    <String CONTENT="при упорѣ весла вода не стоитъ неподвижно, а пода-"
+                    HPOS="822"
+                    VPOS="1865"
+                    WIDTH="2128"
+                    HEIGHT="64"></String>
+          </TextLine>
+          <TextLine ID="line_16"
+                    TAGREFS="LT74"
+                    BASELINE="830 1983 2948 1983" 
+                    HPOS="830"
+                    VPOS="1948"
+                    WIDTH="2118"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="830 1948 2948 1951 2947 2019 830 2017"/></Shape>
+	    <String CONTENT="ется нѣсколько; длину одного конца весла отъ уклю-"
+                    HPOS="830"
+                    VPOS="1948"
+                    WIDTH="2118"
+                    HEIGHT="71"></String>
+          </TextLine>
+          <TextLine ID="line_18"
+                    TAGREFS="LT74"
+                    BASELINE="832 2069 2950 2069" 
+                    HPOS="832"
+                    VPOS="2036"
+                    WIDTH="2119"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="832 2039 2950 2036 2951 2100 833 2103"/></Shape>
+	    <String CONTENT="шины до руки гребцовой въ три фута, а длину дру-"
+                    HPOS="832"
+                    VPOS="2036"
+                    WIDTH="2119"
+                    HEIGHT="67"></String>
+          </TextLine>
+          <TextLine ID="line_19"
+                    TAGREFS="LT74"
+                    BASELINE="830 2156 2942 2156" 
+                    HPOS="830"
+                    VPOS="2123"
+                    WIDTH="2112"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="830 2126 2942 2123 2942 2187 830 2190"/></Shape>
+	    <String CONTENT="гаго конца отъ уклюшины до воды въ четыре фута,"
+                    HPOS="830"
+                    VPOS="2123"
+                    WIDTH="2112"
+                    HEIGHT="67"></String>
+          </TextLine>
+          <TextLine ID="line_20"
+                    TAGREFS="LT74"
+                    BASELINE="838 2240 2945 2240" 
+                    HPOS="838"
+                    VPOS="2207"
+                    WIDTH="2107"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="838 2208 2945 2207 2945 2272 838 2274"/></Shape>
+	    <String CONTENT="то будетъ 4:3 = 60: 45, то есть сила, которую при-"
+                    HPOS="838"
+                    VPOS="2207"
+                    WIDTH="2107"
+                    HEIGHT="67"></String>
+          </TextLine>
+          <TextLine ID="line_22"
+                    TAGREFS="LT74"
+                    BASELINE="839 2323 2949 2323" 
+                    HPOS="837"
+                    VPOS="2287"
+                    WIDTH="2112"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="839 2287 2949 2294 2947 2360 837 2352"/></Shape>
+	    <String CONTENT="чиняетъ гребецъ упоромъ въ воду; а какъ такихъ"
+                    HPOS="837"
+                    VPOS="2287"
+                    WIDTH="2112"
+                    HEIGHT="73"></String>
+          </TextLine>
+          <TextLine ID="line_24"
+                    TAGREFS="LT74"
+                    BASELINE="831 2399 2940 2399" 
+                    HPOS="829"
+                    VPOS="2366"
+                    WIDTH="2111"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="831 2366 2940 2371 2939 2433 829 2428"/></Shape>
+	    <String CONTENT="гребцовъ находится на суднѣ 10, то общая всѣхъ ихъ"
+                    HPOS="829"
+                    VPOS="2366"
+                    WIDTH="2111"
+                    HEIGHT="67"></String>
+          </TextLine>
+          <TextLine ID="line_26"
+                    TAGREFS="LT74"
+                    BASELINE="837 2481 2952 2481" 
+                    HPOS="834"
+                    VPOS="2446"
+                    WIDTH="2118"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="837 2446 2952 2456 2950 2517 834 2507"/></Shape>
+	    <String CONTENT="сила упору въ воду будетъ 450 фунтовъ. Но гребцы"
+                    HPOS="834"
+                    VPOS="2446"
+                    WIDTH="2118"
+                    HEIGHT="71"></String>
+          </TextLine>
+          <TextLine ID="line_28"
+                    TAGREFS="LT74"
+                    BASELINE="839 2566 2943 2566" 
+                    HPOS="838"
+                    VPOS="2531"
+                    WIDTH="2105"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="839 2531 2943 2537 2942 2602 838 2597"/></Shape>
+	    <String CONTENT="гребутъ прїемами съ промежуткою нѣкотораго времени,"
+                    HPOS="838"
+                    VPOS="2531"
+                    WIDTH="2105"
+                    HEIGHT="71"></String>
+          </TextLine>
+          <TextLine ID="line_30"
+                    TAGREFS="LT74"
+                    BASELINE="836 2654 2943 2654" 
+                    HPOS="835"
+                    VPOS="2619"
+                    WIDTH="2108"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="836 2619 2943 2623 2942 2690 835 2685"/></Shape>
+	    <String CONTENT="которое проходитъ безъ гребли, и можетъ быть почти"
+                    HPOS="835"
+                    VPOS="2619"
+                    WIDTH="2108"
+                    HEIGHT="71"></String>
+          </TextLine>
+          <TextLine ID="line_32"
+                    TAGREFS="LT74"
+                    BASELINE="840 2745 2941 2745" 
+                    HPOS="837"
+                    VPOS="2707"
+                    WIDTH="2104"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="840 2707 2941 2717 2938 2784 837 2774"/></Shape>
+	    <String CONTENT="вдвое больше того времени, въ которое гребля продол-"
+                    HPOS="837"
+                    VPOS="2707"
+                    WIDTH="2104"
+                    HEIGHT="77"></String>
+          </TextLine>
+          <TextLine ID="line_34"
+                    TAGREFS="LT74"
+                    BASELINE="838 2831 2939 2831" 
+                    HPOS="838"
+                    VPOS="2799"
+                    WIDTH="2101"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="838 2799 2939 2800 2939 2864 838 2862"/></Shape>
+	    <String CONTENT="жается, то по тому опредѣлить должно скорость не-"
+                    HPOS="838"
+                    VPOS="2799"
+                    WIDTH="2101"
+                    HEIGHT="65"></String>
+          </TextLine>
+          <TextLine ID="line_36"
+                    TAGREFS="LT74"
+                    BASELINE="838 2920 2933 2920" 
+                    HPOS="838"
+                    VPOS="2885"
+                    WIDTH="2096"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="838 2889 2933 2885 2934 2951 839 2955"/></Shape>
+	    <String CONTENT="прерывнаго ходу судна, не больше какъ такую, кото-"
+                    HPOS="838"
+                    VPOS="2885"
+                    WIDTH="2096"
+                    HEIGHT="70"></String>
+          </TextLine>
+          <TextLine ID="line_38"
+                    TAGREFS="LT74"
+                    BASELINE="808 3005 2942 3005" 
+                    HPOS="808"
+                    VPOS="2973"
+                    WIDTH="2134"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="808 2973 2942 2976 2942 3038 808 3035"/></Shape>
+	    <String CONTENT="рая бы могла быть отъ понужденїя силы въ одну"
+                    HPOS="808"
+                    VPOS="2973"
+                    WIDTH="2134"
+                    HEIGHT="65"></String>
+          </TextLine>
+          <TextLine ID="line_40"
+                    TAGREFS="LT74"
+                    BASELINE="838 3092 2945 3092" 
+                    HPOS="838"
+                    VPOS="3057"
+                    WIDTH="2107"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="838 3060 2945 3057 2945 3124 839 3127"/></Shape>
+	    <String CONTENT="треть отъ 450 фунтовъ, то есть отъ силы въ 150"
+                    HPOS="838"
+                    VPOS="3057"
+                    WIDTH="2107"
+                    HEIGHT="70"></String>
+          </TextLine>
+          <TextLine ID="line_42"
+                    TAGREFS="LT74"
+                    BASELINE="841 3177 1207 3177" 
+                    HPOS="841"
+                    VPOS="3146"
+                    WIDTH="366"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="841 3146 1207 3146 1207 3209 841 3209"/></Shape>
+	    <String CONTENT="фунтовъ."
+                    HPOS="841"
+                    VPOS="3146"
+                    WIDTH="366"
+                    HEIGHT="63"></String>
+          </TextLine>
+          <TextLine ID="line_44"
+                    TAGREFS="LT74"
+                    BASELINE="1726 3266 2121 3266" 
+                    HPOS="1722"
+                    VPOS="3236"
+                    WIDTH="399"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="1726 3236 2121 3240 2118 3296 1722 3292"/></Shape>
+	    <String CONTENT="Задача"
+                    HPOS="1722"
+                    VPOS="3236"
+                    WIDTH="399"
+                    HEIGHT="60"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_990c2ffd"
+                    TAGREFS="LT77"
+                    BASELINE="1004 3349 2942 3349" 
+                    HPOS="1001"
+                    VPOS="3276"
+                    WIDTH="1938"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="1001 3388 2939 3388 2939 3346 2935 3276 2634 3293 2546 3276 2539 3276 2536 3276 2529 3276 2417 3293 2256 3276 2235 3276 2231 3276 2228 3276 2224 3276 2175 3293 1996 3276 1961 3276 1958 3276 1940 3279 1856 3293 1744 3279 1716 3276 1713 3276 1709 3276 1699 3279 1646 3293 1551 3279 1523 3276 1520 3276 1516 3276 1506 3279 1460 3293 1001 3283 1001 3346"/></Shape>
+	    <String CONTENT="29. Ежели на рычагѣ А В повѣшено будетъ нѣ-"
+                    HPOS="1001"
+                    VPOS="3276"
+                    WIDTH="1938"
+                    HEIGHT="112"></String>
+          </TextLine>
+          <TextLine ID="line_48"
+                    TAGREFS="LT74"
+                    BASELINE="836 3435 2943 3435" 
+                    HPOS="835"
+                    VPOS="3398"
+                    WIDTH="2108"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="836 3398 2943 3402 2942 3472 835 3468"/></Shape>
+	    <String CONTENT="сколько тяжестей, какъ D, Е и F, то какъ сыскать на"
+                    HPOS="835"
+                    VPOS="3398"
+                    WIDTH="2108"
+                    HEIGHT="74"></String>
+          </TextLine>
+          <TextLine ID="line_50"
+                    TAGREFS="LT74"
+                    BASELINE="837 3527 2947 3527" 
+                    HPOS="837"
+                    VPOS="3489"
+                    WIDTH="2112"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="837 3497 2947 3489 2949 3557 839 3566"/></Shape>
+	    <String CONTENT="семъ рычагѣ такую точку, при коей бы употреблен-"
+                    HPOS="837"
+                    VPOS="3489"
+                    WIDTH="2112"
+                    HEIGHT="77"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_1faa2948"
+                    TAGREFS="LT72"
+                    BASELINE="2809 3636 2953 3621" 
+                    HPOS="2795.0"
+                    VPOS="3545.0"
+                    WIDTH="158.0"
+                    HEIGHT="147.0">
+            <Shape><Polygon POINTS="2809 3692 2953 3661 2949 3619 2935 3545 2795 3559 2806 3633"/></Shape>
+	    <String CONTENT="ная"
+                    HPOS="2795.0"
+                    VPOS="3545.0"
+                    WIDTH="158.0"
+                    HEIGHT="147.0"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="763.0"
+                   VPOS="454.0"
+                   WIDTH="286.0"
+                   HEIGHT="117.0"
+                   ID="eSc_textblock_3335117e"
+                   TAGREFS="BT134">
+          <Shape><Polygon POINTS="763 454 763 571 1049 571 1049 454"/></Shape>
+          <TextLine ID="eSc_line_32f6ff20"
+                    TAGREFS="LT74"
+                    BASELINE="843 534 1017 534" 
+                    HPOS="840"
+                    VPOS="406"
+                    WIDTH="175"
+                    HEIGHT="150">
+            <Shape><Polygon POINTS="840 532 840 556 1015 553 1015 532 1015 413 840 406 840 532"/></Shape>
+	    <String CONTENT="194"
+                    HPOS="840"
+                    VPOS="406"
+                    WIDTH="175"
+                    HEIGHT="150"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="569"
+                   VPOS="3306"
+                   WIDTH="341"
+                   HEIGHT="89"
+                   ID="eSc_textblock_c9f6bc08"
+                   TAGREFS="BT137">
+          <Shape><Polygon POINTS="573 3310 569 3395 910 3389 908 3306"/></Shape>
+          <TextLine ID="line_46"
+                    TAGREFS="LT74"
+                    BASELINE="591 3349 884 3349" 
+                    HPOS="588"
+                    VPOS="3293"
+                    WIDTH="294"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="588 3346 588 3409 882 3384 882 3346 879 3293 588 3297 588 3346"/></Shape>
+	    <String CONTENT="Фиг. 20."
+                    HPOS="588"
+                    VPOS="3293"
+                    WIDTH="294"
+                    HEIGHT="116"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1746.0"
+                   VPOS="435.0"
+                   WIDTH="300.0"
+                   HEIGHT="131.0"
+                   ID="eSc_textblock_b0d40ce6"
+                   TAGREFS="BT135">
+          <Shape><Polygon POINTS="1746 435 1746 566 2046 566 2046 435"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

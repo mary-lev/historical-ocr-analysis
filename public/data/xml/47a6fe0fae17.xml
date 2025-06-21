@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>47a6fe0fae17.jpeg</fileName>
+      <fileIdentifier>mets//mets.zip/47a6fe0fae17.jpeg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT134" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT137" LABEL="MarginTextZone:outer" DESCRIPTION="block type MarginTextZone:outer"/><OtherTag ID="BT135" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT138" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT2" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT136" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT50" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/>
+    <OtherTag ID="LT85" LABEL="CustomLine:divider" DESCRIPTION="line type CustomLine:divider"/><OtherTag ID="LT86" LABEL="CustomLine:onstage" DESCRIPTION="line type CustomLine:onstage"/><OtherTag ID="LT74" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT83" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT77" LABEL="CustomLine:paragraph_start" DESCRIPTION="line type CustomLine:paragraph_start"/><OtherTag ID="LT73" LABEL="CustomLine:signature" DESCRIPTION="line type CustomLine:signature"/><OtherTag ID="LT72" LABEL="CustomLine:catchword" DESCRIPTION="line type CustomLine:catchword"/><OtherTag ID="LT79" LABEL="CustomLine:verse" DESCRIPTION="line type CustomLine:verse"/><OtherTag ID="LT82" LABEL="CustomLine:speaker" DESCRIPTION="line type CustomLine:speaker"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="1700"
+          HEIGHT="2600"
+          PHYSICAL_IMG_NR="5"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1700"
+                  HEIGHT="2600">
+        <TextBlock HPOS="371.0"
+                   VPOS="156.0"
+                   WIDTH="169.0"
+                   HEIGHT="98.0"
+                   ID="block_2"
+                   TAGREFS="BT134">
+          <Shape><Polygon POINTS="371 156 540 156 540 254 371 254"/></Shape>
+          <TextLine ID="line_31"
+                    TAGREFS="LT74"
+                    BASELINE="393 221 495 223" 
+                    HPOS="392"
+                    VPOS="160"
+                    WIDTH="102"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="392 236 492 249 494 221 492 160 392 164 392 221"/></Shape>
+	    <String CONTENT="122"
+                    HPOS="392"
+                    VPOS="160"
+                    WIDTH="102"
+                    HEIGHT="89"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="331"
+                   VPOS="273"
+                   WIDTH="1310"
+                   HEIGHT="2149"
+                   ID="block_0"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="335 273 1634 273 1641 2422 331 2411"/></Shape>
+          <TextLine ID="line_0"
+                    TAGREFS="LT77"
+                    BASELINE="500 393 1614 393" 
+                    HPOS="500"
+                    VPOS="263"
+                    WIDTH="1114"
+                    HEIGHT="130">
+            <Shape><Polygon POINTS="500 263 1614 263 1614 393 500 393"/></Shape>
+	    <String CONTENT="Вопр. Что Турнъ дѣлалъ противъ"
+                    HPOS="500"
+                    VPOS="263"
+                    WIDTH="1114"
+                    HEIGHT="130"></String>
+          </TextLine>
+          <TextLine ID="line_1"
+                    TAGREFS="LT74"
+                    BASELINE="373 454 576 454" 
+                    HPOS="373"
+                    VPOS="356"
+                    WIDTH="203"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="373 356 576 356 576 454 373 454"/></Shape>
+	    <String CONTENT="Енея?"
+                    HPOS="373"
+                    VPOS="356"
+                    WIDTH="203"
+                    HEIGHT="98"></String>
+          </TextLine>
+          <TextLine ID="line_2"
+                    TAGREFS="LT77"
+                    BASELINE="504 523 1607 523" 
+                    HPOS="504"
+                    VPOS="417"
+                    WIDTH="1103"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="504 417 1607 417 1607 523 504 523"/></Shape>
+	    <String CONTENT="Отв. Хотѣлъ сожечь корабли его:"
+                    HPOS="504"
+                    VPOS="417"
+                    WIDTH="1103"
+                    HEIGHT="106"></String>
+          </TextLine>
+          <TextLine ID="line_3"
+                    TAGREFS="LT74"
+                    BASELINE="378 594 1607 594" 
+                    HPOS="378"
+                    VPOS="496"
+                    WIDTH="1229"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="378 496 1607 496 1607 594 378 594"/></Shape>
+	    <String CONTENT="однако Сивилла превратила ихъ въ Нимфъ."
+                    HPOS="378"
+                    VPOS="496"
+                    WIDTH="1229"
+                    HEIGHT="98"></String>
+          </TextLine>
+          <TextLine ID="line_4"
+                    TAGREFS="LT77"
+                    BASELINE="498 659 1607 659" 
+                    HPOS="498"
+                    VPOS="565"
+                    WIDTH="1109"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="498 565 1607 565 1607 659 498 659"/></Shape>
+	    <String CONTENT="Вопр. Какїя были успѣхи войны сея?"
+                    HPOS="498"
+                    VPOS="565"
+                    WIDTH="1109"
+                    HEIGHT="94"></String>
+          </TextLine>
+          <TextLine ID="line_5"
+                    TAGREFS="LT77"
+                    BASELINE="500 726 1610 726" 
+                    HPOS="500"
+                    VPOS="630"
+                    WIDTH="1110"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="500 630 1610 630 1610 726 500 726"/></Shape>
+	    <String CONTENT="Отв. Еней побѣдилъ Турна, и сожегъ"
+                    HPOS="500"
+                    VPOS="630"
+                    WIDTH="1110"
+                    HEIGHT="96"></String>
+          </TextLine>
+          <TextLine ID="line_6"
+                    TAGREFS="LT74"
+                    BASELINE="374 797 1614 797" 
+                    HPOS="374"
+                    VPOS="697"
+                    WIDTH="1240"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="374 697 1614 697 1614 797 374 797"/></Shape>
+	    <String CONTENT="его столичный городъ Ардею, изъ коего"
+                    HPOS="374"
+                    VPOS="697"
+                    WIDTH="1240"
+                    HEIGHT="100"></String>
+          </TextLine>
+          <TextLine ID="line_7"
+                    TAGREFS="LT74"
+                    BASELINE="372 863 1084 863" 
+                    HPOS="372"
+                    VPOS="770"
+                    WIDTH="712"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="372 770 1084 770 1084 863 372 863"/></Shape>
+	    <String CONTENT="пепла родились птицы."
+                    HPOS="372"
+                    VPOS="770"
+                    WIDTH="712"
+                    HEIGHT="93"></String>
+          </TextLine>
+          <TextLine ID="line_8"
+                    TAGREFS="LT77"
+                    BASELINE="498 941 1599 941" 
+                    HPOS="498"
+                    VPOS="818"
+                    WIDTH="1101"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="498 818 1599 818 1599 941 498 941"/></Shape>
+	    <String CONTENT="Вопр. Чтожъ послѣдовало съ Енеемъ,"
+                    HPOS="498"
+                    VPOS="818"
+                    WIDTH="1101"
+                    HEIGHT="123"></String>
+          </TextLine>
+          <TextLine ID="line_9"
+                    TAGREFS="LT74"
+                    BASELINE="369 1001 1419 1001" 
+                    HPOS="369"
+                    VPOS="892"
+                    WIDTH="1050"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="369 892 1419 892 1419 1001 369 1001"/></Shape>
+	    <String CONTENT="по трилѣтнемъ его царствованїи ?"
+                    HPOS="369"
+                    VPOS="892"
+                    WIDTH="1050"
+                    HEIGHT="109"></String>
+          </TextLine>
+          <TextLine ID="line_10"
+                    TAGREFS="LT77"
+                    BASELINE="501 1071 1601 1071" 
+                    HPOS="501"
+                    VPOS="972"
+                    WIDTH="1100"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="501 972 1601 972 1601 1071 501 1071"/></Shape>
+	    <String CONTENT="Отв. Юпитеръ по прошенїю Вене-"
+                    HPOS="501"
+                    VPOS="972"
+                    WIDTH="1100"
+                    HEIGHT="99"></String>
+          </TextLine>
+          <TextLine ID="line_11"
+                    TAGREFS="LT74"
+                    BASELINE="368 1138 1188 1138" 
+                    HPOS="368"
+                    VPOS="1040"
+                    WIDTH="820"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="368 1040 1188 1040 1188 1138 368 1138"/></Shape>
+	    <String CONTENT="ры причислилъ его въ боги."
+                    HPOS="368"
+                    VPOS="1040"
+                    WIDTH="820"
+                    HEIGHT="98"></String>
+          </TextLine>
+          <TextLine ID="line_12"
+                    TAGREFS="LT77"
+                    BASELINE="500 1200 1471 1200" 
+                    HPOS="500"
+                    VPOS="1099"
+                    WIDTH="971"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="500 1099 1471 1099 1471 1200 500 1200"/></Shape>
+	    <String CONTENT="Вопр. Кто наслѣдовалъ Енею?"
+                    HPOS="500"
+                    VPOS="1099"
+                    WIDTH="971"
+                    HEIGHT="101"></String>
+          </TextLine>
+          <TextLine ID="line_13"
+                    TAGREFS="LT77"
+                    BASELINE="497 1270 1269 1270" 
+                    HPOS="497"
+                    VPOS="1175"
+                    WIDTH="772"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="497 1175 1269 1175 1269 1270 497 1270"/></Shape>
+	    <String CONTENT="Отв. Сынъ его Асканїй."
+                    HPOS="497"
+                    VPOS="1175"
+                    WIDTH="772"
+                    HEIGHT="95"></String>
+          </TextLine>
+          <TextLine ID="line_14"
+                    TAGREFS="LT77"
+                    BASELINE="508 1343 1605 1343" 
+                    HPOS="508"
+                    VPOS="1245"
+                    WIDTH="1097"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="508 1245 1605 1245 1605 1343 508 1343"/></Shape>
+	    <String CONTENT="Вопр. Что случилось въ царствова-"
+                    HPOS="508"
+                    VPOS="1245"
+                    WIDTH="1097"
+                    HEIGHT="98"></String>
+          </TextLine>
+          <TextLine ID="line_15"
+                    TAGREFS="LT74"
+                    BASELINE="365 1404 1234 1404" 
+                    HPOS="365"
+                    VPOS="1308"
+                    WIDTH="869"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="365 1308 1234 1308 1234 1404 365 1404"/></Shape>
+	    <String CONTENT="нїе потомковъ Асканїевыхъ?"
+                    HPOS="365"
+                    VPOS="1308"
+                    WIDTH="869"
+                    HEIGHT="96"></String>
+          </TextLine>
+          <TextLine ID="line_16"
+                    TAGREFS="LT77"
+                    BASELINE="498 1483 1602 1483" 
+                    HPOS="498"
+                    VPOS="1377"
+                    WIDTH="1104"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="498 1377 1602 1377 1602 1483 498 1483"/></Shape>
+	    <String CONTENT="Отв. Вертюмнъ плѣнился Помоною"
+                    HPOS="498"
+                    VPOS="1377"
+                    WIDTH="1104"
+                    HEIGHT="106"></String>
+          </TextLine>
+          <TextLine ID="line_17"
+                    TAGREFS="LT74"
+                    BASELINE="368 1544 734 1544" 
+                    HPOS="368"
+                    VPOS="1432"
+                    WIDTH="366"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="368 1432 734 1432 734 1544 368 1544"/></Shape>
+	    <String CONTENT="Амадрїадою."
+                    HPOS="368"
+                    VPOS="1432"
+                    WIDTH="366"
+                    HEIGHT="112"></String>
+          </TextLine>
+          <TextLine ID="line_18"
+                    TAGREFS="LT77"
+                    BASELINE="494 1612 1604 1612" 
+                    HPOS="494"
+                    VPOS="1502"
+                    WIDTH="1110"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="494 1502 1604 1502 1604 1612 494 1612"/></Shape>
+	    <String CONTENT="Вопр. Какое превращенїе разсказы-"
+                    HPOS="494"
+                    VPOS="1502"
+                    WIDTH="1110"
+                    HEIGHT="110"></String>
+          </TextLine>
+          <TextLine ID="line_19"
+                    TAGREFS="LT74"
+                    BASELINE="367 1678 1149 1678" 
+                    HPOS="367"
+                    VPOS="1584"
+                    WIDTH="782"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="367 1584 1149 1584 1149 1678 367 1678"/></Shape>
+	    <String CONTENT="валъ Вертюмнъ Помонѣ?"
+                    HPOS="367"
+                    VPOS="1584"
+                    WIDTH="782"
+                    HEIGHT="94"></String>
+          </TextLine>
+          <TextLine ID="line_20"
+                    TAGREFS="LT77"
+                    BASELINE="494 1755 1605 1755" 
+                    HPOS="494"
+                    VPOS="1648"
+                    WIDTH="1111"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="494 1648 1605 1648 1605 1755 494 1755"/></Shape>
+	    <String CONTENT="Отв. О Анаксеретѣ, превращенной"
+                    HPOS="494"
+                    VPOS="1648"
+                    WIDTH="1111"
+                    HEIGHT="107"></String>
+          </TextLine>
+          <TextLine ID="line_21"
+                    TAGREFS="LT74"
+                    BASELINE="368 1810 692 1810" 
+                    HPOS="368"
+                    VPOS="1725"
+                    WIDTH="324"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="368 1725 692 1725 692 1810 368 1810"/></Shape>
+	    <String CONTENT="въ камень."
+                    HPOS="368"
+                    VPOS="1725"
+                    WIDTH="324"
+                    HEIGHT="85"></String>
+          </TextLine>
+          <TextLine ID="line_22"
+                    TAGREFS="LT77"
+                    BASELINE="494 1882 1601 1882" 
+                    HPOS="494"
+                    VPOS="1778"
+                    WIDTH="1107"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="494 1778 1601 1778 1601 1882 494 1882"/></Shape>
+	    <String CONTENT="Вопр. Кто изъ потомковъ Асканїе-"
+                    HPOS="494"
+                    VPOS="1778"
+                    WIDTH="1107"
+                    HEIGHT="104"></String>
+          </TextLine>
+          <TextLine ID="line_23"
+                    TAGREFS="LT74"
+                    BASELINE="374 1954 1284 1954" 
+                    HPOS="374"
+                    VPOS="1852"
+                    WIDTH="910"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="374 1852 1284 1852 1284 1954 374 1954"/></Shape>
+	    <String CONTENT="выхъ построилъ городъ Римъ?"
+                    HPOS="374"
+                    VPOS="1852"
+                    WIDTH="910"
+                    HEIGHT="102"></String>
+          </TextLine>
+          <TextLine ID="line_24"
+                    TAGREFS="LT77"
+                    BASELINE="496 2022 963 2022" 
+                    HPOS="496"
+                    VPOS="1926"
+                    WIDTH="467"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="496 1926 963 1926 963 2022 496 2022"/></Shape>
+	    <String CONTENT="Отв. Ромулъ."
+                    HPOS="496"
+                    VPOS="1926"
+                    WIDTH="467"
+                    HEIGHT="96"></String>
+          </TextLine>
+          <TextLine ID="line_25"
+                    TAGREFS="LT77"
+                    BASELINE="500 2089 1588 2089" 
+                    HPOS="500"
+                    VPOS="1991"
+                    WIDTH="1088"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="500 1991 1588 1991 1588 2089 500 2089"/></Shape>
+	    <String CONTENT="Вопр. Что приключалось тогда,"
+                    HPOS="500"
+                    VPOS="1991"
+                    WIDTH="1088"
+                    HEIGHT="98"></String>
+          </TextLine>
+          <TextLine ID="line_26"
+                    TAGREFS="LT74"
+                    BASELINE="375 2159 1594 2159" 
+                    HPOS="375"
+                    VPOS="2060"
+                    WIDTH="1219"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="375 2060 1594 2060 1594 2159 375 2159"/></Shape>
+	    <String CONTENT="какъ Тарпея отворила ворота замка Са-"
+                    HPOS="375"
+                    VPOS="2060"
+                    WIDTH="1219"
+                    HEIGHT="99"></String>
+          </TextLine>
+          <TextLine ID="line_27"
+                    TAGREFS="LT74"
+                    BASELINE="377 2242 715 2242" 
+                    HPOS="377"
+                    VPOS="2135"
+                    WIDTH="338"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="377 2135 715 2135 715 2242 377 2242"/></Shape>
+	    <String CONTENT="бинянамъ?"
+                    HPOS="377"
+                    VPOS="2135"
+                    WIDTH="338"
+                    HEIGHT="107"></String>
+          </TextLine>
+          <TextLine ID="line_28"
+                    TAGREFS="LT72"
+                    BASELINE="1428 2360 1596 2360" 
+                    HPOS="1428"
+                    VPOS="2199"
+                    WIDTH="168"
+                    HEIGHT="161">
+            <Shape><Polygon POINTS="1428 2199 1596 2199 1596 2360 1428 2360"/></Shape>
+	    <String CONTENT="Отв."
+                    HPOS="1428"
+                    VPOS="2199"
+                    WIDTH="168"
+                    HEIGHT="161"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="755.0"
+                   VPOS="154.0"
+                   WIDTH="510.0"
+                   HEIGHT="103.0"
+                   ID="block_1"
+                   TAGREFS="BT138">
+          <Shape><Polygon POINTS="755 154 1265 154 1265 257 755 257"/></Shape>
+          <TextLine ID="line_30"
+                    TAGREFS="LT74"
+                    BASELINE="802 224 1228 227" 
+                    HPOS="797"
+                    VPOS="158"
+                    WIDTH="430"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="797 251 906 242 986 242 999 253 1001 255 1003 255 1006 255 1008 255 1036 251 1103 242 1222 249 1227 225 1225 164 800 158 800 223"/></Shape>
+	    <String CONTENT="КРАТКАЯ"
+                    HPOS="797"
+                    VPOS="158"
+                    WIDTH="430"
+                    HEIGHT="97"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

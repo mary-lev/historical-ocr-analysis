@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles for historical text analysis */
+.char-correct { @apply bg-green-100 text-green-800; }
+.char-error { @apply bg-red-100 text-red-800; }
+.char-historical { @apply bg-blue-100 text-blue-800 font-semibold; }
+.char-modernized { @apply bg-yellow-100 text-yellow-800; }
+.char-over-historical { @apply bg-purple-100 text-purple-800; }
+
+.text-overlay {
+  position: absolute;
+  border: 2px solid rgba(255, 0, 0, 0.6);
+  background: rgba(255, 0, 0, 0.1);
+  pointer-events: none;
+}
+
+/* Smooth transitions for interactive elements */
+.transition-colors {
+  transition-property: color, background-color, border-color;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+}
+
+/* Custom scrollbar for better UX */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 8px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  @apply bg-gray-100 rounded;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  @apply bg-gray-300 rounded hover:bg-gray-400;
+}
+
+/* Historical character highlighting */
+.historical-char {
+  @apply relative;
+}
+
+.historical-char::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background: linear-gradient(90deg, #3b82f6, #1d4ed8);
+  border-radius: 1px;
+}

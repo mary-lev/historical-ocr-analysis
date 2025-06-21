@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>359508f50e6f.jpeg</fileName>
+      <fileIdentifier>mets//mets.zip/359508f50e6f.jpeg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT134" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT137" LABEL="MarginTextZone:outer" DESCRIPTION="block type MarginTextZone:outer"/><OtherTag ID="BT135" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT138" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT2" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT136" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT50" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/>
+    <OtherTag ID="LT85" LABEL="CustomLine:divider" DESCRIPTION="line type CustomLine:divider"/><OtherTag ID="LT86" LABEL="CustomLine:onstage" DESCRIPTION="line type CustomLine:onstage"/><OtherTag ID="LT74" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT83" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT77" LABEL="CustomLine:paragraph_start" DESCRIPTION="line type CustomLine:paragraph_start"/><OtherTag ID="LT73" LABEL="CustomLine:signature" DESCRIPTION="line type CustomLine:signature"/><OtherTag ID="LT72" LABEL="CustomLine:catchword" DESCRIPTION="line type CustomLine:catchword"/><OtherTag ID="LT79" LABEL="CustomLine:verse" DESCRIPTION="line type CustomLine:verse"/><OtherTag ID="LT82" LABEL="CustomLine:speaker" DESCRIPTION="line type CustomLine:speaker"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="1750"
+          HEIGHT="2950"
+          PHYSICAL_IMG_NR="81"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1750"
+                  HEIGHT="2950">
+        <TextBlock HPOS="67.0"
+                   VPOS="252.0"
+                   WIDTH="1609.0"
+                   HEIGHT="2614.0"
+                   ID="eSc_textblock_37ce7d2a"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="67 252 67 2866 1676 2866 1676 252"/></Shape>
+          <TextLine ID="line_0"
+                    TAGREFS="LT74"
+                    BASELINE="160 277 1626 277" 
+                    HPOS="160"
+                    VPOS="252"
+                    WIDTH="1466"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="160 252 1626 252 1626 303 160 303"/></Shape>
+	    <String CONTENT="проповѣдали о Хрїстѣ: съ тѣмъ единымъ раз-"
+                    HPOS="160"
+                    VPOS="252"
+                    WIDTH="1466"
+                    HEIGHT="51"></String>
+          </TextLine>
+          <TextLine ID="line_1"
+                    TAGREFS="LT74"
+                    BASELINE="161 354 1624 354" 
+                    HPOS="161"
+                    VPOS="328"
+                    WIDTH="1463"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="161 332 1624 328 1624 377 161 380"/></Shape>
+	    <String CONTENT="личїемъ, что въ ветхомъ завѣтъ подъ сѣнїю"
+                    HPOS="161"
+                    VPOS="328"
+                    WIDTH="1463"
+                    HEIGHT="52"></String>
+          </TextLine>
+          <TextLine ID="line_2"
+                    TAGREFS="LT74"
+                    BASELINE="158 431 1623 431" 
+                    HPOS="158"
+                    VPOS="405"
+                    WIDTH="1465"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="158 408 1623 405 1623 455 159 458"/></Shape>
+	    <String CONTENT="мракомъ и гаданїями проповѣдуемъ былъ Хрї-"
+                    HPOS="158"
+                    VPOS="405"
+                    WIDTH="1465"
+                    HEIGHT="53"></String>
+          </TextLine>
+          <TextLine ID="line_3"
+                    TAGREFS="LT74"
+                    BASELINE="140 506 1623 506" 
+                    HPOS="140"
+                    VPOS="482"
+                    WIDTH="1483"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="140 482 1623 482 1623 531 140 531"/></Shape>
+	    <String CONTENT="стосъ, а въ новомъ завѣтѣ ясно. Ветхїй"
+                    HPOS="140"
+                    VPOS="482"
+                    WIDTH="1483"
+                    HEIGHT="49"></String>
+          </TextLine>
+          <TextLine ID="line_4"
+                    TAGREFS="LT74"
+                    BASELINE="163 582 1623 582" 
+                    HPOS="163"
+                    VPOS="554"
+                    WIDTH="1460"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="163 554 1623 558 1623 610 163 606"/></Shape>
+	    <String CONTENT="завѣтъ какъ тѣнь и начертанїе изображалъ"
+                    HPOS="163"
+                    VPOS="554"
+                    WIDTH="1460"
+                    HEIGHT="56"></String>
+          </TextLine>
+          <TextLine ID="line_5"
+                    TAGREFS="LT74"
+                    BASELINE="160 660 1624 660" 
+                    HPOS="160"
+                    VPOS="635"
+                    WIDTH="1464"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="160 635 1624 635 1624 686 160 686"/></Shape>
+	    <String CONTENT="Хрїста, а новый завѣтъ какъ образъ живый"
+                    HPOS="160"
+                    VPOS="635"
+                    WIDTH="1464"
+                    HEIGHT="51"></String>
+          </TextLine>
+          <TextLine ID="line_6"
+                    TAGREFS="LT74"
+                    BASELINE="159 736 1625 736" 
+                    HPOS="159"
+                    VPOS="707"
+                    WIDTH="1467"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="159 716 1625 707 1626 757 160 766"/></Shape>
+	    <String CONTENT="изобразуетъ его, и показуетъ ясно. И отъ сего"
+                    HPOS="159"
+                    VPOS="707"
+                    WIDTH="1467"
+                    HEIGHT="59"></String>
+          </TextLine>
+          <TextLine ID="line_7"
+                    TAGREFS="LT74"
+                    BASELINE="160 811 1632 811" 
+                    HPOS="160"
+                    VPOS="782"
+                    WIDTH="1473"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="160 789 1632 782 1633 833 160 840"/></Shape>
+	    <String CONTENT="согласїя Пророковъ и Апостоловъ познается"
+                    HPOS="160"
+                    VPOS="782"
+                    WIDTH="1473"
+                    HEIGHT="58"></String>
+          </TextLine>
+          <TextLine ID="line_8"
+                    TAGREFS="LT74"
+                    BASELINE="158 886 1633 886" 
+                    HPOS="158"
+                    VPOS="857"
+                    WIDTH="1475"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="158 864 1633 857 1633 909 159 917"/></Shape>
+	    <String CONTENT="истинна ученїя ихъ Святаго и непоколебимое"
+                    HPOS="158"
+                    VPOS="857"
+                    WIDTH="1475"
+                    HEIGHT="60"></String>
+          </TextLine>
+          <TextLine ID="line_9"
+                    TAGREFS="LT74"
+                    BASELINE="157 964 1627 964" 
+                    HPOS="157"
+                    VPOS="936"
+                    WIDTH="1470"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="157 940 1627 936 1627 988 157 992"/></Shape>
+	    <String CONTENT="извѣстїе и твердость, и что единъ и той-"
+                    HPOS="157"
+                    VPOS="936"
+                    WIDTH="1470"
+                    HEIGHT="56"></String>
+          </TextLine>
+          <TextLine ID="line_10"
+                    TAGREFS="LT74"
+                    BASELINE="158 1039 1628 1039" 
+                    HPOS="158"
+                    VPOS="1013"
+                    WIDTH="1470"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="158 1014 1628 1013 1628 1065 158 1067"/></Shape>
+	    <String CONTENT="жде Духъ Божїй, Духъ истинны, какъ оными,"
+                    HPOS="158"
+                    VPOS="1013"
+                    WIDTH="1470"
+                    HEIGHT="54"></String>
+          </TextLine>
+          <TextLine ID="line_11"
+                    TAGREFS="LT74"
+                    BASELINE="158 1114 1627 1114" 
+                    HPOS="158"
+                    VPOS="1089"
+                    WIDTH="1469"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="158 1090 1627 1089 1627 1139 158 1141"/></Shape>
+	    <String CONTENT="такъ и сими, яко органами своими глаголалъ."
+                    HPOS="158"
+                    VPOS="1089"
+                    WIDTH="1469"
+                    HEIGHT="52"></String>
+          </TextLine>
+          <TextLine ID="line_12"
+                    TAGREFS="LT77"
+                    BASELINE="236 1192 1630 1192" 
+                    HPOS="236"
+                    VPOS="1164"
+                    WIDTH="1394"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="236 1164 1630 1164 1630 1221 236 1221"/></Shape>
+	    <String CONTENT="Четвертое: Что Пророки Святїи пред-"
+                    HPOS="236"
+                    VPOS="1164"
+                    WIDTH="1394"
+                    HEIGHT="57"></String>
+          </TextLine>
+          <TextLine ID="line_13"
+                    TAGREFS="LT74"
+                    BASELINE="119 1269 1637 1269" 
+                    HPOS="119"
+                    VPOS="1240"
+                    WIDTH="1518"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="119 1243 1637 1240 1637 1295 119 1297"/></Shape>
+	    <String CONTENT="возвѣстили, тое все исполнилося, чему на-"
+                    HPOS="119"
+                    VPOS="1240"
+                    WIDTH="1518"
+                    HEIGHT="57"></String>
+          </TextLine>
+          <TextLine ID="line_14"
+                    TAGREFS="LT74"
+                    BASELINE="160 1344 1636 1344" 
+                    HPOS="160"
+                    VPOS="1315"
+                    WIDTH="1476"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="160 1315 1636 1318 1636 1373 160 1370"/></Shape>
+	    <String CONTENT="добно въ нынѣшнемъ вѣкѣ исполнитися. Та-"
+                    HPOS="160"
+                    VPOS="1315"
+                    WIDTH="1476"
+                    HEIGHT="58"></String>
+          </TextLine>
+          <TextLine ID="line_15"
+                    TAGREFS="LT74"
+                    BASELINE="157 1423 1630 1423" 
+                    HPOS="157"
+                    VPOS="1396"
+                    WIDTH="1473"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="157 1398 1630 1396 1630 1448 157 1450"/></Shape>
+	    <String CONTENT="кожде, что Хрїстосъ и Апостоли предсказали,"
+                    HPOS="157"
+                    VPOS="1396"
+                    WIDTH="1473"
+                    HEIGHT="54"></String>
+          </TextLine>
+          <TextLine ID="line_16"
+                    TAGREFS="LT74"
+                    BASELINE="158 1499 1627 1499" 
+                    HPOS="158"
+                    VPOS="1469"
+                    WIDTH="1469"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="158 1474 1627 1469 1627 1524 159 1529"/></Shape>
+	    <String CONTENT="тое исполнилося и исполняется, кромѣ того,"
+                    HPOS="158"
+                    VPOS="1469"
+                    WIDTH="1469"
+                    HEIGHT="60"></String>
+          </TextLine>
+          <TextLine ID="line_17"
+                    TAGREFS="LT74"
+                    BASELINE="160 1574 1624 1574" 
+                    HPOS="160"
+                    VPOS="1546"
+                    WIDTH="1464"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="160 1550 1624 1546 1624 1598 160 1602"/></Shape>
+	    <String CONTENT="что въ послѣднїй день и въ будущемъ вѣкѣ"
+                    HPOS="160"
+                    VPOS="1546"
+                    WIDTH="1464"
+                    HEIGHT="56"></String>
+          </TextLine>
+          <TextLine ID="line_18"
+                    TAGREFS="LT74"
+                    BASELINE="157 1649 1628 1649" 
+                    HPOS="157"
+                    VPOS="1620"
+                    WIDTH="1472"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="157 1623 1628 1620 1629 1676 157 1678"/></Shape>
+	    <String CONTENT="исполнится. Предсказано было, что благоче-"
+                    HPOS="157"
+                    VPOS="1620"
+                    WIDTH="1472"
+                    HEIGHT="58"></String>
+          </TextLine>
+          <TextLine ID="line_19"
+                    TAGREFS="LT74"
+                    BASELINE="160 1725 1634 1725" 
+                    HPOS="160"
+                    VPOS="1696"
+                    WIDTH="1474"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="160 1699 1634 1696 1634 1752 160 1754"/></Shape>
+	    <String CONTENT="стивїи гоними будутъ, то и дѣлается: стра-"
+                    HPOS="160"
+                    VPOS="1696"
+                    WIDTH="1474"
+                    HEIGHT="58"></String>
+          </TextLine>
+          <TextLine ID="line_20"
+                    TAGREFS="LT74"
+                    BASELINE="164 1804 1627 1804" 
+                    HPOS="164"
+                    VPOS="1775"
+                    WIDTH="1463"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="164 1778 1627 1775 1627 1830 164 1833"/></Shape>
+	    <String CONTENT="дали, и страждутъ, и страдать будутъ до"
+                    HPOS="164"
+                    VPOS="1775"
+                    WIDTH="1463"
+                    HEIGHT="58"></String>
+          </TextLine>
+          <TextLine ID="line_21"
+                    TAGREFS="LT74"
+                    BASELINE="157 1880 1628 1880" 
+                    HPOS="157"
+                    VPOS="1850"
+                    WIDTH="1472"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="157 1855 1628 1850 1629 1905 157 1911"/></Shape>
+	    <String CONTENT="конца вѣка сего вѣрнїи уды Хрїстовы. Ясно"
+                    HPOS="157"
+                    VPOS="1850"
+                    WIDTH="1472"
+                    HEIGHT="61"></String>
+          </TextLine>
+          <TextLine ID="line_22"
+                    TAGREFS="LT74"
+                    BASELINE="144 1958 1628 1958" 
+                    HPOS="144"
+                    VPOS="1927"
+                    WIDTH="1485"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="144 1935 1628 1927 1629 1981 144 1988"/></Shape>
+	    <String CONTENT="сїе видимъ въ церковной исторїи прешед-"
+                    HPOS="144"
+                    VPOS="1927"
+                    WIDTH="1485"
+                    HEIGHT="61"></String>
+          </TextLine>
+          <TextLine ID="line_23"
+                    TAGREFS="LT74"
+                    BASELINE="151 2034 1631 2034" 
+                    HPOS="151"
+                    VPOS="2005"
+                    WIDTH="1481"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="151 2010 1631 2005 1632 2058 151 2063"/></Shape>
+	    <String CONTENT="шихъ вѣковъ, и нынѣ тое видимъ, и впредь"
+                    HPOS="151"
+                    VPOS="2005"
+                    WIDTH="1481"
+                    HEIGHT="58"></String>
+          </TextLine>
+          <TextLine ID="line_24"
+                    TAGREFS="LT74"
+                    BASELINE="157 2109 1630 2109" 
+                    HPOS="157"
+                    VPOS="2078"
+                    WIDTH="1473"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="157 2084 1630 2078 1630 2134 157 2139"/></Shape>
+	    <String CONTENT="тое имѣетъ быть. Нѣтъ достовѣрнѣйшаго"
+                    HPOS="157"
+                    VPOS="2078"
+                    WIDTH="1473"
+                    HEIGHT="61"></String>
+          </TextLine>
+          <TextLine ID="line_25"
+                    TAGREFS="LT74"
+                    BASELINE="164 2186 1630 2186" 
+                    HPOS="164"
+                    VPOS="2155"
+                    WIDTH="1466"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="164 2162 1630 2155 1630 2210 164 2217"/></Shape>
+	    <String CONTENT="доказательства, какъ сбытїе. Истинна уче-"
+                    HPOS="164"
+                    VPOS="2155"
+                    WIDTH="1466"
+                    HEIGHT="62"></String>
+          </TextLine>
+          <TextLine ID="line_26"
+                    TAGREFS="LT74"
+                    BASELINE="160 2263 1633 2263" 
+                    HPOS="160"
+                    VPOS="2232"
+                    WIDTH="1473"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="160 2238 1633 2232 1633 2288 160 2294"/></Shape>
+	    <String CONTENT="нїя, слова, и пророчества совершенно по-"
+                    HPOS="160"
+                    VPOS="2232"
+                    WIDTH="1473"
+                    HEIGHT="62"></String>
+          </TextLine>
+          <TextLine ID="line_27"
+                    TAGREFS="LT74"
+                    BASELINE="163 2340 1639 2340" 
+                    HPOS="163"
+                    VPOS="2312"
+                    WIDTH="1476"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="163 2314 1639 2312 1639 2366 163 2368"/></Shape>
+	    <String CONTENT="знается отъ исполненїя: тогда не токмо ви-"
+                    HPOS="163"
+                    VPOS="2312"
+                    WIDTH="1476"
+                    HEIGHT="56"></String>
+          </TextLine>
+          <TextLine ID="line_28"
+                    TAGREFS="LT74"
+                    BASELINE="167 2414 1631 2414" 
+                    HPOS="167"
+                    VPOS="2381"
+                    WIDTH="1465"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="167 2387 1631 2381 1632 2442 167 2447"/></Shape>
+	    <String CONTENT="димъ, но и осязаемъ истинну. Истинна убо"
+                    HPOS="167"
+                    VPOS="2381"
+                    WIDTH="1465"
+                    HEIGHT="66"></String>
+          </TextLine>
+          <TextLine ID="line_29"
+                    TAGREFS="LT74"
+                    BASELINE="166 2492 1631 2492" 
+                    HPOS="166"
+                    VPOS="2464"
+                    WIDTH="1465"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="166 2466 1631 2464 1631 2519 166 2521"/></Shape>
+	    <String CONTENT="Пророческаго и Апостольскаго ученїя яко сбы-"
+                    HPOS="166"
+                    VPOS="2464"
+                    WIDTH="1465"
+                    HEIGHT="57"></String>
+          </TextLine>
+          <TextLine ID="line_30"
+                    TAGREFS="LT74"
+                    BASELINE="161 2570 1633 2570" 
+                    HPOS="161"
+                    VPOS="2544"
+                    WIDTH="1472"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="161 2544 1633 2544 1633 2597 161 2597"/></Shape>
+	    <String CONTENT="тїемъ доказуема пребываетъ во вѣкъ. И по"
+                    HPOS="161"
+                    VPOS="2544"
+                    WIDTH="1472"
+                    HEIGHT="53"></String>
+          </TextLine>
+          <TextLine ID="line_31"
+                    TAGREFS="LT74"
+                    BASELINE="164 2646 1634 2646" 
+                    HPOS="164"
+                    VPOS="2616"
+                    WIDTH="1470"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="164 2619 1634 2616 1634 2673 164 2677"/></Shape>
+	    <String CONTENT="тому болѣе слову ихъ должно намъ вѣрить,"
+                    HPOS="164"
+                    VPOS="2616"
+                    WIDTH="1470"
+                    HEIGHT="61"></String>
+          </TextLine>
+          <TextLine ID="line_32"
+                    TAGREFS="LT74"
+                    BASELINE="163 2724 1634 2724" 
+                    HPOS="163"
+                    VPOS="2694"
+                    WIDTH="1471"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="163 2697 1634 2694 1634 2751 163 2753"/></Shape>
+	    <String CONTENT="нежели нашимъ чувствамъ. Скорѣе бо чувства"
+                    HPOS="163"
+                    VPOS="2694"
+                    WIDTH="1471"
+                    HEIGHT="59"></String>
+          </TextLine>
+          <TextLine ID="line_33"
+                    TAGREFS="LT74"
+                    BASELINE="1458 2803 1632 2803" 
+                    HPOS="1458"
+                    VPOS="2780"
+                    WIDTH="176"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1458 2784 1632 2780 1634 2823 1460 2827"/></Shape>
+	    <String CONTENT="наши"
+                    HPOS="1458"
+                    VPOS="2780"
+                    WIDTH="176"
+                    HEIGHT="47"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="827.0"
+                   VPOS="133.0"
+                   WIDTH="118.0"
+                   HEIGHT="78.0"
+                   ID="eSc_textblock_936f8960"
+                   TAGREFS="BT134">
+          <Shape><Polygon POINTS="827 133 827 211 945 211 945 133"/></Shape>
+          <TextLine ID="eSc_line_54b7f542"
+                    TAGREFS="LT74"
+                    BASELINE="845 182 894 184" 
+                    HPOS="844"
+                    VPOS="137"
+                    WIDTH="49"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="844 181 844 218 893 218 893 181 893 137 844 137 844 181"/></Shape>
+	    <String CONTENT="22"
+                    HPOS="844"
+                    VPOS="137"
+                    WIDTH="49"
+                    HEIGHT="81"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

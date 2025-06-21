@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>05a795bb4e3d.jpeg</fileName>
+      <fileIdentifier>mets//mets.zip/05a795bb4e3d.jpeg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT134" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT137" LABEL="MarginTextZone:outer" DESCRIPTION="block type MarginTextZone:outer"/><OtherTag ID="BT135" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT138" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT2" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT136" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT50" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/>
+    <OtherTag ID="LT85" LABEL="CustomLine:divider" DESCRIPTION="line type CustomLine:divider"/><OtherTag ID="LT86" LABEL="CustomLine:onstage" DESCRIPTION="line type CustomLine:onstage"/><OtherTag ID="LT74" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT83" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT77" LABEL="CustomLine:paragraph_start" DESCRIPTION="line type CustomLine:paragraph_start"/><OtherTag ID="LT73" LABEL="CustomLine:signature" DESCRIPTION="line type CustomLine:signature"/><OtherTag ID="LT72" LABEL="CustomLine:catchword" DESCRIPTION="line type CustomLine:catchword"/><OtherTag ID="LT79" LABEL="CustomLine:verse" DESCRIPTION="line type CustomLine:verse"/><OtherTag ID="LT82" LABEL="CustomLine:speaker" DESCRIPTION="line type CustomLine:speaker"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2554"
+          HEIGHT="3398"
+          PHYSICAL_IMG_NR="52"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2554"
+                  HEIGHT="3398">
+        <TextBlock HPOS="263.0"
+                   VPOS="222.0"
+                   WIDTH="2239.0"
+                   HEIGHT="2807.0"
+                   ID="block_0"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="263 222 2502 222 2502 3029 263 3029"/></Shape>
+          <TextLine ID="line_0"
+                    TAGREFS="LT74"
+                    BASELINE="343 359 2458 359" 
+                    HPOS="343"
+                    VPOS="191"
+                    WIDTH="2115"
+                    HEIGHT="168">
+            <Shape><Polygon POINTS="343 191 2458 191 2458 359 343 359"/></Shape>
+	    <String CONTENT="долгое время, такъ что не можетъ ходить и"
+                    HPOS="343"
+                    VPOS="191"
+                    WIDTH="2115"
+                    HEIGHT="168"></String>
+          </TextLine>
+          <TextLine ID="line_1"
+                    TAGREFS="LT74"
+                    BASELINE="340 463 2467 463" 
+                    HPOS="340"
+                    VPOS="313"
+                    WIDTH="2127"
+                    HEIGHT="150">
+            <Shape><Polygon POINTS="340 313 2467 313 2467 463 340 463"/></Shape>
+	    <String CONTENT="принужденъ лежать въ постелѣ, въ такомъ случаѣ"
+                    HPOS="340"
+                    VPOS="313"
+                    WIDTH="2127"
+                    HEIGHT="150"></String>
+          </TextLine>
+          <TextLine ID="line_2"
+                    TAGREFS="LT74"
+                    BASELINE="338 564 2467 564" 
+                    HPOS="338"
+                    VPOS="415"
+                    WIDTH="2129"
+                    HEIGHT="149">
+            <Shape><Polygon POINTS="338 415 2467 415 2467 564 338 564"/></Shape>
+	    <String CONTENT="пластырь приложа къ ночи, на другой день отъ боли"
+                    HPOS="338"
+                    VPOS="415"
+                    WIDTH="2129"
+                    HEIGHT="149"></String>
+          </TextLine>
+          <TextLine ID="line_3"
+                    TAGREFS="LT74"
+                    BASELINE="342 665 2462 665" 
+                    HPOS="342"
+                    VPOS="516"
+                    WIDTH="2120"
+                    HEIGHT="149">
+            <Shape><Polygon POINTS="342 516 2462 516 2462 665 342 665"/></Shape>
+	    <String CONTENT="чувствовалъ облегченїе, и перемѣняя его до тѣхъ"
+                    HPOS="342"
+                    VPOS="516"
+                    WIDTH="2120"
+                    HEIGHT="149"></String>
+          </TextLine>
+          <TextLine ID="line_4"
+                    TAGREFS="LT74"
+                    BASELINE="328 764 2466 764" 
+                    HPOS="328"
+                    VPOS="615"
+                    WIDTH="2138"
+                    HEIGHT="149">
+            <Shape><Polygon POINTS="328 615 2466 615 2466 764 328 764"/></Shape>
+	    <String CONTENT="поръ, пока уже онъ не будеть отсырѣвать, совер-"
+                    HPOS="328"
+                    VPOS="615"
+                    WIDTH="2138"
+                    HEIGHT="149"></String>
+          </TextLine>
+          <TextLine ID="line_5"
+                    TAGREFS="LT74"
+                    BASELINE="330 863 2463 863" 
+                    HPOS="330"
+                    VPOS="713"
+                    WIDTH="2133"
+                    HEIGHT="150">
+            <Shape><Polygon POINTS="330 713 2463 713 2463 863 330 863"/></Shape>
+	    <String CONTENT="шенное выздоровленїе послѣдовало не прежде, какъ"
+                    HPOS="330"
+                    VPOS="713"
+                    WIDTH="2133"
+                    HEIGHT="150"></String>
+          </TextLine>
+          <TextLine ID="line_6"
+                    TAGREFS="LT74"
+                    BASELINE="338 967 2461 967" 
+                    HPOS="338"
+                    VPOS="814"
+                    WIDTH="2123"
+                    HEIGHT="153">
+            <Shape><Polygon POINTS="338 814 2461 814 2461 967 338 967"/></Shape>
+	    <String CONTENT="чрезъ 6 или 7 недѣль, въ которое время пластырь"
+                    HPOS="338"
+                    VPOS="814"
+                    WIDTH="2123"
+                    HEIGHT="153"></String>
+          </TextLine>
+          <TextLine ID="line_7"
+                    TAGREFS="LT74"
+                    BASELINE="330 1044 1272 1044" 
+                    HPOS="330"
+                    VPOS="921"
+                    WIDTH="942"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="330 921 1272 921 1272 1044 330 1044"/></Shape>
+	    <String CONTENT="самъ собою отваливался."
+                    HPOS="330"
+                    VPOS="921"
+                    WIDTH="942"
+                    HEIGHT="123"></String>
+          </TextLine>
+          <TextLine ID="line_8"
+                    TAGREFS="LT77"
+                    BASELINE="548 1162 2465 1162" 
+                    HPOS="548"
+                    VPOS="1017"
+                    WIDTH="1917"
+                    HEIGHT="145">
+            <Shape><Polygon POINTS="548 1017 2465 1017 2465 1162 548 1162"/></Shape>
+	    <String CONTENT="19. ХИРАГРА мишатюка, боль въ рукахъ и въ"
+                    HPOS="548"
+                    VPOS="1017"
+                    WIDTH="1917"
+                    HEIGHT="145"></String>
+          </TextLine>
+          <TextLine ID="line_9"
+                    TAGREFS="LT74"
+                    BASELINE="323 1266 2455 1266" 
+                    HPOS="323"
+                    VPOS="1117"
+                    WIDTH="2132"
+                    HEIGHT="149">
+            <Shape><Polygon POINTS="323 1117 2455 1117 2455 1266 323 1266"/></Shape>
+	    <String CONTENT="плечахъ. Въ сей болѣзни употреблять пластырь рав-"
+                    HPOS="323"
+                    VPOS="1117"
+                    WIDTH="2132"
+                    HEIGHT="149"></String>
+          </TextLine>
+          <TextLine ID="line_10"
+                    TAGREFS="LT74"
+                    BASELINE="320 1364 1965 1364" 
+                    HPOS="320"
+                    VPOS="1220"
+                    WIDTH="1645"
+                    HEIGHT="144">
+            <Shape><Polygon POINTS="320 1220 1965 1220 1965 1364 320 1364"/></Shape>
+	    <String CONTENT="нымь образомъ, какъ въ подагрѣ и гонагрѣ."
+                    HPOS="320"
+                    VPOS="1220"
+                    WIDTH="1645"
+                    HEIGHT="144"></String>
+          </TextLine>
+          <TextLine ID="line_11"
+                    TAGREFS="LT77"
+                    BASELINE="543 1466 2457 1466" 
+                    HPOS="543"
+                    VPOS="1320"
+                    WIDTH="1914"
+                    HEIGHT="146">
+            <Shape><Polygon POINTS="543 1320 2457 1320 2457 1466 543 1466"/></Shape>
+	    <String CONTENT="20. ЧЕЧУЙ. Въ сей болѣзни должно пластырь"
+                    HPOS="543"
+                    VPOS="1320"
+                    WIDTH="1914"
+                    HEIGHT="146"></String>
+          </TextLine>
+          <TextLine ID="line_12"
+                    TAGREFS="LT74"
+                    BASELINE="317 1569 2447 1569" 
+                    HPOS="317"
+                    VPOS="1413"
+                    WIDTH="2130"
+                    HEIGHT="156">
+            <Shape><Polygon POINTS="317 1413 2447 1413 2447 1569 317 1569"/></Shape>
+	    <String CONTENT="приложить къ поясницѣ и пахамъ; а естьли шишки,"
+                    HPOS="317"
+                    VPOS="1413"
+                    WIDTH="2130"
+                    HEIGHT="156"></String>
+          </TextLine>
+          <TextLine ID="line_13"
+                    TAGREFS="LT74"
+                    BASELINE="309 1665 2436 1665" 
+                    HPOS="309"
+                    VPOS="1523"
+                    WIDTH="2127"
+                    HEIGHT="142">
+            <Shape><Polygon POINTS="309 1523 2436 1523 2436 1665 309 1665"/></Shape>
+	    <String CONTENT="то другой приложить къ самому проходу и при-"
+                    HPOS="309"
+                    VPOS="1523"
+                    WIDTH="2127"
+                    HEIGHT="142"></String>
+          </TextLine>
+          <TextLine ID="line_14"
+                    TAGREFS="LT74"
+                    BASELINE="308 1759 2437 1759" 
+                    HPOS="308"
+                    VPOS="1623"
+                    WIDTH="2129"
+                    HEIGHT="136">
+            <Shape><Polygon POINTS="308 1623 2437 1623 2437 1759 308 1759"/></Shape>
+	    <String CONTENT="жать, дабы онъ къ нимъ плотно присталь. Слѣдующа-"
+                    HPOS="308"
+                    VPOS="1623"
+                    WIDTH="2129"
+                    HEIGHT="136"></String>
+          </TextLine>
+          <TextLine ID="line_15"
+                    TAGREFS="LT74"
+                    BASELINE="303 1858 2445 1858" 
+                    HPOS="303"
+                    VPOS="1717"
+                    WIDTH="2142"
+                    HEIGHT="141">
+            <Shape><Polygon POINTS="303 1717 2445 1717 2445 1858 303 1858"/></Shape>
+	    <String CONTENT="го утра, когда пластырь при слабленїи отпадеть,"
+                    HPOS="303"
+                    VPOS="1717"
+                    WIDTH="2142"
+                    HEIGHT="141"></String>
+          </TextLine>
+          <TextLine ID="line_16"
+                    TAGREFS="LT74"
+                    BASELINE="304 1959 2454 1959" 
+                    HPOS="304"
+                    VPOS="1817"
+                    WIDTH="2150"
+                    HEIGHT="142">
+            <Shape><Polygon POINTS="304 1817 2454 1817 2454 1959 304 1959"/></Shape>
+	    <String CONTENT="должно приложить свѣжїй, и продолжать два или"
+                    HPOS="304"
+                    VPOS="1817"
+                    WIDTH="2150"
+                    HEIGHT="142"></String>
+          </TextLine>
+          <TextLine ID="line_17"
+                    TAGREFS="LT74"
+                    BASELINE="309 2059 2449 2059" 
+                    HPOS="309"
+                    VPOS="1916"
+                    WIDTH="2140"
+                    HEIGHT="143">
+            <Shape><Polygon POINTS="309 1916 2449 1916 2449 2059 309 2059"/></Shape>
+	    <String CONTENT="четыре дни, въ которое время шишки нечувстви-"
+                    HPOS="309"
+                    VPOS="1916"
+                    WIDTH="2140"
+                    HEIGHT="143"></String>
+          </TextLine>
+          <TextLine ID="line_18"
+                    TAGREFS="LT74"
+                    BASELINE="301 2158 2439 2158" 
+                    HPOS="301"
+                    VPOS="2019"
+                    WIDTH="2138"
+                    HEIGHT="139">
+            <Shape><Polygon POINTS="301 2019 2439 2019 2439 2158 301 2158"/></Shape>
+	    <String CONTENT="тельно исчезнутъ, больной выздоровляетъ, и уже къ тому"
+                    HPOS="301"
+                    VPOS="2019"
+                    WIDTH="2138"
+                    HEIGHT="139"></String>
+          </TextLine>
+          <TextLine ID="line_19"
+                    TAGREFS="LT74"
+                    BASELINE="297 2262 2449 2262" 
+                    HPOS="297"
+                    VPOS="2118"
+                    WIDTH="2152"
+                    HEIGHT="144">
+            <Shape><Polygon POINTS="297 2118 2449 2118 2449 2262 297 2262"/></Shape>
+	    <String CONTENT="мѣсту пластыря болѣе не прикладывать; приложенной же"
+                    HPOS="297"
+                    VPOS="2118"
+                    WIDTH="2152"
+                    HEIGHT="144"></String>
+          </TextLine>
+          <TextLine ID="line_20"
+                    TAGREFS="LT74"
+                    BASELINE="299 2359 2439 2359" 
+                    HPOS="299"
+                    VPOS="2218"
+                    WIDTH="2140"
+                    HEIGHT="141">
+            <Shape><Polygon POINTS="299 2218 2439 2218 2439 2359 299 2359"/></Shape>
+	    <String CONTENT="къ поясницѣ оставить до тѣхь поръ, пока самъ отвалит-"
+                    HPOS="299"
+                    VPOS="2218"
+                    WIDTH="2140"
+                    HEIGHT="141"></String>
+          </TextLine>
+          <TextLine ID="line_21"
+                    TAGREFS="LT74"
+                    BASELINE="299 2464 2438 2464" 
+                    HPOS="299"
+                    VPOS="2319"
+                    WIDTH="2139"
+                    HEIGHT="145">
+            <Shape><Polygon POINTS="299 2319 2438 2319 2438 2464 299 2464"/></Shape>
+	    <String CONTENT="ся, по предписанїю §. 2, въ которое время онъ всѣ острые"
+                    HPOS="299"
+                    VPOS="2319"
+                    WIDTH="2139"
+                    HEIGHT="145"></String>
+          </TextLine>
+          <TextLine ID="line_22"
+                    TAGREFS="LT74"
+                    BASELINE="294 2566 2445 2566" 
+                    HPOS="294"
+                    VPOS="2420"
+                    WIDTH="2151"
+                    HEIGHT="146">
+            <Shape><Polygon POINTS="294 2420 2445 2420 2445 2566 294 2566"/></Shape>
+	    <String CONTENT="и испорченные соки вытягиваеть, и кости хребтовыя"
+                    HPOS="294"
+                    VPOS="2420"
+                    WIDTH="2151"
+                    HEIGHT="146"></String>
+          </TextLine>
+          <TextLine ID="line_23"
+                    TAGREFS="LT74"
+                    BASELINE="295 2663 1921 2663" 
+                    HPOS="295"
+                    VPOS="2520"
+                    WIDTH="1626"
+                    HEIGHT="143">
+            <Shape><Polygon POINTS="295 2520 1921 2520 1921 2663 295 2663"/></Shape>
+	    <String CONTENT="отъ подобно худыхъ мокротъ очистятся."
+                    HPOS="295"
+                    VPOS="2520"
+                    WIDTH="1626"
+                    HEIGHT="143"></String>
+          </TextLine>
+          <TextLine ID="line_24"
+                    TAGREFS="LT77"
+                    BASELINE="513 2763 2433 2763" 
+                    HPOS="513"
+                    VPOS="2621"
+                    WIDTH="1920"
+                    HEIGHT="142">
+            <Shape><Polygon POINTS="513 2621 2433 2621 2433 2763 513 2763"/></Shape>
+	    <String CONTENT="21. АПОСТЕМА, внутреннїй нарывъ, или чирей."
+                    HPOS="513"
+                    VPOS="2621"
+                    WIDTH="1920"
+                    HEIGHT="142"></String>
+          </TextLine>
+          <TextLine ID="line_25"
+                    TAGREFS="LT74"
+                    BASELINE="286 2868 2439 2868" 
+                    HPOS="286"
+                    VPOS="2718"
+                    WIDTH="2153"
+                    HEIGHT="150">
+            <Shape><Polygon POINTS="286 2718 2439 2718 2439 2868 286 2868"/></Shape>
+	    <String CONTENT="Страждущему сею болѣзнїю, отъ которой больной"
+                    HPOS="286"
+                    VPOS="2718"
+                    WIDTH="2153"
+                    HEIGHT="150"></String>
+          </TextLine>
+          <TextLine ID="line_26"
+                    TAGREFS="LT74"
+                    BASELINE="299 2980 2438 2980" 
+                    HPOS="299"
+                    VPOS="2821"
+                    WIDTH="2139"
+                    HEIGHT="159">
+            <Shape><Polygon POINTS="299 2821 2438 2821 2438 2980 299 2980"/></Shape>
+	    <String CONTENT="чувствовалъ нестерпимую боль, приложенъ былъ"
+                    HPOS="299"
+                    VPOS="2821"
+                    WIDTH="2139"
+                    HEIGHT="159"></String>
+          </TextLine>
+          <TextLine ID="line_27"
+                    TAGREFS="LT72"
+                    BASELINE="2238 3046 2436 3046" 
+                    HPOS="2238"
+                    VPOS="2936"
+                    WIDTH="198"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="2238 2936 2436 2936 2436 3046 2238 3046"/></Shape>
+	    <String CONTENT="пла-"
+                    HPOS="2238"
+                    VPOS="2936"
+                    WIDTH="198"
+                    HEIGHT="110"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1145.0"
+                   VPOS="70.0"
+                   WIDTH="512.0"
+                   HEIGHT="120.0"
+                   ID="block_1"
+                   TAGREFS="BT134">
+          <Shape><Polygon POINTS="1145 70 1657 70 1657 190 1145 190"/></Shape>
+          <TextLine ID="eSc_line_bfe51f63"
+                    TAGREFS="LT74"
+                    BASELINE="1370 161 1458 166" 
+                    HPOS="1363"
+                    VPOS="76"
+                    WIDTH="93"
+                    HEIGHT="136">
+            <Shape><Polygon POINTS="1369 158 1363 212 1451 203 1456 164 1456 76 1369 76 1369 158"/></Shape>
+	    <String CONTENT="16"
+                    HPOS="1363"
+                    VPOS="76"
+                    WIDTH="93"
+                    HEIGHT="136"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

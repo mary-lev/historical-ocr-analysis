@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>bdb12c0f6005.jpeg</fileName>
+      <fileIdentifier>mets//mets.zip/bdb12c0f6005.jpeg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT134" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT137" LABEL="MarginTextZone:outer" DESCRIPTION="block type MarginTextZone:outer"/><OtherTag ID="BT135" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT138" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT2" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT136" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT50" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/>
+    <OtherTag ID="LT85" LABEL="CustomLine:divider" DESCRIPTION="line type CustomLine:divider"/><OtherTag ID="LT86" LABEL="CustomLine:onstage" DESCRIPTION="line type CustomLine:onstage"/><OtherTag ID="LT74" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT83" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT77" LABEL="CustomLine:paragraph_start" DESCRIPTION="line type CustomLine:paragraph_start"/><OtherTag ID="LT73" LABEL="CustomLine:signature" DESCRIPTION="line type CustomLine:signature"/><OtherTag ID="LT72" LABEL="CustomLine:catchword" DESCRIPTION="line type CustomLine:catchword"/><OtherTag ID="LT79" LABEL="CustomLine:verse" DESCRIPTION="line type CustomLine:verse"/><OtherTag ID="LT82" LABEL="CustomLine:speaker" DESCRIPTION="line type CustomLine:speaker"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="1500"
+          HEIGHT="2800"
+          PHYSICAL_IMG_NR="68"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1500"
+                  HEIGHT="2800">
+        <TextBlock HPOS="148.0"
+                   VPOS="299.0"
+                   WIDTH="1278.0"
+                   HEIGHT="2171.0"
+                   ID="eSc_textblock_8c537da4"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="148 299 148 2470 1426 2470 1426 299"/></Shape>
+          <TextLine ID="line_1"
+                    TAGREFS="LT74"
+                    BASELINE="169 340 1368 340" 
+                    HPOS="169"
+                    VPOS="310"
+                    WIDTH="1199"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="169 313 1368 310 1368 368 170 371"/></Shape>
+	    <String CONTENT="коими большїй называется св. Ге-"
+                    HPOS="169"
+                    VPOS="310"
+                    WIDTH="1199"
+                    HEIGHT="61"></String>
+          </TextLine>
+          <TextLine ID="line_2"
+                    TAGREFS="LT74"
+                    BASELINE="174 426 1329 426" 
+                    HPOS="174"
+                    VPOS="389"
+                    WIDTH="1156"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="174 402 1329 389 1330 451 175 464"/></Shape>
+	    <String CONTENT="оргїя принадлежитъ Агличанамъ."
+                    HPOS="174"
+                    VPOS="389"
+                    WIDTH="1156"
+                    HEIGHT="75"></String>
+          </TextLine>
+          <TextLine ID="line_3"
+                    TAGREFS="LT77"
+                    BASELINE="301 517 1379 517" 
+                    HPOS="301"
+                    VPOS="485"
+                    WIDTH="1079"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="301 488 1379 485 1380 546 301 549"/></Shape>
+	    <String CONTENT="2. Багамскїе или Лукайскїе ос-"
+                    HPOS="301"
+                    VPOS="485"
+                    WIDTH="1079"
+                    HEIGHT="64"></String>
+          </TextLine>
+          <TextLine ID="line_4"
+                    TAGREFS="LT74"
+                    BASELINE="165 606 1377 606" 
+                    HPOS="165"
+                    VPOS="571"
+                    WIDTH="1212"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="165 580 1377 571 1377 633 166 642"/></Shape>
+	    <String CONTENT="трова принадлежатъ Англїи. Изъ"
+                    HPOS="165"
+                    VPOS="571"
+                    WIDTH="1212"
+                    HEIGHT="71"></String>
+          </TextLine>
+          <TextLine ID="line_5"
+                    TAGREFS="LT74"
+                    BASELINE="177 695 1380 695" 
+                    HPOS="177"
+                    VPOS="659"
+                    WIDTH="1203"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="177 659 1380 667 1379 731 177 724"/></Shape>
+	    <String CONTENT="нихъ большїй Багама; главный"
+                    HPOS="177"
+                    VPOS="659"
+                    WIDTH="1203"
+                    HEIGHT="72"></String>
+          </TextLine>
+          <TextLine ID="line_6"
+                    TAGREFS="LT74"
+                    BASELINE="180 782 1371 782" 
+                    HPOS="179"
+                    VPOS="749"
+                    WIDTH="1192"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="180 749 1371 753 1371 816 179 811"/></Shape>
+	    <String CONTENT="Провиденсъ или Провидѣнїе, съ крѣ-"
+                    HPOS="179"
+                    VPOS="749"
+                    WIDTH="1192"
+                    HEIGHT="67"></String>
+          </TextLine>
+          <TextLine ID="line_7"
+                    TAGREFS="LT74"
+                    BASELINE="176 870 1382 870" 
+                    HPOS="175"
+                    VPOS="835"
+                    WIDTH="1207"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="176 835 1382 843 1382 905 175 897"/></Shape>
+	    <String CONTENT="постью Нассау и Гванагани или"
+                    HPOS="175"
+                    VPOS="835"
+                    WIDTH="1207"
+                    HEIGHT="70"></String>
+          </TextLine>
+          <TextLine ID="line_8"
+                    TAGREFS="LT74"
+                    BASELINE="182 957 1373 957" 
+                    HPOS="182"
+                    VPOS="925"
+                    WIDTH="1191"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="182 925 1373 928 1373 990 182 987"/></Shape>
+	    <String CONTENT="Сан-Салвадоръ, какъ первое от-"
+                    HPOS="182"
+                    VPOS="925"
+                    WIDTH="1191"
+                    HEIGHT="65"></String>
+          </TextLine>
+          <TextLine ID="line_9"
+                    TAGREFS="LT74"
+                    BASELINE="181 1042 1375 1042" 
+                    HPOS="181"
+                    VPOS="1008"
+                    WIDTH="1194"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="181 1008 1375 1013 1374 1077 181 1072"/></Shape>
+	    <String CONTENT="крытїе Христофора Коломба въ"
+                    HPOS="181"
+                    VPOS="1008"
+                    WIDTH="1194"
+                    HEIGHT="69"></String>
+          </TextLine>
+          <TextLine ID="line_10"
+                    TAGREFS="LT74"
+                    BASELINE="182 1134 1379 1134" 
+                    HPOS="182"
+                    VPOS="1098"
+                    WIDTH="1198"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="182 1102 1379 1098 1380 1166 182 1170"/></Shape>
+	    <String CONTENT="1492 году особливо примѣчательны."
+                    HPOS="182"
+                    VPOS="1098"
+                    WIDTH="1198"
+                    HEIGHT="72"></String>
+          </TextLine>
+          <TextLine ID="line_11"
+                    TAGREFS="LT77"
+                    BASELINE="276 1218 1328 1218" 
+                    HPOS="275"
+                    VPOS="1180"
+                    WIDTH="1053"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="276 1180 1328 1193 1327 1256 275 1242"/></Shape>
+	    <String CONTENT="Большїе Антильскїе острова."
+                    HPOS="275"
+                    VPOS="1180"
+                    WIDTH="1053"
+                    HEIGHT="76"></String>
+          </TextLine>
+          <TextLine ID="line_12"
+                    TAGREFS="LT77"
+                    BASELINE="303 1308 1381 1308" 
+                    HPOS="302"
+                    VPOS="1273"
+                    WIDTH="1079"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="303 1273 1381 1285 1380 1344 302 1333"/></Shape>
+	    <String CONTENT="1. Куба величайшїй между всѣ-"
+                    HPOS="302"
+                    VPOS="1273"
+                    WIDTH="1079"
+                    HEIGHT="71"></String>
+          </TextLine>
+          <TextLine ID="line_13"
+                    TAGREFS="LT74"
+                    BASELINE="183 1401 1383 1401" 
+                    HPOS="181"
+                    VPOS="1358"
+                    WIDTH="1202"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="183 1358 1383 1374 1382 1445 181 1428"/></Shape>
+	    <String CONTENT="ми, производитъ сахаръ, табакъ,"
+                    HPOS="181"
+                    VPOS="1358"
+                    WIDTH="1202"
+                    HEIGHT="87"></String>
+          </TextLine>
+          <TextLine ID="line_14"
+                    TAGREFS="LT74"
+                    BASELINE="184 1492 1379 1492" 
+                    HPOS="183"
+                    VPOS="1454"
+                    WIDTH="1196"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="184 1454 1379 1466 1378 1530 183 1518"/></Shape>
+	    <String CONTENT="кофе, имбирь, перецъ, сасапариль,"
+                    HPOS="183"
+                    VPOS="1454"
+                    WIDTH="1196"
+                    HEIGHT="76"></String>
+          </TextLine>
+          <TextLine ID="line_15"
+                    TAGREFS="LT74"
+                    BASELINE="186 1579 1380 1579" 
+                    HPOS="186"
+                    VPOS="1549"
+                    WIDTH="1194"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="186 1549 1380 1549 1380 1610 186 1610"/></Shape>
+	    <String CONTENT="кассїю, золото, серебро и мѣдь."
+                    HPOS="186"
+                    VPOS="1549"
+                    WIDTH="1194"
+                    HEIGHT="61"></String>
+          </TextLine>
+          <TextLine ID="line_16"
+                    TAGREFS="LT74"
+                    BASELINE="191 1664 1385 1664" 
+                    HPOS="190"
+                    VPOS="1631"
+                    WIDTH="1195"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="191 1631 1385 1640 1384 1698 190 1690"/></Shape>
+	    <String CONTENT="Весь принадлежитъ Испанїи съ"
+                    HPOS="190"
+                    VPOS="1631"
+                    WIDTH="1195"
+                    HEIGHT="67"></String>
+          </TextLine>
+          <TextLine ID="line_17"
+                    TAGREFS="LT74"
+                    BASELINE="189 1751 1209 1751" 
+                    HPOS="188"
+                    VPOS="1718"
+                    WIDTH="1021"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="189 1718 1209 1724 1208 1784 188 1778"/></Shape>
+	    <String CONTENT="главнымъ городомъ Гаванною."
+                    HPOS="188"
+                    VPOS="1718"
+                    WIDTH="1021"
+                    HEIGHT="66"></String>
+          </TextLine>
+          <TextLine ID="line_18"
+                    TAGREFS="LT77"
+                    BASELINE="257 1837 1386 1837" 
+                    HPOS="257"
+                    VPOS="1803"
+                    WIDTH="1129"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="257 1803 1386 1809 1386 1872 257 1866"/></Shape>
+	    <String CONTENT="3. Испанїола или Санъ Доминго,"
+                    HPOS="257"
+                    VPOS="1803"
+                    WIDTH="1129"
+                    HEIGHT="69"></String>
+          </TextLine>
+          <TextLine ID="line_19"
+                    TAGREFS="LT74"
+                    BASELINE="187 1928 1391 1928" 
+                    HPOS="187"
+                    VPOS="1896"
+                    WIDTH="1204"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="187 1896 1391 1897 1391 1961 187 1959"/></Shape>
+	    <String CONTENT="на коемъ основано первое Испан-"
+                    HPOS="187"
+                    VPOS="1896"
+                    WIDTH="1204"
+                    HEIGHT="65"></String>
+          </TextLine>
+          <TextLine ID="line_20"
+                    TAGREFS="LT74"
+                    BASELINE="192 2019 1387 2019" 
+                    HPOS="192"
+                    VPOS="1988"
+                    WIDTH="1195"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="192 1988 1387 1988 1387 2051 192 2051"/></Shape>
+	    <String CONTENT="ское селенїе Христофоромъ Ко-"
+                    HPOS="192"
+                    VPOS="1988"
+                    WIDTH="1195"
+                    HEIGHT="63"></String>
+          </TextLine>
+          <TextLine ID="line_21"
+                    TAGREFS="LT74"
+                    BASELINE="191 2108 1392 2108" 
+                    HPOS="190"
+                    VPOS="2074"
+                    WIDTH="1202"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="191 2074 1392 2080 1392 2143 190 2137"/></Shape>
+	    <String CONTENT="ломбомъ. Онъ изобилуетъ тѣмиже"
+                    HPOS="190"
+                    VPOS="2074"
+                    WIDTH="1202"
+                    HEIGHT="69"></String>
+          </TextLine>
+          <TextLine ID="line_22"
+                    TAGREFS="LT74"
+                    BASELINE="188 2201 1396 2201" 
+                    HPOS="188"
+                    VPOS="2170"
+                    WIDTH="1208"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="188 2170 1396 2170 1396 2232 188 2232"/></Shape>
+	    <String CONTENT="произведенїями, какъ и Куба. При-"
+                    HPOS="188"
+                    VPOS="2170"
+                    WIDTH="1208"
+                    HEIGHT="62"></String>
+          </TextLine>
+          <TextLine ID="line_23"
+                    TAGREFS="LT74"
+                    BASELINE="191 2289 1386 2289" 
+                    HPOS="191"
+                    VPOS="2256"
+                    WIDTH="1195"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="191 2256 1386 2256 1386 2322 191 2322"/></Shape>
+	    <String CONTENT="надлежитъ Испанцамъ и Францу-"
+                    HPOS="191"
+                    VPOS="2256"
+                    WIDTH="1195"
+                    HEIGHT="66"></String>
+          </TextLine>
+          <TextLine ID="line_24"
+                    TAGREFS="LT74"
+                    BASELINE="183 2387 1398 2387" 
+                    HPOS="183"
+                    VPOS="2347"
+                    WIDTH="1215"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="183 2349 1398 2347 1398 2426 183 2428"/></Shape>
+	    <String CONTENT="замъ. Въ Испанской части Сан-"
+                    HPOS="183"
+                    VPOS="2347"
+                    WIDTH="1215"
+                    HEIGHT="81"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="667.0"
+                   VPOS="158.0"
+                   WIDTH="155.0"
+                   HEIGHT="116.0"
+                   ID="eSc_textblock_304de08c"
+                   TAGREFS="BT134">
+          <Shape><Polygon POINTS="667 158 667 274 822 274 822 158"/></Shape>
+          <TextLine ID="line_0"
+                    TAGREFS="LT74"
+                    BASELINE="713 223 806 223" 
+                    HPOS="713"
+                    VPOS="198"
+                    WIDTH="93"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="713 198 806 198 806 248 713 248"/></Shape>
+	    <String CONTENT="82"
+                    HPOS="713"
+                    VPOS="198"
+                    WIDTH="93"
+                    HEIGHT="50"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

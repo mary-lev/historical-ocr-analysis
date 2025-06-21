@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>c8815380c206.jpeg</fileName>
+      <fileIdentifier>mets//mets.zip/c8815380c206.jpeg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT134" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT137" LABEL="MarginTextZone:outer" DESCRIPTION="block type MarginTextZone:outer"/><OtherTag ID="BT135" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT138" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT2" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT136" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT50" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/>
+    <OtherTag ID="LT85" LABEL="CustomLine:divider" DESCRIPTION="line type CustomLine:divider"/><OtherTag ID="LT86" LABEL="CustomLine:onstage" DESCRIPTION="line type CustomLine:onstage"/><OtherTag ID="LT74" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT83" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT77" LABEL="CustomLine:paragraph_start" DESCRIPTION="line type CustomLine:paragraph_start"/><OtherTag ID="LT73" LABEL="CustomLine:signature" DESCRIPTION="line type CustomLine:signature"/><OtherTag ID="LT72" LABEL="CustomLine:catchword" DESCRIPTION="line type CustomLine:catchword"/><OtherTag ID="LT79" LABEL="CustomLine:verse" DESCRIPTION="line type CustomLine:verse"/><OtherTag ID="LT82" LABEL="CustomLine:speaker" DESCRIPTION="line type CustomLine:speaker"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3050"
+          HEIGHT="4050"
+          PHYSICAL_IMG_NR="91"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3050"
+                  HEIGHT="4050">
+        <TextBlock HPOS="719.0"
+                   VPOS="503.0"
+                   WIDTH="209.0"
+                   HEIGHT="110.0"
+                   ID="eSc_textblock_883920fa"
+                   TAGREFS="BT134">
+          <Shape><Polygon POINTS="719 503 719 613 928 613 928 503"/></Shape>
+          <TextLine ID="line_1"
+                    TAGREFS="LT74"
+                    BASELINE="754 573 904 573" 
+                    HPOS="754"
+                    VPOS="550"
+                    WIDTH="150"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="754 550 904 550 904 597 754 597"/></Shape>
+	    <String CONTENT="218"
+                    HPOS="754"
+                    VPOS="550"
+                    WIDTH="150"
+                    HEIGHT="47"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="691.0"
+                   VPOS="646.0"
+                   WIDTH="1907.0"
+                   HEIGHT="2746.0"
+                   ID="eSc_textblock_818bb71e"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="691 646 691 3392 2598 3392 2598 646"/></Shape>
+          <TextLine ID="line_2"
+                    TAGREFS="LT74"
+                    BASELINE="743 717 2530 717" 
+                    HPOS="743"
+                    VPOS="677"
+                    WIDTH="1788"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="743 682 2530 677 2531 752 744 756"/></Shape>
+	    <String CONTENT="но нѣсколько здавленной со сторонъ полюсовъ,"
+                    HPOS="743"
+                    VPOS="677"
+                    WIDTH="1788"
+                    HEIGHT="79"></String>
+          </TextLine>
+          <TextLine ID="line_3"
+                    TAGREFS="LT74"
+                    BASELINE="740 810 2540 810" 
+                    HPOS="740"
+                    VPOS="772"
+                    WIDTH="1802"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="740 779 2540 772 2542 841 742 848"/></Shape>
+	    <String CONTENT="однако въ семъ дѣлѣ, какъ и въ предложенныхъ"
+                    HPOS="740"
+                    VPOS="772"
+                    WIDTH="1802"
+                    HEIGHT="76"></String>
+          </TextLine>
+          <TextLine ID="line_4"
+                    TAGREFS="LT74"
+                    BASELINE="743 900 2537 900" 
+                    HPOS="743"
+                    VPOS="864"
+                    WIDTH="1797"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="743 873 2537 864 2540 928 745 938"/></Shape>
+	    <String CONTENT="выше Геодезическихъ дѣлахъ, можно принять за"
+                    HPOS="743"
+                    VPOS="864"
+                    WIDTH="1797"
+                    HEIGHT="74"></String>
+          </TextLine>
+          <TextLine ID="line_5"
+                    TAGREFS="LT74"
+                    BASELINE="729 985 2537 985" 
+                    HPOS="729"
+                    VPOS="943"
+                    WIDTH="1811"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="729 955 2537 943 2540 1015 732 1027"/></Shape>
+	    <String CONTENT="шаръ совершенной не опасаяся большихъ отъ"
+                    HPOS="729"
+                    VPOS="943"
+                    WIDTH="1811"
+                    HEIGHT="84"></String>
+          </TextLine>
+          <TextLine ID="line_6"
+                    TAGREFS="LT74"
+                    BASELINE="735 1079 2551 1079" 
+                    HPOS="735"
+                    VPOS="1042"
+                    WIDTH="1818"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="735 1052 2551 1042 2553 1106 737 1116"/></Shape>
+	    <String CONTENT="того погрѣшностей, которыя бы могли въ ровня-"
+                    HPOS="735"
+                    VPOS="1042"
+                    WIDTH="1818"
+                    HEIGHT="74"></String>
+          </TextLine>
+          <TextLine ID="line_7"
+                    TAGREFS="LT74"
+                    BASELINE="729 1166 2537 1166" 
+                    HPOS="729"
+                    VPOS="1111"
+                    WIDTH="1816"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="729 1141 2537 1111 2545 1192 737 1222"/></Shape>
+	    <String CONTENT="нїи произвесть замѣшательство. Ибо содержанїе"
+                    HPOS="729"
+                    VPOS="1111"
+                    WIDTH="1816"
+                    HEIGHT="111"></String>
+          </TextLine>
+          <TextLine ID="line_8"
+                    TAGREFS="LT74"
+                    BASELINE="741 1255 2543 1255" 
+                    HPOS="741"
+                    VPOS="1217"
+                    WIDTH="1803"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="741 1223 2543 1217 2544 1288 742 1293"/></Shape>
+	    <String CONTENT="большаго дїаметра къ малому есть какъ 179 ко"
+                    HPOS="741"
+                    VPOS="1217"
+                    WIDTH="1803"
+                    HEIGHT="76"></String>
+          </TextLine>
+          <TextLine ID="line_9"
+                    TAGREFS="LT74"
+                    BASELINE="744 1348 2546 1348" 
+                    HPOS="744"
+                    VPOS="1315"
+                    WIDTH="1802"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="744 1315 2546 1315 2546 1381 744 1381"/></Shape>
+	    <String CONTENT="178, то есть большей поперешникъ долѣ малаго"
+                    HPOS="744"
+                    VPOS="1315"
+                    WIDTH="1802"
+                    HEIGHT="66"></String>
+          </TextLine>
+          <TextLine ID="line_10"
+                    TAGREFS="LT74"
+                    BASELINE="743 1453 2554 1453" 
+                    HPOS="743"
+                    VPOS="1408"
+                    WIDTH="1816"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="743 1426 2554 1408 2559 1480 747 1498"/></Shape>
+	    <String CONTENT="1/179 частью всей своей длины, чего ради ежели воз-"
+                    HPOS="743"
+                    VPOS="1408"
+                    WIDTH="1816"
+                    HEIGHT="90"></String>
+          </TextLine>
+          <TextLine ID="line_11"
+                    TAGREFS="LT74"
+                    BASELINE="744 1544 2546 1544" 
+                    HPOS="744"
+                    VPOS="1511"
+                    WIDTH="1802"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="744 1511 2546 1511 2546 1577 744 1577"/></Shape>
+	    <String CONTENT="метъ средней между оными которой есть 20952400"
+                    HPOS="744"
+                    VPOS="1511"
+                    WIDTH="1802"
+                    HEIGHT="66"></String>
+          </TextLine>
+          <TextLine ID="line_12"
+                    TAGREFS="LT74"
+                    BASELINE="742 1634 2550 1634" 
+                    HPOS="742"
+                    VPOS="1591"
+                    WIDTH="1811"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="742 1600 2550 1591 2553 1668 745 1677"/></Shape>
+	    <String CONTENT="Лондонскихъ футовъ , и положитъ что земля"
+                    HPOS="742"
+                    VPOS="1591"
+                    WIDTH="1811"
+                    HEIGHT="86"></String>
+          </TextLine>
+          <TextLine ID="line_13"
+                    TAGREFS="LT74"
+                    BASELINE="743 1724 2548 1724" 
+                    HPOS="743"
+                    VPOS="1687"
+                    WIDTH="1807"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="743 1695 2548 1687 2550 1754 745 1762"/></Shape>
+	    <String CONTENT="есть шаръ, котораго радїусъ 20952400 Лонд. фу-"
+                    HPOS="743"
+                    VPOS="1687"
+                    WIDTH="1807"
+                    HEIGHT="75"></String>
+          </TextLine>
+          <TextLine ID="line_14"
+                    TAGREFS="LT74"
+                    BASELINE="736 1807 2552 1807" 
+                    HPOS="736"
+                    VPOS="1763"
+                    WIDTH="1821"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="736 1786 2552 1763 2557 1828 741 1851"/></Shape>
+	    <String CONTENT="товъ, то погрѣшности раздѣляся по всей земной"
+                    HPOS="736"
+                    VPOS="1763"
+                    WIDTH="1821"
+                    HEIGHT="88"></String>
+          </TextLine>
+          <TextLine ID="line_15"
+                    TAGREFS="LT74"
+                    BASELINE="736 1888 2544 1888" 
+                    HPOS="736"
+                    VPOS="1848"
+                    WIDTH="1812"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="736 1870 2544 1848 2548 1907 741 1929"/></Shape>
+	    <String CONTENT="поверьхности здѣлаются нечувствительны. И такъ"
+                    HPOS="736"
+                    VPOS="1848"
+                    WIDTH="1812"
+                    HEIGHT="81"></String>
+          </TextLine>
+          <TextLine ID="line_16"
+                    TAGREFS="LT74"
+                    BASELINE="740 1972 2540 1972" 
+                    HPOS="740"
+                    VPOS="1934"
+                    WIDTH="1802"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="740 1944 2540 1934 2542 2001 743 2012"/></Shape>
+	    <String CONTENT="положа что земля есть шаръ совершенной, избѣ-"
+                    HPOS="740"
+                    VPOS="1934"
+                    WIDTH="1802"
+                    HEIGHT="78"></String>
+          </TextLine>
+          <TextLine ID="line_17"
+                    TAGREFS="LT74"
+                    BASELINE="738 2062 2540 2062" 
+                    HPOS="738"
+                    VPOS="2024"
+                    WIDTH="1804"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="738 2031 2540 2024 2542 2094 740 2101"/></Shape>
+	    <String CONTENT="жимъ долгихъ, трудныхъ и безполезныхъ выкладокъ,"
+                    HPOS="738"
+                    VPOS="2024"
+                    WIDTH="1804"
+                    HEIGHT="77"></String>
+          </TextLine>
+          <TextLine ID="line_18"
+                    TAGREFS="LT74"
+                    BASELINE="742 2153 2544 2153" 
+                    HPOS="742"
+                    VPOS="2119"
+                    WIDTH="1802"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="742 2119 2544 2119 2544 2187 742 2187"/></Shape>
+	    <String CONTENT="и приближимся къ истинной точности не меньше"
+                    HPOS="742"
+                    VPOS="2119"
+                    WIDTH="1802"
+                    HEIGHT="68"></String>
+          </TextLine>
+          <TextLine ID="line_19"
+                    TAGREFS="LT74"
+                    BASELINE="739 2243 2554 2243" 
+                    HPOS="739"
+                    VPOS="2210"
+                    WIDTH="1815"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="739 2210 2554 2210 2554 2276 739 2276"/></Shape>
+	    <String CONTENT="какъ бы и подлинной фигуры земной довело разсу-"
+                    HPOS="739"
+                    VPOS="2210"
+                    WIDTH="1815"
+                    HEIGHT="66"></String>
+          </TextLine>
+          <TextLine ID="line_20"
+                    TAGREFS="LT74"
+                    BASELINE="737 2326 994 2326" 
+                    HPOS="737"
+                    VPOS="2295"
+                    WIDTH="260"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="737 2297 994 2295 997 2356 740 2358"/></Shape>
+	    <String CONTENT="жденїе."
+                    HPOS="737"
+                    VPOS="2295"
+                    WIDTH="260"
+                    HEIGHT="63"></String>
+          </TextLine>
+          <TextLine ID="line_21"
+                    TAGREFS="LT83"
+                    BASELINE="1223 2457 2049 2457" 
+                    HPOS="1223"
+                    VPOS="2414"
+                    WIDTH="829"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="1223 2418 2049 2414 2052 2497 1226 2501"/></Shape>
+	    <String CONTENT="ПРИМѢЧАНІЕ ІІ."
+                    HPOS="1223"
+                    VPOS="2414"
+                    WIDTH="829"
+                    HEIGHT="87"></String>
+          </TextLine>
+          <TextLine ID="line_22"
+                    TAGREFS="LT77"
+                    BASELINE="894 2583 2544 2583" 
+                    HPOS="894"
+                    VPOS="2546"
+                    WIDTH="1650"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="894 2546 2544 2549 2544 2620 894 2618"/></Shape>
+	    <String CONTENT="232. Уровень не показываетъ въ самомъ дѣлѣ"
+                    HPOS="894"
+                    VPOS="2546"
+                    WIDTH="1650"
+                    HEIGHT="74"></String>
+          </TextLine>
+          <TextLine ID="line_23"
+                    TAGREFS="LT74"
+                    BASELINE="737 2678 2552 2678" 
+                    HPOS="735"
+                    VPOS="2642"
+                    WIDTH="1817"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="737 2642 2552 2651 2550 2714 735 2706"/></Shape>
+	    <String CONTENT="касательную линею большаго круга шара земнаго,"
+                    HPOS="735"
+                    VPOS="2642"
+                    WIDTH="1817"
+                    HEIGHT="72"></String>
+          </TextLine>
+          <TextLine ID="line_24"
+                    TAGREFS="LT74"
+                    BASELINE="738 2766 2546 2766" 
+                    HPOS="735"
+                    VPOS="2726"
+                    WIDTH="1811"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="738 2726 2546 2742 2542 2807 735 2791"/></Shape>
+	    <String CONTENT="положа что земля шаръ совершенно круглой, но"
+                    HPOS="735"
+                    VPOS="2726"
+                    WIDTH="1811"
+                    HEIGHT="81"></String>
+          </TextLine>
+          <TextLine ID="line_25"
+                    TAGREFS="LT74"
+                    BASELINE="746 2854 2552 2854" 
+                    HPOS="742"
+                    VPOS="2813"
+                    WIDTH="1810"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="746 2813 2552 2832 2547 2896 742 2876"/></Shape>
+	    <String CONTENT="касательную линею нѣкотораго продолговатаго"
+                    HPOS="742"
+                    VPOS="2813"
+                    WIDTH="1810"
+                    HEIGHT="83"></String>
+          </TextLine>
+          <TextLine ID="line_26"
+                    TAGREFS="LT74"
+                    BASELINE="738 2944 2548 2944" 
+                    HPOS="734"
+                    VPOS="2902"
+                    WIDTH="1814"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="738 2902 2548 2917 2544 2986 734 2971"/></Shape>
+	    <String CONTENT="круга, какой даетъ подлинная фигура земли; но"
+                    HPOS="734"
+                    VPOS="2902"
+                    WIDTH="1814"
+                    HEIGHT="84"></String>
+          </TextLine>
+          <TextLine ID="line_27"
+                    TAGREFS="LT74"
+                    BASELINE="742 3030 2532 3030" 
+                    HPOS="741"
+                    VPOS="2995"
+                    WIDTH="1791"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="742 2995 2532 3001 2530 3066 741 3060"/></Shape>
+	    <String CONTENT="какъ оные круги весьма мало разнствуютъ меж-"
+                    HPOS="741"
+                    VPOS="2995"
+                    WIDTH="1791"
+                    HEIGHT="71"></String>
+          </TextLine>
+          <TextLine ID="line_28"
+                    TAGREFS="LT74"
+                    BASELINE="745 3115 2534 3115" 
+                    HPOS="743"
+                    VPOS="3082"
+                    WIDTH="1791"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="745 3082 2534 3088 2533 3149 743 3143"/></Shape>
+	    <String CONTENT="ду собою, то и положенїе касательныхъ ли-"
+                    HPOS="743"
+                    VPOS="3082"
+                    WIDTH="1791"
+                    HEIGHT="67"></String>
+          </TextLine>
+          <TextLine ID="line_29"
+                    TAGREFS="LT74"
+                    BASELINE="740 3202 2539 3202" 
+                    HPOS="739"
+                    VPOS="3165"
+                    WIDTH="1800"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="740 3165 2539 3169 2538 3240 739 3236"/></Shape>
+	    <String CONTENT="ней почти одинакое, а тѣмъ больше что въ"
+                    HPOS="739"
+                    VPOS="3165"
+                    WIDTH="1800"
+                    HEIGHT="75"></String>
+          </TextLine>
+          <TextLine ID="line_30"
+                    TAGREFS="LT72"
+                    BASELINE="2295 3298 2531 3298" 
+                    HPOS="2295.0"
+                    VPOS="3267.0"
+                    WIDTH="247.0"
+                    HEIGHT="62.0">
+            <Shape><Polygon POINTS="2295 3274 2531 3267 2542 3322 2306 3329"/></Shape>
+	    <String CONTENT="разсу-"
+                    HPOS="2295.0"
+                    VPOS="3267.0"
+                    WIDTH="247.0"
+                    HEIGHT="62.0"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1350.0"
+                   VPOS="496.0"
+                   WIDTH="563.0"
+                   HEIGHT="131.0"
+                   ID="eSc_textblock_9643a7a5"
+                   TAGREFS="BT135">
+          <Shape><Polygon POINTS="1350 496 1350 627 1913 627 1913 496"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

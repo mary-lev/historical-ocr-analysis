@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>ac61b6bc1421.jpeg</fileName>
+      <fileIdentifier>mets//mets.zip/ac61b6bc1421.jpeg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT134" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT137" LABEL="MarginTextZone:outer" DESCRIPTION="block type MarginTextZone:outer"/><OtherTag ID="BT135" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT138" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT2" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT136" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT50" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/>
+    <OtherTag ID="LT85" LABEL="CustomLine:divider" DESCRIPTION="line type CustomLine:divider"/><OtherTag ID="LT86" LABEL="CustomLine:onstage" DESCRIPTION="line type CustomLine:onstage"/><OtherTag ID="LT74" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT83" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT77" LABEL="CustomLine:paragraph_start" DESCRIPTION="line type CustomLine:paragraph_start"/><OtherTag ID="LT73" LABEL="CustomLine:signature" DESCRIPTION="line type CustomLine:signature"/><OtherTag ID="LT72" LABEL="CustomLine:catchword" DESCRIPTION="line type CustomLine:catchword"/><OtherTag ID="LT79" LABEL="CustomLine:verse" DESCRIPTION="line type CustomLine:verse"/><OtherTag ID="LT82" LABEL="CustomLine:speaker" DESCRIPTION="line type CustomLine:speaker"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="1650"
+          HEIGHT="2650"
+          PHYSICAL_IMG_NR="87"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1650"
+                  HEIGHT="2650">
+        <TextBlock HPOS="196.0"
+                   VPOS="291.0"
+                   WIDTH="1261.0"
+                   HEIGHT="2016.0"
+                   ID="eSc_textblock_8d01c885"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="196 291 196 2307 1457 2307 1457 291"/></Shape>
+          <TextLine ID="line_0"
+                    TAGREFS="LT74"
+                    BASELINE="257 344 1391 344" 
+                    HPOS="256"
+                    VPOS="308"
+                    WIDTH="1135"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="257 308 1391 324 1389 381 256 365"/></Shape>
+	    <String CONTENT="ные Командиры читать и толко-"
+                    HPOS="256"
+                    VPOS="308"
+                    WIDTH="1135"
+                    HEIGHT="73"></String>
+          </TextLine>
+          <TextLine ID="line_1"
+                    TAGREFS="LT74"
+                    BASELINE="256 434 1396 434" 
+                    HPOS="255"
+                    VPOS="399"
+                    WIDTH="1141"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="256 399 1396 408 1395 470 255 461"/></Shape>
+	    <String CONTENT="вать имѣютъ 27 артикулъ 3 главы"
+                    HPOS="255"
+                    VPOS="399"
+                    WIDTH="1141"
+                    HEIGHT="71"></String>
+          </TextLine>
+          <TextLine ID="line_2"
+                    TAGREFS="LT74"
+                    BASELINE="247 521 1395 521" 
+                    HPOS="245"
+                    VPOS="482"
+                    WIDTH="1150"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="247 482 1395 504 1393 560 245 539"/></Shape>
+	    <String CONTENT="наипаче втверживать и толковать"
+                    HPOS="245"
+                    VPOS="482"
+                    WIDTH="1150"
+                    HEIGHT="78"></String>
+          </TextLine>
+          <TextLine ID="line_3"
+                    TAGREFS="LT74"
+                    BASELINE="255 613 1387 613" 
+                    HPOS="253"
+                    VPOS="576"
+                    WIDTH="1134"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="255 576 1387 594 1385 650 253 631"/></Shape>
+	    <String CONTENT="всѣмъ своимъ подчиненнымъ. Въ"
+                    HPOS="253"
+                    VPOS="576"
+                    WIDTH="1134"
+                    HEIGHT="74"></String>
+          </TextLine>
+          <TextLine ID="line_4"
+                    TAGREFS="LT74"
+                    BASELINE="256 697 1399 697" 
+                    HPOS="254"
+                    VPOS="657"
+                    WIDTH="1145"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="256 657 1399 675 1397 737 254 719"/></Shape>
+	    <String CONTENT="слѣдствіе оной Субординаціи наблю-"
+                    HPOS="254"
+                    VPOS="657"
+                    WIDTH="1145"
+                    HEIGHT="80"></String>
+          </TextLine>
+          <TextLine ID="line_5"
+                    TAGREFS="LT74"
+                    BASELINE="254 789 1386 789" 
+                    HPOS="253"
+                    VPOS="755"
+                    WIDTH="1133"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="254 755 1386 765 1385 823 253 813"/></Shape>
+	    <String CONTENT="дать, чтобъ рядовой предъ Ефрей-"
+                    HPOS="253"
+                    VPOS="755"
+                    WIDTH="1133"
+                    HEIGHT="68"></String>
+          </TextLine>
+          <TextLine ID="line_6"
+                    TAGREFS="LT74"
+                    BASELINE="250 878 1389 878" 
+                    HPOS="249"
+                    VPOS="841"
+                    WIDTH="1140"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="250 841 1389 857 1388 915 249 900"/></Shape>
+	    <String CONTENT="тором, оной предъ Капраломъ, а"
+                    HPOS="249"
+                    VPOS="841"
+                    WIDTH="1140"
+                    HEIGHT="74"></String>
+          </TextLine>
+          <TextLine ID="line_7"
+                    TAGREFS="LT74"
+                    BASELINE="251 968 1383 968" 
+                    HPOS="251"
+                    VPOS="937"
+                    WIDTH="1132"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="251 937 1383 940 1383 1000 251 996"/></Shape>
+	    <String CONTENT="сей предъ старшимъ Сержантомъ,"
+                    HPOS="251"
+                    VPOS="937"
+                    WIDTH="1132"
+                    HEIGHT="63"></String>
+          </TextLine>
+          <TextLine ID="line_8"
+                    TAGREFS="LT74"
+                    BASELINE="239 1059 1384 1059" 
+                    HPOS="238"
+                    VPOS="1023"
+                    WIDTH="1146"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="239 1023 1384 1035 1382 1095 238 1084"/></Shape>
+	    <String CONTENT="и такъ далѣе, во всѣхъ чинахъ Роты,"
+                    HPOS="238"
+                    VPOS="1023"
+                    WIDTH="1146"
+                    HEIGHT="72"></String>
+          </TextLine>
+          <TextLine ID="line_9"
+                    TAGREFS="LT74"
+                    BASELINE="244 1148 1388 1148" 
+                    HPOS="242"
+                    VPOS="1109"
+                    WIDTH="1146"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="244 1109 1388 1130 1386 1188 242 1167"/></Shape>
+	    <String CONTENT="младшій предъ старшимъ во всѣхъ"
+                    HPOS="242"
+                    VPOS="1109"
+                    WIDTH="1146"
+                    HEIGHT="79"></String>
+          </TextLine>
+          <TextLine ID="line_10"
+                    TAGREFS="LT74"
+                    BASELINE="248 1236 1389 1236" 
+                    HPOS="246"
+                    VPOS="1201"
+                    WIDTH="1143"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="248 1201 1389 1213 1388 1271 246 1260"/></Shape>
+	    <String CONTENT="дѣлахъ по службѣ случающихся въ"
+                    HPOS="246"
+                    VPOS="1201"
+                    WIDTH="1143"
+                    HEIGHT="70"></String>
+          </TextLine>
+          <TextLine ID="line_11"
+                    TAGREFS="LT74"
+                    BASELINE="245 1323 1385 1323" 
+                    HPOS="244"
+                    VPOS="1288"
+                    WIDTH="1141"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="245 1288 1385 1298 1384 1358 244 1347"/></Shape>
+	    <String CONTENT="страхѣ, повиновеніи, покорномъ по-"
+                    HPOS="244"
+                    VPOS="1288"
+                    WIDTH="1141"
+                    HEIGHT="70"></String>
+          </TextLine>
+          <TextLine ID="line_12"
+                    TAGREFS="LT74"
+                    BASELINE="241 1412 1387 1412" 
+                    HPOS="239"
+                    VPOS="1376"
+                    WIDTH="1148"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="241 1376 1387 1391 1385 1448 239 1434"/></Shape>
+	    <String CONTENT="слушаніи и безмолвіи неотмѣнно"
+                    HPOS="239"
+                    VPOS="1376"
+                    WIDTH="1148"
+                    HEIGHT="72"></String>
+          </TextLine>
+          <TextLine ID="line_13"
+                    TAGREFS="LT74"
+                    BASELINE="240 1502 1384 1502" 
+                    HPOS="238"
+                    VPOS="1465"
+                    WIDTH="1146"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="240 1465 1384 1485 1382 1539 238 1519"/></Shape>
+	    <String CONTENT="всегда находился, а въ противномъ слу-"
+                    HPOS="238"
+                    VPOS="1465"
+                    WIDTH="1146"
+                    HEIGHT="74"></String>
+          </TextLine>
+          <TextLine ID="line_14"
+                    TAGREFS="LT74"
+                    BASELINE="237 1590 1385 1590" 
+                    HPOS="235"
+                    VPOS="1552"
+                    WIDTH="1150"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="237 1552 1385 1571 1384 1629 235 1610"/></Shape>
+	    <String CONTENT="чаѣ донеся по командѣ долженъ быть"
+                    HPOS="235"
+                    VPOS="1552"
+                    WIDTH="1150"
+                    HEIGHT="77"></String>
+          </TextLine>
+          <TextLine ID="line_15"
+                    TAGREFS="LT74"
+                    BASELINE="238 1679 1380 1679" 
+                    HPOS="236"
+                    VPOS="1641"
+                    WIDTH="1144"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="238 1641 1380 1660 1378 1718 236 1698"/></Shape>
+	    <String CONTENT="наказанъ; дабы примѣромъ одного"
+                    HPOS="236"
+                    VPOS="1641"
+                    WIDTH="1144"
+                    HEIGHT="77"></String>
+          </TextLine>
+          <TextLine ID="line_16"
+                    TAGREFS="LT74"
+                    BASELINE="237 1768 1392 1768" 
+                    HPOS="235"
+                    VPOS="1728"
+                    WIDTH="1157"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="237 1728 1392 1749 1390 1808 235 1787"/></Shape>
+	    <String CONTENT="всѣ прочіе воздержались. Младшій"
+                    HPOS="235"
+                    VPOS="1728"
+                    WIDTH="1157"
+                    HEIGHT="80"></String>
+          </TextLine>
+          <TextLine ID="line_17"
+                    TAGREFS="LT74"
+                    BASELINE="237 1858 1381 1858" 
+                    HPOS="235"
+                    VPOS="1819"
+                    WIDTH="1146"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="237 1819 1381 1841 1379 1898 235 1876"/></Shape>
+	    <String CONTENT="обязанной всегда бояться и почи-"
+                    HPOS="235"
+                    VPOS="1819"
+                    WIDTH="1146"
+                    HEIGHT="79"></String>
+          </TextLine>
+          <TextLine ID="line_18"
+                    TAGREFS="LT74"
+                    BASELINE="235 1951 1380 1951" 
+                    HPOS="234"
+                    VPOS="1914"
+                    WIDTH="1146"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="235 1914 1380 1932 1378 1989 234 1970"/></Shape>
+	    <String CONTENT="тать старшаго, не долженъ быть"
+                    HPOS="234"
+                    VPOS="1914"
+                    WIDTH="1146"
+                    HEIGHT="75"></String>
+          </TextLine>
+          <TextLine ID="line_19"
+                    TAGREFS="LT74"
+                    BASELINE="239 2040 1391 2040" 
+                    HPOS="237"
+                    VPOS="2001"
+                    WIDTH="1154"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="239 2001 1391 2024 1389 2080 237 2058"/></Shape>
+	    <String CONTENT="заставляемъ бить его, ибо онъ не"
+                    HPOS="237"
+                    VPOS="2001"
+                    WIDTH="1154"
+                    HEIGHT="79"></String>
+          </TextLine>
+          <TextLine ID="line_20"
+                    TAGREFS="LT74"
+                    BASELINE="235 2131 1386 2131" 
+                    HPOS="234"
+                    VPOS="2094"
+                    WIDTH="1152"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="235 2094 1386 2110 1385 2168 234 2152"/></Shape>
+	    <String CONTENT="можетъ внутренно почитать того,"
+                    HPOS="234"
+                    VPOS="2094"
+                    WIDTH="1152"
+                    HEIGHT="74"></String>
+          </TextLine>
+          <TextLine ID="line_21"
+                    TAGREFS="LT74"
+                    BASELINE="235 2221 1385 2221" 
+                    HPOS="233"
+                    VPOS="2181"
+                    WIDTH="1152"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="235 2181 1385 2200 1383 2261 233 2242"/></Shape>
+	    <String CONTENT="котораго бьетъ; хотя онъ сіе и"
+                    HPOS="233"
+                    VPOS="2181"
+                    WIDTH="1152"
+                    HEIGHT="80"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="740.0"
+                   VPOS="196.0"
+                   WIDTH="145.0"
+                   HEIGHT="73.0"
+                   ID="eSc_textblock_823d7310"
+                   TAGREFS="BT134">
+          <Shape><Polygon POINTS="740 196 740 269 885 269 885 196"/></Shape>
+          <TextLine ID="eSc_line_17ef2c94"
+                    TAGREFS="LT74"
+                    BASELINE="796 244 841 246" 
+                    HPOS="792"
+                    VPOS="183"
+                    WIDTH="47"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="795 242 792 258 834 267 839 245 839 189 795 183 795 242"/></Shape>
+	    <String CONTENT="4"
+                    HPOS="792"
+                    VPOS="183"
+                    WIDTH="47"
+                    HEIGHT="84"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>0e2a73f13785.jpeg</fileName>
+      <fileIdentifier>mets//mets.zip/0e2a73f13785.jpeg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT134" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT137" LABEL="MarginTextZone:outer" DESCRIPTION="block type MarginTextZone:outer"/><OtherTag ID="BT135" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT138" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT2" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT136" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT50" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/>
+    <OtherTag ID="LT85" LABEL="CustomLine:divider" DESCRIPTION="line type CustomLine:divider"/><OtherTag ID="LT86" LABEL="CustomLine:onstage" DESCRIPTION="line type CustomLine:onstage"/><OtherTag ID="LT74" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT83" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT77" LABEL="CustomLine:paragraph_start" DESCRIPTION="line type CustomLine:paragraph_start"/><OtherTag ID="LT73" LABEL="CustomLine:signature" DESCRIPTION="line type CustomLine:signature"/><OtherTag ID="LT72" LABEL="CustomLine:catchword" DESCRIPTION="line type CustomLine:catchword"/><OtherTag ID="LT79" LABEL="CustomLine:verse" DESCRIPTION="line type CustomLine:verse"/><OtherTag ID="LT82" LABEL="CustomLine:speaker" DESCRIPTION="line type CustomLine:speaker"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2200"
+          HEIGHT="3500"
+          PHYSICAL_IMG_NR="96"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2200"
+                  HEIGHT="3500">
+        <TextBlock HPOS="406.0"
+                   VPOS="270.0"
+                   WIDTH="237.0"
+                   HEIGHT="117.0"
+                   ID="eSc_textblock_45527b63"
+                   TAGREFS="BT134">
+          <Shape><Polygon POINTS="406 270 406 387 643 387 643 270"/></Shape>
+          <TextLine ID="line_0"
+                    TAGREFS="LT74"
+                    BASELINE="482 350 625 350" 
+                    HPOS="482"
+                    VPOS="316"
+                    WIDTH="143"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="482 316 625 316 625 385 482 385"/></Shape>
+	    <String CONTENT="330"
+                    HPOS="482"
+                    VPOS="316"
+                    WIDTH="143"
+                    HEIGHT="69"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="415.0"
+                   VPOS="415.0"
+                   WIDTH="1575.0"
+                   HEIGHT="1575.0"
+                   ID="eSc_textblock_fb9f2012"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="415 415 415 1990 1990 1990 1990 415"/></Shape>
+          <TextLine ID="line_1"
+                    TAGREFS="LT74"
+                    BASELINE="473 480 1911 480" 
+                    HPOS="467"
+                    VPOS="427"
+                    WIDTH="1444"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="473 427 1911 462 1906 533 467 499"/></Shape>
+	    <String CONTENT="чемъ известковатая земля селенита"
+                    HPOS="467"
+                    VPOS="427"
+                    WIDTH="1444"
+                    HEIGHT="106"></String>
+          </TextLine>
+          <TextLine ID="line_2"
+                    TAGREFS="LT74"
+                    BASELINE="470 584 1908 584" 
+                    HPOS="464"
+                    VPOS="532"
+                    WIDTH="1444"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="470 532 1908 568 1902 637 464 601"/></Shape>
+	    <String CONTENT="упадаетъ на дно , а масло не могши"
+                    HPOS="464"
+                    VPOS="532"
+                    WIDTH="1444"
+                    HEIGHT="105"></String>
+          </TextLine>
+          <TextLine ID="line_3"
+                    TAGREFS="LT74"
+                    BASELINE="464 687 1903 687" 
+                    HPOS="458"
+                    VPOS="634"
+                    WIDTH="1445"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="464 634 1903 671 1897 740 458 703"/></Shape>
+	    <String CONTENT="соединиться съ водою, разсѣвается въ"
+                    HPOS="458"
+                    VPOS="634"
+                    WIDTH="1445"
+                    HEIGHT="106"></String>
+          </TextLine>
+          <TextLine ID="line_4"
+                    TAGREFS="LT74"
+                    BASELINE="462 789 1930 789" 
+                    HPOS="456"
+                    VPOS="736"
+                    WIDTH="1474"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="462 736 1930 773 1925 843 456 806"/></Shape>
+	    <String CONTENT="видѣ маленькихъ звѣздочекъ, чему все-"
+                    HPOS="456"
+                    VPOS="736"
+                    WIDTH="1474"
+                    HEIGHT="107"></String>
+          </TextLine>
+          <TextLine ID="line_5"
+                    TAGREFS="LT74"
+                    BASELINE="464 889 1896 889" 
+                    HPOS="456"
+                    VPOS="830"
+                    WIDTH="1440"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="464 830 1896 875 1888 949 456 904"/></Shape>
+	    <String CONTENT="му и великому множеству другихъ"
+                    HPOS="456"
+                    VPOS="830"
+                    WIDTH="1440"
+                    HEIGHT="119"></String>
+          </TextLine>
+          <TextLine ID="line_6"
+                    TAGREFS="LT74"
+                    BASELINE="460 989 1938 989" 
+                    HPOS="456"
+                    VPOS="937"
+                    WIDTH="1482"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="460 937 1938 964 1933 1041 456 1013"/></Shape>
+	    <String CONTENT="подобныхъ явленїй ясно можно видѣть"
+                    HPOS="456"
+                    VPOS="937"
+                    WIDTH="1482"
+                    HEIGHT="104"></String>
+          </TextLine>
+          <TextLine ID="line_7"
+                    TAGREFS="LT74"
+                    BASELINE="461 1092 1631 1092" 
+                    HPOS="455"
+                    VPOS="1040"
+                    WIDTH="1176"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="461 1040 1631 1070 1625 1145 455 1115"/></Shape>
+	    <String CONTENT="причину въ слѣдующей Части."
+                    HPOS="455"
+                    VPOS="1040"
+                    WIDTH="1176"
+                    HEIGHT="105"></String>
+          </TextLine>
+          <TextLine ID="line_8"
+                    TAGREFS="LT77"
+                    BASELINE="845 1813 1491 1813" 
+                    HPOS="844"
+                    VPOS="1782"
+                    WIDTH="647"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="845 1782 1491 1785 1490 1844 844 1841"/></Shape>
+	    <String CONTENT="Конецъ третей Части."
+                    HPOS="844"
+                    VPOS="1782"
+                    WIDTH="647"
+                    HEIGHT="62"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

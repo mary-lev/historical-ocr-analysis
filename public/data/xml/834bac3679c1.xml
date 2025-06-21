@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>834bac3679c1.jpeg</fileName>
+      <fileIdentifier>mets//mets.zip/834bac3679c1.jpeg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT134" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT137" LABEL="MarginTextZone:outer" DESCRIPTION="block type MarginTextZone:outer"/><OtherTag ID="BT135" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT138" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT2" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT136" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT50" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/>
+    <OtherTag ID="LT85" LABEL="CustomLine:divider" DESCRIPTION="line type CustomLine:divider"/><OtherTag ID="LT86" LABEL="CustomLine:onstage" DESCRIPTION="line type CustomLine:onstage"/><OtherTag ID="LT74" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT83" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT77" LABEL="CustomLine:paragraph_start" DESCRIPTION="line type CustomLine:paragraph_start"/><OtherTag ID="LT73" LABEL="CustomLine:signature" DESCRIPTION="line type CustomLine:signature"/><OtherTag ID="LT72" LABEL="CustomLine:catchword" DESCRIPTION="line type CustomLine:catchword"/><OtherTag ID="LT79" LABEL="CustomLine:verse" DESCRIPTION="line type CustomLine:verse"/><OtherTag ID="LT82" LABEL="CustomLine:speaker" DESCRIPTION="line type CustomLine:speaker"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="1000"
+          HEIGHT="1800"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1000"
+                  HEIGHT="1800">
+        <TextBlock HPOS="22.0"
+                   VPOS="140.0"
+                   WIDTH="886.0"
+                   HEIGHT="1179.0"
+                   ID="block_0"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="22 140 908 140 908 1319 22 1319"/></Shape>
+          <TextLine ID="line_0"
+                    TAGREFS="LT77"
+                    BASELINE="137 258 772 258" 
+                    HPOS="137"
+                    VPOS="165"
+                    WIDTH="635"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="137 165 772 165 772 258 137 258"/></Shape>
+	    <String CONTENT="ЕГО СІЯТЕЛЬСТВУ"
+                    HPOS="137"
+                    VPOS="165"
+                    WIDTH="635"
+                    HEIGHT="93"></String>
+          </TextLine>
+          <TextLine ID="line_1"
+                    TAGREFS="LT74"
+                    BASELINE="314 324 577 324" 
+                    HPOS="314"
+                    VPOS="245"
+                    WIDTH="263"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="314 245 577 245 577 324 314 324"/></Shape>
+	    <String CONTENT="КНЯЗЮ"
+                    HPOS="314"
+                    VPOS="245"
+                    WIDTH="263"
+                    HEIGHT="79"></String>
+          </TextLine>
+          <TextLine ID="line_2"
+                    TAGREFS="LT74"
+                    BASELINE="55 424 843 424" 
+                    HPOS="55"
+                    VPOS="311"
+                    WIDTH="788"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="55 311 843 311 843 424 55 424"/></Shape>
+	    <String CONTENT="АЛЕКСАНДРУ БОРИСОВИЧУ"
+                    HPOS="55"
+                    VPOS="311"
+                    WIDTH="788"
+                    HEIGHT="113"></String>
+          </TextLine>
+          <TextLine ID="line_3"
+                    TAGREFS="LT74"
+                    BASELINE="261 510 622 510" 
+                    HPOS="261"
+                    VPOS="412"
+                    WIDTH="361"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="261 412 622 412 622 510 261 510"/></Shape>
+	    <String CONTENT="КУРАКИНУ"
+                    HPOS="261"
+                    VPOS="412"
+                    WIDTH="361"
+                    HEIGHT="98"></String>
+          </TextLine>
+          <TextLine ID="line_4"
+                    TAGREFS="LT74"
+                    BASELINE="401 584 494 584" 
+                    HPOS="401"
+                    VPOS="506"
+                    WIDTH="93"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="401 506 494 506 494 584 401 584"/></Shape>
+	    <String CONTENT="ЕЯ"
+                    HPOS="401"
+                    VPOS="506"
+                    WIDTH="93"
+                    HEIGHT="78"></String>
+          </TextLine>
+          <TextLine ID="line_5"
+                    TAGREFS="LT74"
+                    BASELINE="93 668 802 668" 
+                    HPOS="93"
+                    VPOS="573"
+                    WIDTH="709"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="93 573 802 573 802 668 93 668"/></Shape>
+	    <String CONTENT="ІМПЕРАТОРСКАГО"
+                    HPOS="93"
+                    VPOS="573"
+                    WIDTH="709"
+                    HEIGHT="95"></String>
+          </TextLine>
+          <TextLine ID="line_6"
+                    TAGREFS="LT74"
+                    BASELINE="227 751 675 751" 
+                    HPOS="227"
+                    VPOS="663"
+                    WIDTH="448"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="227 663 675 663 675 751 227 751"/></Shape>
+	    <String CONTENT="ВЕЛИЧЕСТВА"
+                    HPOS="227"
+                    VPOS="663"
+                    WIDTH="448"
+                    HEIGHT="88"></String>
+          </TextLine>
+          <TextLine ID="line_7"
+                    TAGREFS="LT74"
+                    BASELINE="45 844 859 844" 
+                    HPOS="45"
+                    VPOS="738"
+                    WIDTH="814"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="45 738 859 738 859 844 45 844"/></Shape>
+	    <String CONTENT="САМОДЕРЖИЦЫ ВСЕРОССІЙСКІЯ"
+                    HPOS="45"
+                    VPOS="738"
+                    WIDTH="814"
+                    HEIGHT="106"></String>
+          </TextLine>
+          <TextLine ID="line_8"
+                    TAGREFS="LT74"
+                    BASELINE="157 914 744 914" 
+                    HPOS="157"
+                    VPOS="830"
+                    WIDTH="587"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="157 830 744 830 744 914 157 914"/></Shape>
+	    <String CONTENT="Дѣйствителному"
+                    HPOS="157"
+                    VPOS="830"
+                    WIDTH="587"
+                    HEIGHT="84"></String>
+          </TextLine>
+          <TextLine ID="line_9"
+                    TAGREFS="LT74"
+                    BASELINE="280 979 625 979" 
+                    HPOS="280"
+                    VPOS="898"
+                    WIDTH="345"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="280 898 625 898 625 979 280 979"/></Shape>
+	    <String CONTENT="КАМЕРГЕРУ,"
+                    HPOS="280"
+                    VPOS="898"
+                    WIDTH="345"
+                    HEIGHT="81"></String>
+          </TextLine>
+          <TextLine ID="line_10"
+                    TAGREFS="LT74"
+                    BASELINE="248 1137 646 1137" 
+                    HPOS="248"
+                    VPOS="1038"
+                    WIDTH="398"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="248 1038 646 1038 646 1137 248 1137"/></Shape>
+	    <String CONTENT="КАВАЛЕРУ"
+                    HPOS="248"
+                    VPOS="1038"
+                    WIDTH="398"
+                    HEIGHT="99"></String>
+          </TextLine>
+          <TextLine ID="line_11"
+                    TAGREFS="LT74"
+                    BASELINE="57 1236 859 1236" 
+                    HPOS="57"
+                    VPOS="1133"
+                    WIDTH="802"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="57 1133 859 1133 859 1236 57 1236"/></Shape>
+	    <String CONTENT="Ордена Святаго Александра."
+                    HPOS="57"
+                    VPOS="1133"
+                    WIDTH="802"
+                    HEIGHT="103"></String>
+          </TextLine>
+          <TextLine ID="line_12"
+                    TAGREFS="LT74"
+                    BASELINE="333 1305 580 1305" 
+                    HPOS="333"
+                    VPOS="1221"
+                    WIDTH="247"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="333 1221 580 1221 580 1305 333 1305"/></Shape>
+	    <String CONTENT="и прочая."
+                    HPOS="333"
+                    VPOS="1221"
+                    WIDTH="247"
+                    HEIGHT="84"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

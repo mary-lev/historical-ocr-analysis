@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>5cfd22e9932b.jpeg</fileName>
+      <fileIdentifier>mets//mets.zip/5cfd22e9932b.jpeg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT134" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT137" LABEL="MarginTextZone:outer" DESCRIPTION="block type MarginTextZone:outer"/><OtherTag ID="BT135" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT138" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT2" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT136" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT50" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/>
+    <OtherTag ID="LT85" LABEL="CustomLine:divider" DESCRIPTION="line type CustomLine:divider"/><OtherTag ID="LT86" LABEL="CustomLine:onstage" DESCRIPTION="line type CustomLine:onstage"/><OtherTag ID="LT74" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT83" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT77" LABEL="CustomLine:paragraph_start" DESCRIPTION="line type CustomLine:paragraph_start"/><OtherTag ID="LT73" LABEL="CustomLine:signature" DESCRIPTION="line type CustomLine:signature"/><OtherTag ID="LT72" LABEL="CustomLine:catchword" DESCRIPTION="line type CustomLine:catchword"/><OtherTag ID="LT79" LABEL="CustomLine:verse" DESCRIPTION="line type CustomLine:verse"/><OtherTag ID="LT82" LABEL="CustomLine:speaker" DESCRIPTION="line type CustomLine:speaker"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2000"
+          HEIGHT="3200"
+          PHYSICAL_IMG_NR="72"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2000"
+                  HEIGHT="3200">
+        <TextBlock HPOS="172.0"
+                   VPOS="162.0"
+                   WIDTH="152.0"
+                   HEIGHT="73.0"
+                   ID="eSc_textblock_79fb3117"
+                   TAGREFS="BT134">
+          <Shape><Polygon POINTS="172 162 172 235 324 235 324 162"/></Shape>
+          <TextLine ID="line_0"
+                    TAGREFS="LT74"
+                    BASELINE="203 195 305 195" 
+                    HPOS="203"
+                    VPOS="163"
+                    WIDTH="102"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="203 163 305 163 305 228 203 228"/></Shape>
+	    <String CONTENT="24"
+                    HPOS="203"
+                    VPOS="163"
+                    WIDTH="102"
+                    HEIGHT="65"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="186.0"
+                   VPOS="250.0"
+                   WIDTH="1551.0"
+                   HEIGHT="2606.0"
+                   ID="eSc_textblock_f4c3fcb5"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="186 250 186 2856 1737 2856 1737 250"/></Shape>
+          <TextLine ID="line_1"
+                    TAGREFS="LT74"
+                    BASELINE="203 280 1641 280" 
+                    HPOS="203"
+                    VPOS="252"
+                    WIDTH="1439"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="203 257 1641 252 1642 304 203 310"/></Shape>
+	    <String CONTENT="тамошнимъ Королемъ Навуходоносоромъ зово-"
+                    HPOS="203"
+                    VPOS="252"
+                    WIDTH="1439"
+                    HEIGHT="58"></String>
+          </TextLine>
+          <TextLine ID="line_3"
+                    TAGREFS="LT74"
+                    BASELINE="208 357 717 357" 
+                    HPOS="208"
+                    VPOS="329"
+                    WIDTH="511"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="208 335 717 329 719 379 210 385"/></Shape>
+	    <String CONTENT="мымъ великимъ."
+                    HPOS="208"
+                    VPOS="329"
+                    WIDTH="511"
+                    HEIGHT="56"></String>
+          </TextLine>
+          <TextLine ID="line_4"
+                    TAGREFS="LT77"
+                    BASELINE="246 435 1646 435" 
+                    HPOS="246"
+                    VPOS="409"
+                    WIDTH="1400"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="246 409 1646 409 1646 462 246 462"/></Shape>
+	    <String CONTENT="5 Іудея наименованїе получила по возраще-"
+                    HPOS="246"
+                    VPOS="409"
+                    WIDTH="1400"
+                    HEIGHT="53"></String>
+          </TextLine>
+          <TextLine ID="line_5"
+                    TAGREFS="LT74"
+                    BASELINE="209 511 1646 511" 
+                    HPOS="209"
+                    VPOS="481"
+                    WIDTH="1438"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="209 488 1646 481 1647 535 210 541"/></Shape>
+	    <String CONTENT="нїи Израильтянъ въ свою землю изъ плѣну"
+                    HPOS="209"
+                    VPOS="481"
+                    WIDTH="1438"
+                    HEIGHT="60"></String>
+          </TextLine>
+          <TextLine ID="line_6"
+                    TAGREFS="LT74"
+                    BASELINE="209 587 1646 587" 
+                    HPOS="209"
+                    VPOS="554"
+                    WIDTH="1438"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="209 567 1646 554 1647 608 210 621"/></Shape>
+	    <String CONTENT="Вавилонскаго, откуда ихъ освободилъ Киръ"
+                    HPOS="209"
+                    VPOS="554"
+                    WIDTH="1438"
+                    HEIGHT="67"></String>
+          </TextLine>
+          <TextLine ID="line_7"
+                    TAGREFS="LT74"
+                    BASELINE="210 662 1647 662" 
+                    HPOS="209"
+                    VPOS="631"
+                    WIDTH="1438"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="210 631 1647 637 1646 694 209 688"/></Shape>
+	    <String CONTENT="Король Персидской: а названа такъ по тому,"
+                    HPOS="209"
+                    VPOS="631"
+                    WIDTH="1438"
+                    HEIGHT="63"></String>
+          </TextLine>
+          <TextLine ID="line_8"
+                    TAGREFS="LT74"
+                    BASELINE="198 739 1654 739" 
+                    HPOS="198"
+                    VPOS="713"
+                    WIDTH="1457"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="198 716 1654 713 1655 762 198 766"/></Shape>
+	    <String CONTENT="что большая часть людей, возвратившихся от-"
+                    HPOS="198"
+                    VPOS="713"
+                    WIDTH="1457"
+                    HEIGHT="53"></String>
+          </TextLine>
+          <TextLine ID="line_9"
+                    TAGREFS="LT74"
+                    BASELINE="209 814 1653 814" 
+                    HPOS="209"
+                    VPOS="786"
+                    WIDTH="1444"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="209 792 1653 786 1653 836 210 842"/></Shape>
+	    <String CONTENT="туда, состояла изъ поколѣнїя Іудова, то есть"
+                    HPOS="209"
+                    VPOS="786"
+                    WIDTH="1444"
+                    HEIGHT="56"></String>
+          </TextLine>
+          <TextLine ID="line_10"
+                    TAGREFS="LT74"
+                    BASELINE="207 886 1399 886" 
+                    HPOS="207"
+                    VPOS="855"
+                    WIDTH="1193"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="207 865 1399 855 1400 908 208 918"/></Shape>
+	    <String CONTENT="по большинству Іудовыхъ потомковъ."
+                    HPOS="207"
+                    VPOS="855"
+                    WIDTH="1193"
+                    HEIGHT="63"></String>
+          </TextLine>
+          <TextLine ID="line_12"
+                    TAGREFS="LT77"
+                    BASELINE="290 1044 1660 1044" 
+                    HPOS="290"
+                    VPOS="1013"
+                    WIDTH="1370"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="290 1013 1660 1013 1660 1076 290 1076"/></Shape>
+	    <String CONTENT="6 Палестина по тому, что Греки и Римляне"
+                    HPOS="290"
+                    VPOS="1013"
+                    WIDTH="1370"
+                    HEIGHT="63"></String>
+          </TextLine>
+          <TextLine ID="line_13"
+                    TAGREFS="LT74"
+                    BASELINE="176 1125 1665 1125" 
+                    HPOS="176"
+                    VPOS="1097"
+                    WIDTH="1489"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="176 1097 1665 1097 1665 1153 176 1153"/></Shape>
+	    <String CONTENT="плавая по морямъ, узнали Палестинцовъ или Фи-"
+                    HPOS="176"
+                    VPOS="1097"
+                    WIDTH="1489"
+                    HEIGHT="56"></String>
+          </TextLine>
+          <TextLine ID="line_14"
+                    TAGREFS="LT74"
+                    BASELINE="221 1203 1668 1203" 
+                    HPOS="221"
+                    VPOS="1174"
+                    WIDTH="1447"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="221 1174 1668 1177 1668 1233 221 1229"/></Shape>
+	    <String CONTENT="листимлянъ и назвали такъ всю сосѣднюю землю."
+                    HPOS="221"
+                    VPOS="1174"
+                    WIDTH="1447"
+                    HEIGHT="59"></String>
+          </TextLine>
+          <TextLine ID="line_15"
+                    TAGREFS="LT77"
+                    BASELINE="294 1353 1673 1353" 
+                    HPOS="294"
+                    VPOS="1326"
+                    WIDTH="1379"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="294 1328 1673 1326 1673 1378 295 1380"/></Shape>
+	    <String CONTENT="7. Святая земля такъ названа Христїанами"
+                    HPOS="294"
+                    VPOS="1326"
+                    WIDTH="1379"
+                    HEIGHT="54"></String>
+          </TextLine>
+          <TextLine ID="line_16"
+                    TAGREFS="LT74"
+                    BASELINE="223 1429 1668 1429" 
+                    HPOS="223"
+                    VPOS="1404"
+                    WIDTH="1445"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="223 1404 1668 1404 1668 1455 223 1455"/></Shape>
+	    <String CONTENT="то тому, что тамъ Спаситель нашъ Христосъ"
+                    HPOS="223"
+                    VPOS="1404"
+                    WIDTH="1445"
+                    HEIGHT="51"></String>
+          </TextLine>
+          <TextLine ID="line_17"
+                    TAGREFS="LT74"
+                    BASELINE="226 1504 961 1504" 
+                    HPOS="226"
+                    VPOS="1477"
+                    WIDTH="736"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="226 1481 961 1477 962 1528 226 1532"/></Shape>
+	    <String CONTENT="творилъ великїя чудеса."
+                    HPOS="226"
+                    VPOS="1477"
+                    WIDTH="736"
+                    HEIGHT="55"></String>
+          </TextLine>
+          <TextLine ID="line_20"
+                    TAGREFS="LT77"
+                    BASELINE="375 1665 1668 1665" 
+                    HPOS="374"
+                    VPOS="1638"
+                    WIDTH="1294"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="375 1638 1668 1641 1668 1692 374 1689"/></Shape>
+	    <String CONTENT="Семъ вышесказанные Хананейскїе роды суть"
+                    HPOS="374"
+                    VPOS="1638"
+                    WIDTH="1294"
+                    HEIGHT="54"></String>
+          </TextLine>
+          <TextLine ID="line_21"
+                    TAGREFS="LT74"
+                    BASELINE="223 1738 1667 1738" 
+                    HPOS="223"
+                    VPOS="1710"
+                    WIDTH="1444"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="223 1710 1667 1716 1666 1766 223 1760"/></Shape>
+	    <String CONTENT="1 Хеттеи, жившїе на полдень въ Хевронѣ; 2. Ам-"
+                    HPOS="223"
+                    VPOS="1710"
+                    WIDTH="1444"
+                    HEIGHT="56"></String>
+          </TextLine>
+          <TextLine ID="line_22"
+                    TAGREFS="LT74"
+                    BASELINE="228 1812 1675 1812" 
+                    HPOS="228"
+                    VPOS="1785"
+                    WIDTH="1447"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="228 1785 1675 1790 1674 1839 228 1834"/></Shape>
+	    <String CONTENT="мореи, бывшїе владѣльцы земли по ту сторону"
+                    HPOS="228"
+                    VPOS="1785"
+                    WIDTH="1447"
+                    HEIGHT="54"></String>
+          </TextLine>
+          <TextLine ID="line_23"
+                    TAGREFS="LT74"
+                    BASELINE="234 1883 1676 1883" 
+                    HPOS="234"
+                    VPOS="1854"
+                    WIDTH="1443"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="234 1863 1676 1854 1677 1903 235 1913"/></Shape>
+	    <String CONTENT="Іордана къ Востоку; 3. Гергесеи, жившїе подлѣ"
+                    HPOS="234"
+                    VPOS="1854"
+                    WIDTH="1443"
+                    HEIGHT="59"></String>
+          </TextLine>
+          <TextLine ID="line_24"
+                    TAGREFS="LT74"
+                    BASELINE="236 1955 1678 1955" 
+                    HPOS="236"
+                    VPOS="1927"
+                    WIDTH="1442"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="236 1927 1678 1932 1678 1984 236 1978"/></Shape>
+	    <String CONTENT="озера Геннисаретскаго; 4. Хананеи собственно"
+                    HPOS="236"
+                    VPOS="1927"
+                    WIDTH="1442"
+                    HEIGHT="57"></String>
+          </TextLine>
+          <TextLine ID="line_25"
+                    TAGREFS="LT74"
+                    BASELINE="235 2031 1680 2031" 
+                    HPOS="234"
+                    VPOS="2000"
+                    WIDTH="1446"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="235 2000 1680 2006 1679 2063 234 2057"/></Shape>
+	    <String CONTENT="такъ называемые, обитавшїе въ Сѣверномъ боку"
+                    HPOS="234"
+                    VPOS="2000"
+                    WIDTH="1446"
+                    HEIGHT="63"></String>
+          </TextLine>
+          <TextLine ID="line_26"
+                    TAGREFS="LT74"
+                    BASELINE="233 2111 1683 2111" 
+                    HPOS="233"
+                    VPOS="2079"
+                    WIDTH="1450"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="233 2079 1683 2085 1683 2143 233 2136"/></Shape>
+	    <String CONTENT="земли по сторону Іордана, лежащую къ Западу;"
+                    HPOS="233"
+                    VPOS="2079"
+                    WIDTH="1450"
+                    HEIGHT="64"></String>
+          </TextLine>
+          <TextLine ID="line_27"
+                    TAGREFS="LT74"
+                    BASELINE="229 2189 1684 2189" 
+                    HPOS="229"
+                    VPOS="2160"
+                    WIDTH="1456"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="229 2161 1684 2160 1685 2218 230 2220"/></Shape>
+	    <String CONTENT="5. Ферезеи занимали средину около Сихема; 6."
+                    HPOS="229"
+                    VPOS="2160"
+                    WIDTH="1456"
+                    HEIGHT="60"></String>
+          </TextLine>
+          <TextLine ID="line_28"
+                    TAGREFS="LT74"
+                    BASELINE="236 2267 1683 2267" 
+                    HPOS="236"
+                    VPOS="2235"
+                    WIDTH="1447"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="236 2235 1683 2241 1683 2299 236 2294"/></Shape>
+	    <String CONTENT="Евеи были на Сѣверной части подлѣ горы Ливана"
+                    HPOS="236"
+                    VPOS="2235"
+                    WIDTH="1447"
+                    HEIGHT="64"></String>
+          </TextLine>
+          <TextLine ID="line_29"
+                    TAGREFS="LT74"
+                    BASELINE="236 2344 1683 2344" 
+                    HPOS="236"
+                    VPOS="2313"
+                    WIDTH="1447"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="236 2313 1683 2318 1683 2375 236 2370"/></Shape>
+	    <String CONTENT="7. Евусеи въ срединѣ и около самаго Іерусалима,"
+                    HPOS="236"
+                    VPOS="2313"
+                    WIDTH="1447"
+                    HEIGHT="62"></String>
+          </TextLine>
+          <TextLine ID="line_30"
+                    TAGREFS="LT74"
+                    BASELINE="237 2423 1182 2423" 
+                    HPOS="237"
+                    VPOS="2389"
+                    WIDTH="947"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="237 2401 1182 2389 1184 2445 239 2457"/></Shape>
+	    <String CONTENT="кои назывались прежде Іевусъ."
+                    HPOS="237"
+                    VPOS="2389"
+                    WIDTH="947"
+                    HEIGHT="68"></String>
+          </TextLine>
+          <TextLine ID="line_31"
+                    TAGREFS="LT77"
+                    BASELINE="388 2519 1687 2519" 
+                    HPOS="387"
+                    VPOS="2488"
+                    WIDTH="1300"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="388 2488 1687 2493 1686 2551 387 2546"/></Shape>
+	    <String CONTENT="Оные всѣ жители побѣждены будучи Іису-"
+                    HPOS="387"
+                    VPOS="2488"
+                    WIDTH="1300"
+                    HEIGHT="63"></String>
+          </TextLine>
+          <TextLine ID="line_32"
+                    TAGREFS="LT74"
+                    BASELINE="255 2594 1683 2594" 
+                    HPOS="254"
+                    VPOS="2564"
+                    WIDTH="1429"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="255 2564 1683 2566 1683 2625 254 2622"/></Shape>
+	    <String CONTENT="сомъ Навиномъ, всю сїю землю отдали двана-"
+                    HPOS="254"
+                    VPOS="2564"
+                    WIDTH="1429"
+                    HEIGHT="61"></String>
+          </TextLine>
+          <TextLine ID="line_33"
+                    TAGREFS="LT74"
+                    BASELINE="248 2670 1690 2670" 
+                    HPOS="248"
+                    VPOS="2640"
+                    WIDTH="1442"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="248 2640 1690 2646 1689 2701 248 2695"/></Shape>
+	    <String CONTENT="десяти колѣнамъ Израилевымъ, которая послѣ"
+                    HPOS="248"
+                    VPOS="2640"
+                    WIDTH="1442"
+                    HEIGHT="61"></String>
+          </TextLine>
+          <TextLine ID="line_34"
+                    TAGREFS="LT74"
+                    BASELINE="245 2746 1692 2746" 
+                    HPOS="244"
+                    VPOS="2715"
+                    WIDTH="1448"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="245 2715 1692 2722 1691 2777 244 2771"/></Shape>
+	    <String CONTENT="и раздѣлена на тринатцать жеребьевъ или удѣ-"
+                    HPOS="244"
+                    VPOS="2715"
+                    WIDTH="1448"
+                    HEIGHT="62"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="761.0"
+                   VPOS="126.0"
+                   WIDTH="344.0"
+                   HEIGHT="84.0"
+                   ID="eSc_textblock_7f287036"
+                   TAGREFS="BT135">
+          <Shape><Polygon POINTS="761 126 761 210 1105 210 1105 126"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>6db985d4b616.jpeg</fileName>
+      <fileIdentifier>mets//mets.zip/6db985d4b616.jpeg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT134" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT137" LABEL="MarginTextZone:outer" DESCRIPTION="block type MarginTextZone:outer"/><OtherTag ID="BT135" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT138" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT2" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT136" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT50" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/>
+    <OtherTag ID="LT85" LABEL="CustomLine:divider" DESCRIPTION="line type CustomLine:divider"/><OtherTag ID="LT86" LABEL="CustomLine:onstage" DESCRIPTION="line type CustomLine:onstage"/><OtherTag ID="LT74" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT83" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT77" LABEL="CustomLine:paragraph_start" DESCRIPTION="line type CustomLine:paragraph_start"/><OtherTag ID="LT73" LABEL="CustomLine:signature" DESCRIPTION="line type CustomLine:signature"/><OtherTag ID="LT72" LABEL="CustomLine:catchword" DESCRIPTION="line type CustomLine:catchword"/><OtherTag ID="LT79" LABEL="CustomLine:verse" DESCRIPTION="line type CustomLine:verse"/><OtherTag ID="LT82" LABEL="CustomLine:speaker" DESCRIPTION="line type CustomLine:speaker"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="1700"
+          HEIGHT="2350"
+          PHYSICAL_IMG_NR="23"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1700"
+                  HEIGHT="2350">
+        <TextBlock HPOS="55.0"
+                   VPOS="0.0"
+                   WIDTH="1277.0"
+                   HEIGHT="705.0"
+                   ID="block_1"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="55 0 1332 0 1332 705 55 705"/></Shape>
+          <TextLine ID="line_0"
+                    TAGREFS="LT79"
+                    BASELINE="109 133 1081 133" 
+                    HPOS="109"
+                    VPOS="11"
+                    WIDTH="972"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="109 11 1081 11 1081 133 109 133"/></Shape>
+	    <String CONTENT="„Волшебны силы Геркулесъ сразитъ,"
+                    HPOS="109"
+                    VPOS="11"
+                    WIDTH="972"
+                    HEIGHT="122"></String>
+          </TextLine>
+          <TextLine ID="line_1"
+                    TAGREFS="LT79"
+                    BASELINE="111 201 997 201" 
+                    HPOS="111"
+                    VPOS="101"
+                    WIDTH="886"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="111 101 997 101 997 201 111 201"/></Shape>
+	    <String CONTENT="„Сторукихъ Вріареевъ побѣдитъ,"
+                    HPOS="111"
+                    VPOS="101"
+                    WIDTH="886"
+                    HEIGHT="100"></String>
+          </TextLine>
+          <TextLine ID="line_2"
+                    TAGREFS="LT79"
+                    BASELINE="111 274 1141 274" 
+                    HPOS="111"
+                    VPOS="161"
+                    WIDTH="1030"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="111 161 1141 161 1141 274 111 274"/></Shape>
+	    <String CONTENT="„ Титановъ яко легкій прахъ разсѣетъ,"
+                    HPOS="111"
+                    VPOS="161"
+                    WIDTH="1030"
+                    HEIGHT="113"></String>
+          </TextLine>
+          <TextLine ID="line_3"
+                    TAGREFS="LT79"
+                    BASELINE="114 347 1266 347" 
+                    HPOS="114"
+                    VPOS="239"
+                    WIDTH="1152"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="114 239 1266 239 1266 347 114 347"/></Shape>
+	    <String CONTENT="„Безсильны громы ихъ какъ пухъ развѣетъ,"
+                    HPOS="114"
+                    VPOS="239"
+                    WIDTH="1152"
+                    HEIGHT="108"></String>
+          </TextLine>
+          <TextLine ID="line_4"
+                    TAGREFS="LT79"
+                    BASELINE="114 423 1062 423" 
+                    HPOS="114"
+                    VPOS="317"
+                    WIDTH="948"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="114 317 1062 317 1062 423 114 423"/></Shape>
+	    <String CONTENT="„Коварны рати потребитъ мечемъ,"
+                    HPOS="114"
+                    VPOS="317"
+                    WIDTH="948"
+                    HEIGHT="106"></String>
+          </TextLine>
+          <TextLine ID="line_5"
+                    TAGREFS="LT79"
+                    BASELINE="112 493 1156 493" 
+                    HPOS="112"
+                    VPOS="389"
+                    WIDTH="1044"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="112 389 1156 389 1156 493 112 493"/></Shape>
+	    <String CONTENT="„И гибельныхъ слѣды пожжетъ огнемъ;"
+                    HPOS="112"
+                    VPOS="389"
+                    WIDTH="1044"
+                    HEIGHT="104"></String>
+          </TextLine>
+          <TextLine ID="line_6"
+                    TAGREFS="LT79"
+                    BASELINE="114 563 1139 563" 
+                    HPOS="114"
+                    VPOS="462"
+                    WIDTH="1025"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="114 462 1139 462 1139 563 114 563"/></Shape>
+	    <String CONTENT="„Сотретъ главы злодѣевъ горделивыхъ"
+                    HPOS="114"
+                    VPOS="462"
+                    WIDTH="1025"
+                    HEIGHT="101"></String>
+          </TextLine>
+          <TextLine ID="line_7"
+                    TAGREFS="LT79"
+                    BASELINE="112 634 1233 634" 
+                    HPOS="112"
+                    VPOS="536"
+                    WIDTH="1121"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="112 536 1233 536 1233 634 112 634"/></Shape>
+	    <String CONTENT="„Во узахъ тяжкихъ привлечетъ кичливыхъ,"
+                    HPOS="112"
+                    VPOS="536"
+                    WIDTH="1121"
+                    HEIGHT="98"></String>
+          </TextLine>
+          <TextLine ID="line_8"
+                    TAGREFS="LT79"
+                    BASELINE="109 722 1191 722" 
+                    HPOS="109"
+                    VPOS="608"
+                    WIDTH="1082"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="109 608 1191 608 1191 722 109 722"/></Shape>
+	    <String CONTENT="„Повергнетъ ихъ Минервы ко стопамъ."
+                    HPOS="109"
+                    VPOS="608"
+                    WIDTH="1082"
+                    HEIGHT="114"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="72.0"
+                   VPOS="1780.0"
+                   WIDTH="1463.0"
+                   HEIGHT="210.0"
+                   ID="block_2"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="72 1780 1535 1780 1535 1990 72 1990"/></Shape>
+          <TextLine ID="line_9"
+                    TAGREFS="LT74"
+                    BASELINE="395 1888 1181 1888" 
+                    HPOS="395"
+                    VPOS="1777"
+                    WIDTH="786"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="395 1777 1181 1777 1181 1888 395 1888"/></Shape>
+	    <String CONTENT="ВЪ САНКТПЕТЕРБУРГѢ,"
+                    HPOS="395"
+                    VPOS="1777"
+                    WIDTH="786"
+                    HEIGHT="111"></String>
+          </TextLine>
+          <TextLine ID="line_10"
+                    TAGREFS="LT74"
+                    BASELINE="102 1983 1480 1983" 
+                    HPOS="102"
+                    VPOS="1864"
+                    WIDTH="1378"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="102 1864 1480 1864 1480 1983 102 1983"/></Shape>
+	    <String CONTENT="печатано съ дозволенія Управы Благочиіня у І. К. Шнора. 1791."
+                    HPOS="102"
+                    VPOS="1864"
+                    WIDTH="1378"
+                    HEIGHT="119"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="513.0"
+                   VPOS="842.0"
+                   WIDTH="596.0"
+                   HEIGHT="677.0"
+                   ID="block_0"
+                   TAGREFS="BT135">
+          <Shape><Polygon POINTS="515 842 1109 842 1109 1519 513 1510"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

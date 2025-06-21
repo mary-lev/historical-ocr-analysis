@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>aecd60ab9a9c.jpeg</fileName>
+      <fileIdentifier>mets//mets.zip/aecd60ab9a9c.jpeg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT134" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT137" LABEL="MarginTextZone:outer" DESCRIPTION="block type MarginTextZone:outer"/><OtherTag ID="BT135" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT138" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT2" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT136" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT50" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/>
+    <OtherTag ID="LT85" LABEL="CustomLine:divider" DESCRIPTION="line type CustomLine:divider"/><OtherTag ID="LT86" LABEL="CustomLine:onstage" DESCRIPTION="line type CustomLine:onstage"/><OtherTag ID="LT74" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT83" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT77" LABEL="CustomLine:paragraph_start" DESCRIPTION="line type CustomLine:paragraph_start"/><OtherTag ID="LT73" LABEL="CustomLine:signature" DESCRIPTION="line type CustomLine:signature"/><OtherTag ID="LT72" LABEL="CustomLine:catchword" DESCRIPTION="line type CustomLine:catchword"/><OtherTag ID="LT79" LABEL="CustomLine:verse" DESCRIPTION="line type CustomLine:verse"/><OtherTag ID="LT82" LABEL="CustomLine:speaker" DESCRIPTION="line type CustomLine:speaker"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="297"
+          HEIGHT="491"
+          PHYSICAL_IMG_NR="41"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="297"
+                  HEIGHT="491">
+        <TextBlock HPOS="13.0"
+                   VPOS="34.0"
+                   WIDTH="279.0"
+                   HEIGHT="445.0"
+                   ID="block_0"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="13 34 292 34 292 479 13 479"/></Shape>
+          <TextLine ID="line_0"
+                    TAGREFS="LT74"
+                    BASELINE="21 59 244 59" 
+                    HPOS="21"
+                    VPOS="29"
+                    WIDTH="223"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="21 29 244 29 244 59 21 59"/></Shape>
+	    <String CONTENT="дая града шестьдесятъ верстъ."
+                    HPOS="21"
+                    VPOS="29"
+                    WIDTH="223"
+                    HEIGHT="30"></String>
+          </TextLine>
+          <TextLine ID="line_1"
+                    TAGREFS="LT77"
+                    BASELINE="46 75 284 75" 
+                    HPOS="46"
+                    VPOS="50"
+                    WIDTH="238"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="46 50 284 50 284 75 46 75"/></Shape>
+	    <String CONTENT="А выше града Судая съ другїя стра-"
+                    HPOS="46"
+                    VPOS="50"
+                    WIDTH="238"
+                    HEIGHT="25"></String>
+          </TextLine>
+          <TextLine ID="line_2"
+                    TAGREFS="LT74"
+                    BASELINE="22 92 285 92" 
+                    HPOS="22"
+                    VPOS="66"
+                    WIDTH="263"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="22 66 285 66 285 92 22 92"/></Shape>
+	    <String CONTENT="ны Виги рѣки сто верстѣ; а ниже Ко-"
+                    HPOS="22"
+                    VPOS="66"
+                    WIDTH="263"
+                    HEIGHT="26"></String>
+          </TextLine>
+          <TextLine ID="line_3"
+                    TAGREFS="LT74"
+                    BASELINE="23 112 286 112" 
+                    HPOS="23"
+                    VPOS="84"
+                    WIDTH="263"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="23 84 286 84 286 112 23 112"/></Shape>
+	    <String CONTENT="логрива потекла Унжа рѣка двѣсти"
+                    HPOS="23"
+                    VPOS="84"
+                    WIDTH="263"
+                    HEIGHT="28"></String>
+          </TextLine>
+          <TextLine ID="line_4"
+                    TAGREFS="LT74"
+                    BASELINE="22 126 170 126" 
+                    HPOS="22"
+                    VPOS="100"
+                    WIDTH="148"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="22 100 170 100 170 126 22 126"/></Shape>
+	    <String CONTENT="шестьдесятъ верстъ."
+                    HPOS="22"
+                    VPOS="100"
+                    WIDTH="148"
+                    HEIGHT="26"></String>
+          </TextLine>
+          <TextLine ID="line_5"
+                    TAGREFS="LT77"
+                    BASELINE="46 145 285 145" 
+                    HPOS="46"
+                    VPOS="114"
+                    WIDTH="239"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="46 114 285 114 285 145 46 145"/></Shape>
+	    <String CONTENT="А въ Унжу рѣку пала отъ Галича"
+                    HPOS="46"
+                    VPOS="114"
+                    WIDTH="239"
+                    HEIGHT="31"></String>
+          </TextLine>
+          <TextLine ID="line_6"
+                    TAGREFS="LT74"
+                    BASELINE="22 166 283 166" 
+                    HPOS="22"
+                    VPOS="137"
+                    WIDTH="261"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="22 137 283 137 283 166 22 166"/></Shape>
+	    <String CONTENT="рѣка Нея, противъ града Кадуя седмь-"
+                    HPOS="22"
+                    VPOS="137"
+                    WIDTH="261"
+                    HEIGHT="29"></String>
+          </TextLine>
+          <TextLine ID="line_7"
+                    TAGREFS="LT74"
+                    BASELINE="22 183 130 183" 
+                    HPOS="22"
+                    VPOS="154"
+                    WIDTH="108"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="22 154 130 154 130 183 22 183"/></Shape>
+	    <String CONTENT="десятъ верстъ."
+                    HPOS="22"
+                    VPOS="154"
+                    WIDTH="108"
+                    HEIGHT="29"></String>
+          </TextLine>
+          <TextLine ID="line_8"
+                    TAGREFS="LT77"
+                    BASELINE="51 194 284 194" 
+                    HPOS="51"
+                    VPOS="162"
+                    WIDTH="233"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="51 162 284 162 284 194 51 194"/></Shape>
+	    <String CONTENT="А на рѣкѣ на Неѣ градъ Пар-"
+                    HPOS="51"
+                    VPOS="162"
+                    WIDTH="233"
+                    HEIGHT="32"></String>
+          </TextLine>
+          <TextLine ID="line_9"
+                    TAGREFS="LT74"
+                    BASELINE="24 216 285 216" 
+                    HPOS="24"
+                    VPOS="186"
+                    WIDTH="261"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="24 186 285 186 285 216 24 216"/></Shape>
+	    <String CONTENT="ѳеньевъ; отъ Галича шестьдесятъ"
+                    HPOS="24"
+                    VPOS="186"
+                    WIDTH="261"
+                    HEIGHT="30"></String>
+          </TextLine>
+          <TextLine ID="line_10"
+                    TAGREFS="LT74"
+                    BASELINE="22 230 80 230" 
+                    HPOS="22"
+                    VPOS="204"
+                    WIDTH="58"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="22 204 80 204 80 230 22 230"/></Shape>
+	    <String CONTENT="верстъ."
+                    HPOS="22"
+                    VPOS="204"
+                    WIDTH="58"
+                    HEIGHT="26"></String>
+          </TextLine>
+          <TextLine ID="line_11"
+                    TAGREFS="LT77"
+                    BASELINE="47 242 285 242" 
+                    HPOS="47"
+                    VPOS="210"
+                    WIDTH="238"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="47 210 285 210 285 242 47 242"/></Shape>
+	    <String CONTENT="Въ рѣку жъ Унжу близко устья"
+                    HPOS="47"
+                    VPOS="210"
+                    WIDTH="238"
+                    HEIGHT="32"></String>
+          </TextLine>
+          <TextLine ID="line_12"
+                    TAGREFS="LT74"
+                    BASELINE="23 262 283 262" 
+                    HPOS="23"
+                    VPOS="233"
+                    WIDTH="260"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="23 233 283 233 283 262 23 262"/></Shape>
+	    <String CONTENT="пала рѣка Немда, а вытекла отъ Га-"
+                    HPOS="23"
+                    VPOS="233"
+                    WIDTH="260"
+                    HEIGHT="29"></String>
+          </TextLine>
+          <TextLine ID="line_13"
+                    TAGREFS="LT74"
+                    BASELINE="23 277 211 277" 
+                    HPOS="23"
+                    VPOS="250"
+                    WIDTH="188"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="23 250 211 250 211 277 23 277"/></Shape>
+	    <String CONTENT="лича за тридцать верстъ."
+                    HPOS="23"
+                    VPOS="250"
+                    WIDTH="188"
+                    HEIGHT="27"></String>
+          </TextLine>
+          <TextLine ID="line_14"
+                    TAGREFS="LT77"
+                    BASELINE="49 293 286 293" 
+                    HPOS="49"
+                    VPOS="258"
+                    WIDTH="237"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="49 258 286 258 286 293 49 293"/></Shape>
+	    <String CONTENT="А ниже Унжи рѣки восемьдесятъ"
+                    HPOS="49"
+                    VPOS="258"
+                    WIDTH="237"
+                    HEIGHT="35"></String>
+          </TextLine>
+          <TextLine ID="line_15"
+                    TAGREFS="LT74"
+                    BASELINE="22 313 284 313" 
+                    HPOS="22"
+                    VPOS="283"
+                    WIDTH="262"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="22 283 284 283 284 313 22 313"/></Shape>
+	    <String CONTENT="верстъ градъ Балахна, на рѣкѣ на Вол-"
+                    HPOS="22"
+                    VPOS="283"
+                    WIDTH="262"
+                    HEIGHT="30"></String>
+          </TextLine>
+          <TextLine ID="line_16"
+                    TAGREFS="LT74"
+                    BASELINE="23 326 177 326" 
+                    HPOS="23"
+                    VPOS="302"
+                    WIDTH="154"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="23 302 177 302 177 326 23 326"/></Shape>
+	    <String CONTENT="гѣ, на правомъ берегу."
+                    HPOS="23"
+                    VPOS="302"
+                    WIDTH="154"
+                    HEIGHT="24"></String>
+          </TextLine>
+          <TextLine ID="line_17"
+                    TAGREFS="LT77"
+                    BASELINE="49 340 286 340" 
+                    HPOS="49"
+                    VPOS="309"
+                    WIDTH="237"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="49 309 286 309 286 340 49 340"/></Shape>
+	    <String CONTENT="А ниже Балахны двадцать верстъ,"
+                    HPOS="49"
+                    VPOS="309"
+                    WIDTH="237"
+                    HEIGHT="31"></String>
+          </TextLine>
+          <TextLine ID="line_18"
+                    TAGREFS="LT74"
+                    BASELINE="22 357 287 357" 
+                    HPOS="22"
+                    VPOS="330"
+                    WIDTH="265"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="22 330 287 330 287 357 22 357"/></Shape>
+	    <String CONTENT="подъ Нижнимѣ Новымградомъ пала въ"
+                    HPOS="22"
+                    VPOS="330"
+                    WIDTH="265"
+                    HEIGHT="27"></String>
+          </TextLine>
+          <TextLine ID="line_19"
+                    TAGREFS="LT74"
+                    BASELINE="23 377 263 377" 
+                    HPOS="23"
+                    VPOS="350"
+                    WIDTH="240"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="23 350 263 350 263 377 23 377"/></Shape>
+	    <String CONTENT="Волгу рѣка Ока у Дятловыхъ горъ."
+                    HPOS="23"
+                    VPOS="350"
+                    WIDTH="240"
+                    HEIGHT="27"></String>
+          </TextLine>
+          <TextLine ID="line_20"
+                    TAGREFS="LT77"
+                    BASELINE="48 393 287 393" 
+                    HPOS="48"
+                    VPOS="368"
+                    WIDTH="239"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="48 368 287 368 287 393 48 393"/></Shape>
+	    <String CONTENT="А ниже Новаграда Нижняго на Волгѣ"
+                    HPOS="48"
+                    VPOS="368"
+                    WIDTH="239"
+                    HEIGHT="25"></String>
+          </TextLine>
+          <TextLine ID="line_21"
+                    TAGREFS="LT74"
+                    BASELINE="24 410 287 410" 
+                    HPOS="24"
+                    VPOS="384"
+                    WIDTH="263"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="24 384 287 384 287 410 24 410"/></Shape>
+	    <String CONTENT="на нагорной странѣ сто тридцать"
+                    HPOS="24"
+                    VPOS="384"
+                    WIDTH="263"
+                    HEIGHT="26"></String>
+          </TextLine>
+          <TextLine ID="line_22"
+                    TAGREFS="LT74"
+                    BASELINE="23 426 287 426" 
+                    HPOS="23"
+                    VPOS="402"
+                    WIDTH="264"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="23 402 287 402 287 426 23 426"/></Shape>
+	    <String CONTENT="верстъ Василь градъ; а подъ градомъ"
+                    HPOS="23"
+                    VPOS="402"
+                    WIDTH="264"
+                    HEIGHT="24"></String>
+          </TextLine>
+          <TextLine ID="line_23"
+                    TAGREFS="LT74"
+                    BASELINE="25 443 286 443" 
+                    HPOS="25"
+                    VPOS="418"
+                    WIDTH="261"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="25 418 286 418 286 443 25 443"/></Shape>
+	    <String CONTENT="подъ Василемъ съ вышнїя страны па-"
+                    HPOS="25"
+                    VPOS="418"
+                    WIDTH="261"
+                    HEIGHT="25"></String>
+          </TextLine>
+          <TextLine ID="line_24"
+                    TAGREFS="LT74"
+                    BASELINE="25 456 287 456" 
+                    HPOS="25"
+                    VPOS="435"
+                    WIDTH="262"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="25 435 287 435 287 456 25 456"/></Shape>
+	    <String CONTENT="ла въ Волгу рѣка Сура; а рѣка Сура"
+                    HPOS="25"
+                    VPOS="435"
+                    WIDTH="262"
+                    HEIGHT="21"></String>
+          </TextLine>
+          <TextLine ID="line_25"
+                    TAGREFS="LT72"
+                    BASELINE="257 477 286 477" 
+                    HPOS="257"
+                    VPOS="455"
+                    WIDTH="29"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="257 455 286 455 286 477 257 477"/></Shape>
+	    <String CONTENT="вы-"
+                    HPOS="257"
+                    VPOS="455"
+                    WIDTH="29"
+                    HEIGHT="22"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="106.0"
+                   VPOS="12.0"
+                   WIDTH="93.0"
+                   HEIGHT="23.0"
+                   ID="block_1"
+                   TAGREFS="BT134">
+          <Shape><Polygon POINTS="106 12 199 12 199 35 106 35"/></Shape>
+          <TextLine ID="line_26"
+                    TAGREFS="LT74"
+                    BASELINE="136 33 172 32" 
+                    HPOS="134"
+                    VPOS="12"
+                    WIDTH="37"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="153 12 153 12 152 12 134 12 135 32 135 36 171 36 171 31 170 17 160 17 158 15 154 12 153 12"/></Shape>
+	    <String CONTENT="150"
+                    HPOS="134"
+                    VPOS="12"
+                    WIDTH="37"
+                    HEIGHT="24"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
