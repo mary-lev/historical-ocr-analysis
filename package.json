@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "type": "module",
-  "homepage": "https://mary-lev.github.io/historical-ocr-analysis",
+  "homepage": "https://mary-lev.github.io/historical-ocr-analysis/",
   "description": "OCR Error Analysis and Visualization Tool for 18th Century Russian Civil Font",
   "scripts": {
     "dev": "vite",
