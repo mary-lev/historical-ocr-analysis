@@ -343,6 +343,7 @@ const DocumentAnalysisView = ({
   const [viewMode, setViewMode] = useState('overview'); // 'overview', 'line-detail'
   const [selectedModels, setSelectedModels] = useState([]);
   const [showComparison, setShowComparison] = useState(false);
+  const [bookMetadata, setBookMetadata] = useState(null);
 
   // Memoize modelNames to prevent infinite loops
   const modelNames = useMemo(() => {
@@ -372,6 +373,29 @@ const DocumentAnalysisView = ({
         : [...prev, modelName]
     );
   };
+
+  // Load book metadata for current document
+  useEffect(() => {
+    const loadBookMetadata = async () => {
+      if (!documentData?.documentId) return;
+      
+      try {
+        const basePath = import.meta.env.BASE_URL || './';
+        const response = await fetch(`${basePath}data/combined_dataset_1000_with_ocr_difficulty.json`);
+        if (!response.ok) return;
+        
+        const data = await response.json();
+        const book = data.books?.find(book => 
+          book.image_ids?.includes(documentData.documentId)
+        );
+        setBookMetadata(book);
+      } catch (error) {
+        console.error('Error loading book metadata:', error);
+      }
+    };
+
+    loadBookMetadata();
+  }, [documentData?.documentId]);
 
   // Auto-select first line when document loads
   React.useEffect(() => {
@@ -443,11 +467,47 @@ const DocumentAnalysisView = ({
               {/* Document Info */}
               <div className="bg-white p-4 rounded-lg shadow-sm">
                 <h3 className="text-lg font-semibold mb-3">Document Information</h3>
-                <div className="space-y-2 text-sm">
-                  <div><strong>ID:</strong> {documentData.documentId}</div>
-                  <div><strong>Lines:</strong> {documentData.altoData.textLines?.length || 0}</div>
-                  <div><strong>Image Size:</strong> {documentData.altoData.imageInfo?.width || 0} × {documentData.altoData.imageInfo?.height || 0}</div>
-                  <div><strong>Ground Truth Length:</strong> {documentData.groundTruth?.length || 0} characters</div>
+                <div className="space-y-3">
+                  {bookMetadata && (
+                    <div className="border-b pb-3 mb-3">
+                      <h4 className="font-medium text-green-700 mb-2">Book Details</h4>
+                      <div className="space-y-2 text-sm">
+                        <div><strong>Title:</strong> {bookMetadata.title}</div>
+                        <div><strong>Publication:</strong> {bookMetadata.publication_info}</div>
+                        <div><strong>Year:</strong> {bookMetadata.year}</div>
+                        <div><strong>Subject:</strong> <span className="capitalize">{bookMetadata.subject}</span></div>
+                        {bookMetadata.urls && bookMetadata.urls.length > 0 && (
+                          <div>
+                            <strong>View Original:</strong>{' '}
+                            <a 
+                              href={bookMetadata.urls[0]} 
+                              target="_blank" 
+                              rel="noopener noreferrer"
+                              className="text-blue-600 hover:text-blue-800 underline text-xs"
+                            >
+                              National Library of Russia
+                            </a>
+                          </div>
+                        )}
+                      </div>
+                    </div>
+                  )}
+                  
+                  <div>
+                    <h4 className="font-medium text-blue-700 mb-2">Technical Details</h4>
+                    <div className="space-y-2 text-sm">
+                      <div><strong>Document ID:</strong> {documentData.documentId}</div>
+                      <div><strong>Text Lines:</strong> {documentData.altoData.textLines?.length || 0}</div>
+                      <div><strong>Image Size:</strong> {documentData.altoData.imageInfo?.width || 0} × {documentData.altoData.imageInfo?.height || 0} pixels</div>
+                      <div><strong>Ground Truth:</strong> {documentData.groundTruth?.length || 0} characters</div>
+                      {bookMetadata && (
+                        <div>
+                          <strong>Image Quality:</strong>{' '}
+                          {bookMetadata.image_quality?.find(q => q.image_id === documentData.documentId)?.quality_label || 'N/A'}
+                        </div>
+                      )}
+                    </div>
+                  </div>
                 </div>
               </div>
 
